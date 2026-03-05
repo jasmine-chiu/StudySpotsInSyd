@@ -1,2 +1,0 @@
-# UNSWTimes
-WIP project
