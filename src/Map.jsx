@@ -9,9 +9,12 @@ const Map = () => {
 					<div className="page-title">
 						<h1>UNSW Buildings Map</h1>
 					</div>
-					<div className="map-toggle">
-						<button className="map-toggle-btn">Kensington Campus</button>
-						<button className="map-toggle-btn">Paddington Campus</button>
+					<div className="campus-toggle">
+						<button className="campus-toggle-btn">Kensington Campus</button>
+						<button className="campus-toggle-btn">Paddington Campus</button>
+					</div>
+					<div className="map-key">
+						{/* <button>show open</button> */}
 					</div>
 					<div className="map-model">
 						insert map

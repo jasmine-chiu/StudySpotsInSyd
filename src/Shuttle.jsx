@@ -47,8 +47,12 @@ const Shuttle = () => {
 						<div className="subtitle">
 							<h3>Shuttle Timetable</h3>
 						</div>
+						<div className="campus-toggle">
+							<button className="campus-toggle-btn">Kensington Campus</button>
+							<button className="campus-toggle-btn">Paddington Campus</button>
+						</div>
 						<div className="timetable">
-							
+
 						</div>
 					</div>
 				</div>
