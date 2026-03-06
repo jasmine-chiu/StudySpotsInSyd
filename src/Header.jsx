@@ -3,15 +3,15 @@ import { useNavigate, Link } from "react-router-dom"
 import placeholder from "./assets/placeholder.png"
 
 const Header = () => {
-    const navigate = useNavigate();
+    // const navigate = useNavigate();
     return (
         <>
             <header className="nav">
                 <div className="nav-bar">
                     <div className="nav-left">
                         <a href="/"><img id="logo" src={placeholder}/></a>
-                        <Link className="nav-btn" to="/">Info</Link>
                         <Link className="nav-btn" to="/map">Map</Link>
+                        <Link className="nav-btn" to="/buildings">All Buildings</Link>
                         <Link className="nav-btn" to="/shuttle">Shuttle Times</Link>
                     </div>
                     <div className="nav-search">

@@ -10,6 +10,7 @@ import {
 
 import Dash from "./Dash"
 import Map from "./Map"
+import Buildings from "./Buildings"
 import Shuttle from "./Shuttle"
 // import Header from "./Header"
 
@@ -20,6 +21,7 @@ const Pages = () => {
         <>
             <Routes>
                 <Route path="/" element={<Dash />} />
+                <Route path="/buildings" element={<Buildings />} />
                 <Route path="/map" element={<Map />} />
                 <Route path="/shuttle" element={<Shuttle />} />
             </Routes> 
