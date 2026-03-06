@@ -48,7 +48,18 @@ const Buildings = () => {
               </select>
             </div>
             <div className="building-blocks">
-
+              <div className="building-block-ex">
+                <h3>
+                  Building Name
+                </h3>
+                <div className="building-img">
+                  <img/>
+                </div>
+                <p>Otherwise known as: </p>
+                <p>Opening Hours: </p>
+                <p>Recommended Study Spaces: </p>
+                <p>Toilets: </p>
+              </div>
             </div>
           </div>
         </div>
