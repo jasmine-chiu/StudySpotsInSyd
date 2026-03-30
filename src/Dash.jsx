@@ -45,16 +45,16 @@ const Dash = () => {
                           <div className="block">
                               1
                               
-                              {/* UNSW MAIN MAP */}
-                              
-                              {/* have buttons be hover-over images w/ clear bg, w/ slight fade & shift animation --> */}
+                              {/* sydney map */}
                           </div>
                       </div>
                       <div className="block-container">
                           <div className="block">
                               2
                               
-                              {/* PADDINGTON MAP ------------- */}
+                              {/* UNSW MAIN MAP */}
+                              
+                              {/* have buttons be hover-over images w/ clear bg, w/ slight fade & shift animation --> */}
                           </div>
                       </div>
                       <div className="block-container">

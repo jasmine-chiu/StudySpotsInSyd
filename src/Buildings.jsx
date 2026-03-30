@@ -47,6 +47,7 @@ const Buildings = () => {
                 <option>Weekday/Weekend</option>
               </select>
             </div>
+
             <div className="building-blocks">
               <div className="building-block-ex">
                 <h3>
@@ -61,6 +62,8 @@ const Buildings = () => {
                 <p>Toilets: </p>
               </div>
             </div>
+
+            
           </div>
         </div>
 
