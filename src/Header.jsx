@@ -22,7 +22,7 @@ const Header = ({ isCompact = false }) => {
           <nav className="compact-nav">
             <Link className="nav-btn" to="/">Home</Link>
             <Link className="nav-btn" to="/map">Map</Link>
-            <Link className="nav-btn" to="/spots">UNSW</Link>
+            <Link className="nav-btn" to="/buildings">UNSW</Link>
           </nav>
         )}
       </div>

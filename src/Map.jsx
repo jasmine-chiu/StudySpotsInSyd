@@ -29,7 +29,7 @@ const Map = () => {
 				<div className="page">
 					<div className="page-top">
 						<div className="page-title">
-							<h1>Map of Spots in Sydney</h1>
+							<h1>Study Spots in Sydney</h1>
 						</div>
 					</div>
 					<div className="page-content">

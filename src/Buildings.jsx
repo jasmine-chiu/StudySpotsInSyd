@@ -23,7 +23,7 @@ const BuildingInfo = () => {
 const Buildings = () => {
     return (
       <> 
-        <Header />
+        <Header isCompact={true} />
         <div className="page">
           <div className="page-content">
             <div className="page-title">
