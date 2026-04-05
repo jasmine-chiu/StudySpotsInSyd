@@ -4,6 +4,13 @@ import mapboxgl from 'mapbox-gl';
 
 
 const Map = () => {
+	// const [filter, setFilter] = useState('All');
+
+	// const filteredSpots = studySpots.filter(spot => 
+  //   filter === 'All' || data.tags.includes(filter)
+	// );
+
+
 	const mapRef = useRef()
   	const mapContainerRef = useRef()
 
@@ -36,6 +43,9 @@ const Map = () => {
 						<div className="map-content">
 							<div className="map-key">
 								hello i need to fill this out with a relevant interactive key ;-;
+								1. has amenities
+								2. nearest spots
+								3. keywords?
 							</div>
       				<div className='map-container' ref={mapContainerRef}/>
 						</div>

@@ -23,7 +23,8 @@ html, body {
   width: 100%;
   font-size: 18px;
   font-family: RCB;
-  color: rgb(72, 72, 72);
+  color: #2C2D62;
+  background-color: #E2EAEC;
   display: flex;
   flex-direction: column;
   flex: 1;
@@ -275,10 +276,12 @@ a {
 .map-content {
 	display: flex;
 	flex-direction: row;
+    gap: 10px;
 }
 
 .map-key {
-	background-color: #9AA7FF;
+	background-color: #7775C5;
+    border: #9AA7FF 3px solid;
 	border-radius: 30px;
 	padding: 12px;
 }
@@ -288,8 +291,8 @@ a {
     border-radius: 30px;
     /* flex-grow: 1; */
 		/* flex-direction: column; */
-		height: 80vh;
-    width: 70%;
+	height: 80vh;
+    min-width: 70%;
     overflow: hidden;
 }
 
