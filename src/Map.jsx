@@ -10,17 +10,27 @@ const Map = () => {
 	// const [filter, setFilter] = useState('All');
 
 	// const filteredSpots = studySpots.filter(spot => 
-  //   filter === 'All' || data.tags.includes(filter)
+  	//   filter === 'All' || data.tags.includes(filter)
 	// );
 
 
 	const mapRef = useRef()
   	const mapContainerRef = useRef()
 
+	const loadImage = (map, url) => {
+		return new Promise((resolve, reject) => {
+			map.loadImage(url, (error, image) => {
+				if (error) reject(error);
+				else resolve(image);
+			});
+		});
+	};
+
 	useEffect(() => {
 		const MB_TOKEN = 'pk.eyJ1IjoianFzbWluYyIsImEiOiJjbW44bGF3MmcwYndvMnJwejI1ejd4NndqIn0.ts5PTb2BHeScF9oA3SSkfQ'
 		mapboxgl.accessToken = MB_TOKEN
 
+		// fix , probs increase
 		const bounds = [
       		[151.44807325836814, -34.08521058458822], 
         	[150.70621083451968, -33.65097998638358]
@@ -29,35 +39,85 @@ const Map = () => {
 		mapRef.current = new mapboxgl.Map({
 			container: mapContainerRef.current,
 			style: 'mapbox://styles/mapbox/light-v10', 
-			zoom: 12,
-			center: [151.2093, -33.8688],
-			maxBounds: bounds
+			zoom: 10,
+			center: [151.14882147065683, -33.8819969622573],
+			// maxBounds: bounds
 		}); 
 
 		const map = mapRef.current
 
-		map.on('load', () => {
-			map.addSource('data-src', {
-				'type': 'geojson',
-				'data': './data/studySpotsCafe.geojson'
-			});
+		map.on('load', async () => {
+			const icons = [
+            	{ name: 'cafe-icon', url: '/icons/cafe-icon.png' },
+           		{ name: 'cafe-icon-hover', url: '/icons/cafe-icon-hover.png' },
+        	];
 
-			map.addLayer({
-				id: 'spots-layer',
-				type: 'circle',
-				source: 'data-src',
-				paint: {
-					'circle-radius': 6,
-					'circle-color': '#FF6464',
-					'circle-stroke-width': 2,
-					'circle-stroke-color': '#ffffff'
-				}
-			});
-		})
+			try {
+				await Promise.all(
+					icons.map(async (icon) => {
+						const image = await loadImage(map, icon.url);
+						map.addImage(icon.name, image);
+					})
+				);
+
+				map.addSource('data-src', {
+					type: 'geojson',
+					data: './data/studySpotsCafe.geojson',
+					// promoteId does not work — manually add id later?
+					generateId: true
+				});
+
+				map.addLayer({
+					id: 'cafe-layer',
+					type: 'symbol',
+					source: 'data-src',
+					layout: {
+						'icon-image': 'cafe-icon',
+						'icon-size': 0.1,
+						'icon-allow-overlap': true
+					}
+					
+				});
+
+				map.addLayer({
+					id: 'cafe-hover-layer',
+					type: 'symbol',
+					source: 'data-src',
+					filter: ['==', ['id'], ''], 
+					layout: {
+						'icon-image': 'cafe-icon-hover',
+						'icon-size': 0.11, 
+						'icon-allow-overlap': true
+					}
+				});
+
+				// INTERACTIONS
+				
+				map.on('mousemove', 'cafe-layer', (e) => {
+					if (e.features && e.features.length > 0) {
+						const hoveredId = e.features[0].id;
+
+						if (hoveredId !== undefined && hoveredId !== null) {
+							map.setFilter('cafe-hover-layer', ['==', ['id'], hoveredId]);
+							map.getCanvas().style.cursor = 'pointer';
+						}
+					}
+				});
+
+				map.on('mouseleave', 'cafe-layer', () => {
+					map.setFilter('cafe-hover-layer', ['==', ['id'], '']);
+					map.getCanvas().style.cursor = '';
+				});
 			
+			} catch (err) {
+            	console.error("Error loading icons:", err);
+			};
+		})
+
 		return () => {
-      		mapRef.current.remove()
+      		map.remove()
     	}
+		
   	}, []);
 
 	return (
@@ -70,6 +130,11 @@ const Map = () => {
 						</div>
 					</div>
 					<div className="page-content">
+						<div className="instruction-container">
+							<p>Mobile: </p>
+							<p>Mouse: </p>
+							<p>Trackpad:</p>
+						</div>
 						<div className="map-content">
 							<div className="map-key">
 								hello i need to fill this out with a relevant interactive key ;-;
@@ -77,7 +142,7 @@ const Map = () => {
 								2. nearest spots
 								3. keywords?
 							</div>
-      				<div className='map-container' ref={mapContainerRef}/>
+      					<div className='map-container' ref={mapContainerRef}/>
 						</div>
 					</div>
 				</div>
