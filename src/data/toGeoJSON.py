@@ -42,6 +42,8 @@ def csv_to_geojson(input_file):
     with open(output_file, 'w') as f:
         json.dump(geojson, f, indent=2)
 
+    print(f" Completed")
+
 def coords_from_url(url:str):
     match = re.search(r'@(-?\d+\.\d+),(-?\d+\.\d+)', url)
     if match:
