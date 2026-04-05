@@ -3,6 +3,10 @@ import json
 import re
 import sys
 
+# as long as col title is "link",
+# google maps link is parsed &
+# formats geoJSON w/ coord = [lat, lng]
+
 def csv_to_geojson(input_file):
     output_file = input_file.replace('.csv', '.geojson')
     link_col = 'link'
@@ -54,7 +58,5 @@ def coords_from_url(url:str):
         return float(match.group(1)), float(match.group(2))
 
     return None
-
-
 
 csv_to_geojson(sys.argv[1])

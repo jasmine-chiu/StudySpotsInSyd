@@ -1,6 +1,9 @@
 import Header from "./Header"
 import { useEffect, useRef } from 'react';
 import mapboxgl from 'mapbox-gl';
+import 'mapbox-gl/dist/mapbox-gl.css';
+
+
 
 
 const Map = () => {
@@ -15,16 +18,43 @@ const Map = () => {
   	const mapContainerRef = useRef()
 
 	useEffect(() => {
-		const MB_TOKEN = "pk.eyJ1IjoianFzbWluYyIsImEiOiJjbW44bGF3MmcwYndvMnJwejI1ejd4NndqIn0.ts5PTb2BHeScF9oA3SSkfQ"
+		const MB_TOKEN = 'pk.eyJ1IjoianFzbWluYyIsImEiOiJjbW44bGF3MmcwYndvMnJwejI1ejd4NndqIn0.ts5PTb2BHeScF9oA3SSkfQ'
 		mapboxgl.accessToken = MB_TOKEN
+
+		const bounds = [
+      		[151.44807325836814, -34.08521058458822], 
+        	[150.70621083451968, -33.65097998638358]
+    	];
 		
 		mapRef.current = new mapboxgl.Map({
-			 container: mapContainerRef.current,
-			 style: 'mapbox://styles/mapbox/light-v10', 
-			 zoom: 11,
-			 center: [151.2093, -33.8688]
+			container: mapContainerRef.current,
+			style: 'mapbox://styles/mapbox/light-v10', 
+			zoom: 12,
+			center: [151.2093, -33.8688],
+			maxBounds: bounds
 		}); 
-	  	
+
+		const map = mapRef.current
+
+		map.on('load', () => {
+			map.addSource('data-src', {
+				'type': 'geojson',
+				'data': './data/studySpotsCafe.geojson'
+			});
+
+			map.addLayer({
+				id: 'spots-layer',
+				type: 'circle',
+				source: 'data-src',
+				paint: {
+					'circle-radius': 6,
+					'circle-color': '#FF6464',
+					'circle-stroke-width': 2,
+					'circle-stroke-color': '#ffffff'
+				}
+			});
+		})
+			
 		return () => {
       		mapRef.current.remove()
     	}
