@@ -273,6 +273,8 @@ a {
   display: none;   
 }
 
+/* MAP ! */
+
 .map-content {
 	display: flex;
 	flex-direction: row;
@@ -294,6 +296,15 @@ a {
 	height: 80vh;
     min-width: 70%;
     overflow: hidden;
+}
+
+.map-overlay-container {
+    position: absolute;
+    z-index: 5;
+    display: inline;
+    background-color: white;
+    padding: 10px;
+    border-radius: 3px
 }
 
 @media (max-width: 832px) {

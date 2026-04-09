@@ -12,6 +12,7 @@
       },
       "properties": {
         "name": "August Coffee",
+        "id": "august-coffee",
         "area": "iw",
         "suburb": "North Strathfield",
         "type": "cafe",
@@ -19,7 +20,8 @@
         "has-wifi": "TRUE",
         "has-toilets": "TRUE",
         "": "",
-        "src": "https://www.google.com/maps/place/August+Coffee/@-33.8634006,151.0854475,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12bbe742491bf7:0xe02d36869e0fba0f!8m2!3d-33.8634006!4d151.0880224!16s%2Fg%2F11p3_x_f4h?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/August+Coffee/@-33.8634006,151.0854475,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12bbe742491bf7:0xe02d36869e0fba0f!8m2!3d-33.8634006!4d151.0880224!16s%2Fg%2F11p3_x_f4h?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -33,6 +35,7 @@
       },
       "properties": {
         "name": "Tea Journal",
+        "id": "tea-journal",
         "area": "ns",
         "suburb": "Chatswood",
         "type": "cafe",
@@ -40,7 +43,8 @@
         "has-wifi": "FALSE",
         "has-toilets": "FALSE",
         "": "",
-        "src": "https://www.google.com/maps/place/Tea+Journal/@-33.7978452,151.1782967,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12a8d37f790925:0x869a9dedf7157d7b!8m2!3d-33.7978452!4d151.1808716!16s%2Fg%2F11bwd340yl?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/Tea+Journal/@-33.7978452,151.1782967,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12a8d37f790925:0x869a9dedf7157d7b!8m2!3d-33.7978452!4d151.1808716!16s%2Fg%2F11bwd340yl?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -54,6 +58,7 @@
       },
       "properties": {
         "name": "Edition Roasters",
+        "id": "edition-roasters",
         "area": "cbd",
         "suburb": "Haymarket",
         "type": "cafe",
@@ -61,7 +66,8 @@
         "has-wifi": "TRUE",
         "has-toilets": "",
         "": "",
-        "src": "https://www.google.com/maps/place/Edition+Roasters/@-33.8785445,151.1985762,17z/data=!3m2!4b1!5s0x6b12ae24e647ce31:0xd0f10c4b12db1b46!4m6!3m5!1s0x6b12afd94663e425:0x254c1153abe4bbe!8m2!3d-33.8785445!4d151.2011511!16s%2Fg%2F11ghsh18j8?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/Edition+Roasters/@-33.8785445,151.1985762,17z/data=!3m2!4b1!5s0x6b12ae24e647ce31:0xd0f10c4b12db1b46!4m6!3m5!1s0x6b12afd94663e425:0x254c1153abe4bbe!8m2!3d-33.8785445!4d151.2011511!16s%2Fg%2F11ghsh18j8?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -75,6 +81,7 @@
       },
       "properties": {
         "name": "Yellow Day Coffee Roasters",
+        "id": "yellow-day-coffee-roasters",
         "area": "iw",
         "suburb": "Lidcombe",
         "type": "cafe",
@@ -82,7 +89,8 @@
         "has-wifi": "FALSE",
         "has-toilets": "TRUE",
         "": "",
-        "src": "https://www.google.com/maps/place/YELLOW+DAY+COFFEE+ROASTERS/@-33.8641317,151.0381382,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12bddeede5640f:0x41ce15b535cbbd7c!8m2!3d-33.8641318!4d151.0430091!16s%2Fg%2F11n8dy_f_f?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/YELLOW+DAY+COFFEE+ROASTERS/@-33.8641317,151.0381382,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12bddeede5640f:0x41ce15b535cbbd7c!8m2!3d-33.8641318!4d151.0430091!16s%2Fg%2F11n8dy_f_f?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -96,6 +104,7 @@
       },
       "properties": {
         "name": "Bunker 64",
+        "id": "bunker-64",
         "area": "iw",
         "suburb": "Lidcombe",
         "type": "cafe",
@@ -103,7 +112,8 @@
         "has-wifi": "TRUE",
         "has-toilets": "TRUE",
         "": "",
-        "src": "http://google.com/maps/place/Bunker+64+Lidcombe,+Railway+Street,+Lidcombe+NSW/@-33.8641317,151.0381382,17z/data=!4m5!3m4!1s0x6b12bdd9be2c572f:0x35cef17ec3c55f72!8m2!3d-33.8638612!4d151.0441421?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "http://www.google.com/maps/place/Bunker+64+Lidcombe,+Railway+Street,+Lidcombe+NSW/@-33.8641317,151.0381382,17z/data=!4m5!3m4!1s0x6b12bdd9be2c572f:0x35cef17ec3c55f72!8m2!3d-33.8638612!4d151.0441421?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -117,6 +127,7 @@
       },
       "properties": {
         "name": "LAB Rhodes",
+        "id": "lab-rhodes",
         "area": "n",
         "suburb": "Rhodes",
         "type": "cafe",
@@ -124,7 +135,8 @@
         "has-wifi": "FALSE",
         "has-toilets": "TRUE",
         "": "",
-        "src": "https://www.google.com/maps/place/LAB+Rhodes/@-33.8298,151.0832351,17z/data=!3m2!4b1!5s0x6b12a4e4435ad5d7:0x79549d356444dece!4m6!3m5!1s0x6b12a53828542dcf:0x5ad4315cc47e646!8m2!3d-33.8298!4d151.08581!16s%2Fg%2F11rwrw1gwf?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/LAB+Rhodes/@-33.8298,151.0832351,17z/data=!3m2!4b1!5s0x6b12a4e4435ad5d7:0x79549d356444dece!4m6!3m5!1s0x6b12a53828542dcf:0x5ad4315cc47e646!8m2!3d-33.8298!4d151.08581!16s%2Fg%2F11rwrw1gwf?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -138,6 +150,7 @@
       },
       "properties": {
         "name": "LAB Strathfield",
+        "id": "lab-strathfield",
         "area": "iw",
         "suburb": "Strathfield",
         "type": "cafe",
@@ -145,7 +158,8 @@
         "has-wifi": "FALSE",
         "has-toilets": "TRUE",
         "": "",
-        "src": "http://google.com/maps/place/LAB+Strathfield,+The+Boulevarde,+Strathfield+NSW/@-33.8638612,151.0415672,17z/data=!4m5!3m4!1s0x6b12bad863026821:0xf9c5d5503af1bc4f!8m2!3d-33.8726016!4d151.0944386?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "http://www.google.com/maps/place/LAB+Strathfield,+The+Boulevarde,+Strathfield+NSW/@-33.8638612,151.0415672,17z/data=!4m5!3m4!1s0x6b12bad863026821:0xf9c5d5503af1bc4f!8m2!3d-33.8726016!4d151.0944386?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -159,6 +173,7 @@
       },
       "properties": {
         "name": "LAB Parramatta",
+        "id": "lab-parramatta",
         "area": "w",
         "suburb": "Parramatta",
         "type": "cafe",
@@ -166,7 +181,8 @@
         "has-wifi": "FALSE",
         "has-toilets": "TRUE",
         "": "",
-        "src": "https://www.google.com/maps/place/LAB+Parramatta/@-33.8170655,151.000786,17z/data=!3m2!4b1!5s0x6b12a3205bc45a7d:0x6e3ce34bc2312a1c!4m6!3m5!1s0x6b12a3c1f984e6d7:0x29d9a957022f6184!8m2!3d-33.8170655!4d151.0033609!16s%2Fg%2F11k4552pp0?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/LAB+Parramatta/@-33.8170655,151.000786,17z/data=!3m2!4b1!5s0x6b12a3205bc45a7d:0x6e3ce34bc2312a1c!4m6!3m5!1s0x6b12a3c1f984e6d7:0x29d9a957022f6184!8m2!3d-33.8170655!4d151.0033609!16s%2Fg%2F11k4552pp0?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -180,6 +196,7 @@
       },
       "properties": {
         "name": "4 Stations & Co",
+        "id": "4-stations-and-co",
         "area": "n",
         "suburb": "West Ryde",
         "type": "cafe",
@@ -187,7 +204,8 @@
         "has-wifi": "TRUE",
         "has-toilets": "TRUE",
         "": "",
-        "src": "https://www.google.com/maps/place/4+Station+%26+Co+West+Ryde/@-33.8073909,151.0862064,17z/data=!3m2!4b1!5s0x6b12a45209d575dd:0x4a5bb30941db1381!4m6!3m5!1s0x6b12a50f9a93d8dd:0x7673af1ea27fa18a!8m2!3d-33.8073909!4d151.0887813!16s%2Fg%2F11h3lfn2zx?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/4+Station+%26+Co+West+Ryde/@-33.8073909,151.0862064,17z/data=!3m2!4b1!5s0x6b12a45209d575dd:0x4a5bb30941db1381!4m6!3m5!1s0x6b12a50f9a93d8dd:0x7673af1ea27fa18a!8m2!3d-33.8073909!4d151.0887813!16s%2Fg%2F11h3lfn2zx?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -201,6 +219,7 @@
       },
       "properties": {
         "name": "The Wedge",
+        "id": "the-wedge",
         "area": "cbd",
         "suburb": "Glebe",
         "type": "cafe",
@@ -208,7 +227,8 @@
         "has-wifi": "TRUE",
         "has-toilets": "",
         "": "",
-        "src": "https://www.google.com/maps/place/The+Wedge+Glebe/@-33.8829119,151.1889047,17z/data=!3m2!4b1!5s0x6b12ae2a38e7fae9:0x22249d2af1b52e74!4m6!3m5!1s0x6b12ae2a3f557b93:0xe1ccec2e1fca567e!8m2!3d-33.8829119!4d151.1914796!16s%2Fg%2F11rcwxtxp?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/The+Wedge+Glebe/@-33.8829119,151.1889047,17z/data=!3m2!4b1!5s0x6b12ae2a38e7fae9:0x22249d2af1b52e74!4m6!3m5!1s0x6b12ae2a3f557b93:0xe1ccec2e1fca567e!8m2!3d-33.8829119!4d151.1914796!16s%2Fg%2F11rcwxtxp?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -222,6 +242,7 @@
       },
       "properties": {
         "name": "Social Butterfly Tea & Dessert",
+        "id": "social-butterfly-tea-and-dessert",
         "area": "cbd",
         "suburb": "Sydney",
         "type": "cafe",
@@ -229,7 +250,8 @@
         "has-wifi": "TRUE",
         "has-toilets": "TRUE",
         "": "pay to enter",
-        "src": "https://www.google.com/maps/place/Social+Butterfly+Tea+%26+Dessert/@-33.8695419,151.2041158,17z/data=!3m2!4b1!5s0x6b12ae3f716467cf:0x14cf97bb3b1523e8!4m6!3m5!1s0x6b12afc4e86d2239:0xd9cafd3979558bf8!8m2!3d-33.8695419!4d151.2066907!16s%2Fg%2F11yqb4vj1n?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/Social+Butterfly+Tea+%26+Dessert/@-33.8695419,151.2041158,17z/data=!3m2!4b1!5s0x6b12ae3f716467cf:0x14cf97bb3b1523e8!4m6!3m5!1s0x6b12afc4e86d2239:0xd9cafd3979558bf8!8m2!3d-33.8695419!4d151.2066907!16s%2Fg%2F11yqb4vj1n?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -243,6 +265,7 @@
       },
       "properties": {
         "name": "Stitch Coffee",
+        "id": "stitch-coffee",
         "area": "cbd",
         "suburb": "Ultimo",
         "type": "cafe",
@@ -250,7 +273,8 @@
         "has-wifi": "FALSE",
         "has-toilets": "",
         "": "",
-        "src": "https://www.google.com/maps/place/Stitch+Coffee+Broadway/@-33.8834258,151.1925354,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12af75dc67ee7f:0x8b35fdbfdbc9bcc2!8m2!3d-33.8834258!4d151.1951103!16s%2Fg%2F11nh470t85?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/Stitch+Coffee+Broadway/@-33.8834258,151.1925354,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12af75dc67ee7f:0x8b35fdbfdbc9bcc2!8m2!3d-33.8834258!4d151.1951103!16s%2Fg%2F11nh470t85?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -264,6 +288,7 @@
       },
       "properties": {
         "name": "La Vigne Bakery",
+        "id": "la-vigne-bakery",
         "area": "n",
         "suburb": "Eastwood",
         "type": "cafe",
@@ -271,7 +296,8 @@
         "has-wifi": "FALSE",
         "has-toilets": "TRUE",
         "": "",
-        "src": "https://www.google.com/maps/place/La+Vigne+Bakery+Eastwood/@-33.7910596,151.0815859,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12a43731eac499:0x97ae5dbdf4d4bb38!8m2!3d-33.7910596!4d151.0841608!16s%2Fg%2F1hc8w2mkl?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/La+Vigne+Bakery+Eastwood/@-33.7910596,151.0815859,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12a43731eac499:0x97ae5dbdf4d4bb38!8m2!3d-33.7910596!4d151.0841608!16s%2Fg%2F1hc8w2mkl?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -285,6 +311,7 @@
       },
       "properties": {
         "name": "Ampersand Cafe & Bookstore",
+        "id": "ampersand-cafe-and-bookstore",
         "area": "cbd",
         "suburb": "Paddington",
         "type": "cafe",
@@ -292,7 +319,8 @@
         "has-wifi": "",
         "has-toilets": "",
         "": "",
-        "src": "https://www.google.com/maps/place/Ampersand+Cafe+%26+Bookstore./@-33.8831035,151.2161103,17z/data=!3m1!4b1!4m6!3m5!1s0x6b9150b490276c1f:0x66b69fecac755de4!8m2!3d-33.8831036!4d151.2209812!16s%2Fg%2F1pwfwrq9r?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/Ampersand+Cafe+%26+Bookstore./@-33.8831035,151.2161103,17z/data=!3m1!4b1!4m6!3m5!1s0x6b9150b490276c1f:0x66b69fecac755de4!8m2!3d-33.8831036!4d151.2209812!16s%2Fg%2F1pwfwrq9r?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -306,6 +334,7 @@
       },
       "properties": {
         "name": "La Lune Market",
+        "id": "la-lune-market",
         "area": "iw",
         "suburb": "North Strathfield",
         "type": "cafe",
@@ -313,7 +342,8 @@
         "has-wifi": "FALSE",
         "has-toilets": "",
         "": "",
-        "src": "http://google.com/maps/place/La+Lune+Market,+Shop+1+George+Street,+North+Strathfield+NSW/@1.3839804,103.9211566,12.13z/data=!3m1!5s0x31da15ed9fba9541:0xa7e661a3be5461cd!4m5!3m4!1s0x6b12bbe500e3ad9f:0x5f347abcc097ace6!8m2!3d-33.8604425!4d151.0874796?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "http://google.com/maps/place/La+Lune+Market,+Shop+1+George+Street,+North+Strathfield+NSW/@1.3839804,103.9211566,12.13z/data=!3m1!5s0x31da15ed9fba9541:0xa7e661a3be5461cd!4m5!3m4!1s0x6b12bbe500e3ad9f:0x5f347abcc097ace6!8m2!3d-33.8604425!4d151.0874796?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -327,6 +357,7 @@
       },
       "properties": {
         "name": "Provence Garden Cafe",
+        "id": "provence-garden-cafe",
         "area": "n",
         "suburb": "Eastwood",
         "type": "cafe",
@@ -334,7 +365,8 @@
         "has-wifi": "TRUE",
         "has-toilets": "",
         "": "",
-        "src": "https://www.google.com/maps/place/Provence+Garden+Cafe+Eastwood/@-33.7910892,151.0791861,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12a439e3fbfa4f:0x7287586004faf5fc!8m2!3d-33.7910892!4d151.081761!16s%2Fg%2F1v9gvm9_?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/Provence+Garden+Cafe+Eastwood/@-33.7910892,151.0791861,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12a439e3fbfa4f:0x7287586004faf5fc!8m2!3d-33.7910892!4d151.081761!16s%2Fg%2F1v9gvm9_?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -348,6 +380,7 @@
       },
       "properties": {
         "name": "Chinatown Country Club",
+        "id": "chinatown-country-club",
         "area": "cbd",
         "suburb": "Sydney",
         "type": "cafe",
@@ -355,7 +388,8 @@
         "has-wifi": "",
         "has-toilets": "",
         "": "",
-        "src": "https://www.google.com/maps/place/Chinatown+Country+Club/@-33.8721876,151.2033228,17z/data=!3m2!4b1!5s0x6b12ae3e8e55a817:0x32ef204d0d7191ae!4m6!3m5!1s0x6b12af6707ca90df:0xd0870fb91a7c4965!8m2!3d-33.8721876!4d151.2058977!16s%2Fg%2F11spvv5y00?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/Chinatown+Country+Club/@-33.8721876,151.2033228,17z/data=!3m2!4b1!5s0x6b12ae3e8e55a817:0x32ef204d0d7191ae!4m6!3m5!1s0x6b12af6707ca90df:0xd0870fb91a7c4965!8m2!3d-33.8721876!4d151.2058977!16s%2Fg%2F11spvv5y00?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -369,6 +403,7 @@
       },
       "properties": {
         "name": "Bubble Nini Cafe",
+        "id": "bubble-nini-cafe",
         "area": "cbd",
         "suburb": "Zetland",
         "type": "cafe",
@@ -376,7 +411,8 @@
         "has-wifi": "FALSE",
         "has-toilets": "TRUE",
         "": "",
-        "src": "https://www.google.com/maps/place/Bubble+Nini+Cafe/@-33.9084859,151.1903946,14.33z/data=!4m6!3m5!1s0x6b12b1e802d781c3:0x537c7430cb6997fe!8m2!3d-33.9054289!4d151.2040196!16s%2Fg%2F11nz2w79gp?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/Bubble+Nini+Cafe/@-33.9084859,151.1903946,14.33z/data=!4m6!3m5!1s0x6b12b1e802d781c3:0x537c7430cb6997fe!8m2!3d-33.9054289!4d151.2040196!16s%2Fg%2F11nz2w79gp?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -390,6 +426,7 @@
       },
       "properties": {
         "name": "Berry Boy",
+        "id": "berry-boy",
         "area": "s",
         "suburb": "Hurstville",
         "type": "cafe",
@@ -397,7 +434,8 @@
         "has-wifi": "TRUE",
         "has-toilets": "FALSE",
         "": "",
-        "src": "https://www.google.com/maps/place/Berry+Boy+Acai/@-33.9648163,151.0983979,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12b90b383fef33:0xd6a94cf9730db3ca!8m2!3d-33.9648163!4d151.1009728!16s%2Fg%2F11vqwqfx3m?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/Berry+Boy+Acai/@-33.9648163,151.0983979,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12b90b383fef33:0xd6a94cf9730db3ca!8m2!3d-33.9648163!4d151.1009728!16s%2Fg%2F11vqwqfx3m?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -411,6 +449,7 @@
       },
       "properties": {
         "name": "1606 Luis de Torres",
+        "id": "1606-luis-de-torres",
         "area": "n",
         "suburb": "Rhodes",
         "type": "cafe",
@@ -418,7 +457,8 @@
         "has-wifi": "TRUE",
         "has-toilets": "",
         "": "",
-        "src": "http://google.com/maps/place/1606+Luis+de+Torres+Rhodes,+Rider+Boulevard,+Rhodes+NSW/@-33.7910891,151.0768901,17z/data=!4m5!3m4!1s0x6b12a4e43c0cd8d3:0xdb0ac6055511414a!8m2!3d-33.8317866!4d151.0861066?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "http://google.com/maps/place/1606+Luis+de+Torres+Rhodes,+Rider+Boulevard,+Rhodes+NSW/@-33.7910891,151.0768901,17z/data=!4m5!3m4!1s0x6b12a4e43c0cd8d3:0xdb0ac6055511414a!8m2!3d-33.8317866!4d151.0861066?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -432,6 +472,7 @@
       },
       "properties": {
         "name": "Hello Happy",
+        "id": "hello-happy",
         "area": "iw",
         "suburb": "Strathfield",
         "type": "cafe",
@@ -439,7 +480,8 @@
         "has-wifi": "TRUE",
         "has-toilets": "TRUE",
         "": "",
-        "src": "http://google.com/maps/place/Hello+Happy+Strathfield,+Parnell+Street,+Strathfield+NSW/@-33.8317866,151.0835317,17z/data=!3m1!5s0x6b12a4ef39d96241:0x4f8cae3da85f937f!4m5!3m4!1s0x6b12bad88feee143:0xbbfc3aceae0cdaf0!8m2!3d-33.8729151!4d151.0945566?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "http://google.com/maps/place/Hello+Happy+Strathfield,+Parnell+Street,+Strathfield+NSW/@-33.8317866,151.0835317,17z/data=!3m1!5s0x6b12a4ef39d96241:0x4f8cae3da85f937f!4m5!3m4!1s0x6b12bad88feee143:0xbbfc3aceae0cdaf0!8m2!3d-33.8729151!4d151.0945566?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -453,6 +495,7 @@
       },
       "properties": {
         "name": "Sunbrew Cafe",
+        "id": "sunbrew-cafe",
         "area": "s",
         "suburb": "Narwee",
         "type": "cafe",
@@ -460,7 +503,8 @@
         "has-wifi": "TRUE",
         "has-toilets": "",
         "": "",
-        "src": "http://google.com/maps/place/Sunbrew+Cafe,+Fisher+Place,+Narwee+NSW/@-33.9596334,151.0492369,13.03z/data=!4m5!3m4!1s0x6b12b999622147b5:0x7a6f32a8a710a5e8!8m2!3d-33.9479315!4d151.069935?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "http://google.com/maps/place/Sunbrew+Cafe,+Fisher+Place,+Narwee+NSW/@-33.9596334,151.0492369,13.03z/data=!4m5!3m4!1s0x6b12b999622147b5:0x7a6f32a8a710a5e8!8m2!3d-33.9479315!4d151.069935?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -474,6 +518,7 @@
       },
       "properties": {
         "name": "Harry's House Cafe",
+        "id": "harry's-house-cafe",
         "area": "w",
         "suburb": "Canley Heights",
         "type": "cafe",
@@ -481,7 +526,8 @@
         "has-wifi": "TRUE",
         "has-toilets": "",
         "": "",
-        "src": "https://www.google.com/maps/place/Harry%E2%80%99s+House+Canley+Heights/@-33.9018601,150.9375028,13z/data=!4m10!1m2!2m1!1sharry's+house!3m6!1s0x6b1297ca203fc577:0x2d9f774ec96a24fa!8m2!3d-33.8840266!4d150.9259538!15sCg1oYXJyeSdzIGhvdXNlWg8iDWhhcnJ5J3MgaG91c2WSAQtjb2ZmZWVfc2hvcOABAA!16s%2Fg%2F11h2mzpwsn?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/Harry%E2%80%99s+House+Canley+Heights/@-33.9018601,150.9375028,13z/data=!4m10!1m2!2m1!1sharry's+house!3m6!1s0x6b1297ca203fc577:0x2d9f774ec96a24fa!8m2!3d-33.8840266!4d150.9259538!15sCg1oYXJyeSdzIGhvdXNlWg8iDWhhcnJ5J3MgaG91c2WSAQtjb2ZmZWVfc2hvcOABAA!16s%2Fg%2F11h2mzpwsn?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -495,6 +541,7 @@
       },
       "properties": {
         "name": "Sugarbaby Espresso",
+        "id": "sugarbaby-espresso",
         "area": "cbd",
         "suburb": "Mascot",
         "type": "cafe",
@@ -502,7 +549,8 @@
         "has-wifi": "TRUE",
         "has-toilets": "",
         "": "",
-        "src": "https://www.google.com/maps/place/Sugarbaby+Espresso/@-33.9239821,151.183026,17z/data=!3m2!4b1!5s0x6b12b0557c891815:0xcac0bca2cb98034!4m6!3m5!1s0x6b12b1aac52ac519:0xe872378d9f532b23!8m2!3d-33.9239821!4d151.1856009!16s%2Fg%2F1hc935dx4?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/Sugarbaby+Espresso/@-33.9239821,151.183026,17z/data=!3m2!4b1!5s0x6b12b0557c891815:0xcac0bca2cb98034!4m6!3m5!1s0x6b12b1aac52ac519:0xe872378d9f532b23!8m2!3d-33.9239821!4d151.1856009!16s%2Fg%2F1hc935dx4?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -516,6 +564,7 @@
       },
       "properties": {
         "name": "May Story Cafe",
+        "id": "may-story-cafe",
         "area": "iw",
         "suburb": "Lidcombe",
         "type": "cafe",
@@ -523,7 +572,8 @@
         "has-wifi": "TRUE",
         "has-toilets": "TRUE",
         "": "",
-        "src": "http://google.com/maps/place/May+Story+Cafe+Lidcombe,+John+Street,+Lidcombe+NSW/@-33.9136139,151.1984489,17z/data=!4m5!3m4!1s0x6b12bbbd53c55059:0x9c32b0889bb253fc!8m2!3d-33.8540163!4d151.0473793?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "http://google.com/maps/place/May+Story+Cafe+Lidcombe,+John+Street,+Lidcombe+NSW/@-33.9136139,151.1984489,17z/data=!4m5!3m4!1s0x6b12bbbd53c55059:0x9c32b0889bb253fc!8m2!3d-33.8540163!4d151.0473793?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -537,6 +587,7 @@
       },
       "properties": {
         "name": "ickle coffee",
+        "id": "ickle-coffee",
         "area": "s",
         "suburb": "Kingsgrove",
         "type": "cafe",
@@ -544,7 +595,8 @@
         "has-wifi": "FALSE",
         "has-toilets": "",
         "": "",
-        "src": "https://www.google.com/maps/place/ickle+coffee/@-33.9417439,151.0962785,16.88z/data=!4m6!3m5!1s0x6b12bb109585e2f1:0xe8e95fbaf89482df!8m2!3d-33.941713!4d151.101012!16s%2Fg%2F11rn2q4b5x?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/ickle+coffee/@-33.9417439,151.0962785,16.88z/data=!4m6!3m5!1s0x6b12bb109585e2f1:0xe8e95fbaf89482df!8m2!3d-33.941713!4d151.101012!16s%2Fg%2F11rn2q4b5x?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -558,6 +610,7 @@
       },
       "properties": {
         "name": "Eleven Miles",
+        "id": "eleven-miles",
         "area": "cbd",
         "suburb": "Surry Hills",
         "type": "cafe",
@@ -565,7 +618,8 @@
         "has-wifi": "",
         "has-toilets": "",
         "": "",
-        "src": "http://google.com/maps/place/Eleven+Miles,+Crown+Street,+Surry+Hills+NSW/@-33.893949,150.9318264,17z/data=!3m1!5s0x6b12960c6c29ad23:0xa9ae7ae1c887d65c!4m5!3m4!1s0x6b12aff180ea4495:0x18fbe9f041b75616!8m2!3d-33.88109!4d151.2149292?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "http://google.com/maps/place/Eleven+Miles,+Crown+Street,+Surry+Hills+NSW/@-33.893949,150.9318264,17z/data=!3m1!5s0x6b12960c6c29ad23:0xa9ae7ae1c887d65c!4m5!3m4!1s0x6b12aff180ea4495:0x18fbe9f041b75616!8m2!3d-33.88109!4d151.2149292?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -579,6 +633,7 @@
       },
       "properties": {
         "name": "Redroof Cafe",
+        "id": "redroof-cafe",
         "area": "iw",
         "suburb": "Strathfield",
         "type": "cafe",
@@ -586,7 +641,8 @@
         "has-wifi": "FALSE",
         "has-toilets": "TRUE",
         "": "",
-        "src": "https://www.google.com/maps/place/RedRoof+Cafe/@-33.8846123,151.0795559,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12bbaf282e4f63:0x2f51a1d14106f290!8m2!3d-33.8846124!4d151.0844268!16s%2Fg%2F11k9p006q6?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/RedRoof+Cafe/@-33.8846123,151.0795559,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12bbaf282e4f63:0x2f51a1d14106f290!8m2!3d-33.8846124!4d151.0844268!16s%2Fg%2F11k9p006q6?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -600,6 +656,7 @@
       },
       "properties": {
         "name": "Silk Cafe & Restaurant",
+        "id": "silk-cafe-and-restaurant",
         "area": "cbd",
         "suburb": "Sydney",
         "type": "cafe",
@@ -607,7 +664,8 @@
         "has-wifi": "",
         "has-toilets": "",
         "": "",
-        "src": "http://google.com/maps/place/Silk+Cafe+%26+Restaurant,+Liverpool+Street,+Sydney+NSW/@-33.8846123,151.0795559,17z/data=!4m5!3m4!1s0x6b12ae3ce087fbbb:0xec82dee0ef314bf6!8m2!3d-33.8771069!4d151.2071587?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "http://google.com/maps/place/Silk+Cafe+%26+Restaurant,+Liverpool+Street,+Sydney+NSW/@-33.8846123,151.0795559,17z/data=!4m5!3m4!1s0x6b12ae3ce087fbbb:0xec82dee0ef314bf6!8m2!3d-33.8771069!4d151.2071587?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -621,6 +679,7 @@
       },
       "properties": {
         "name": "Malika Bakehouse",
+        "id": "malika-bakehouse",
         "area": "cbd",
         "suburb": "Surry Hills",
         "type": "cafe",
@@ -628,7 +687,8 @@
         "has-wifi": "FALSE",
         "has-toilets": "",
         "": "",
-        "src": "http://google.com/maps/place/Malika+Bakehouse+Surry+Hills,+Crown+Street,+Surry+Hills+NSW/@-33.9115952,151.100424,17z/data=!4m5!3m4!1s0x6b12af0e03b67aa1:0xddf29d3485ef351!8m2!3d-33.8891978!4d151.2130016?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "http://google.com/maps/place/Malika+Bakehouse+Surry+Hills,+Crown+Street,+Surry+Hills+NSW/@-33.9115952,151.100424,17z/data=!4m5!3m4!1s0x6b12af0e03b67aa1:0xddf29d3485ef351!8m2!3d-33.8891978!4d151.2130016?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -642,6 +702,7 @@
       },
       "properties": {
         "name": "The Brothers project cafe",
+        "id": "the-brothers-project-cafe",
         "area": "cbd",
         "suburb": "Rosebery",
         "type": "cafe",
@@ -649,7 +710,8 @@
         "has-wifi": "FALSE",
         "has-toilets": "",
         "": "",
-        "src": "https://www.google.com/maps/place/The+Brothers+project+cafe/@-33.9156957,151.1245265,13z/data=!4m10!1m2!2m1!1sthe+brothers!3m6!1s0x6b12b1005c0d287b:0x6157cc10a965151f!8m2!3d-33.9156957!4d151.2007442!15sCgx0aGUgYnJvdGhlcnNaDiIMdGhlIGJyb3RoZXJzkgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F11vrz60kff?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/The+Brothers+project+cafe/@-33.9156957,151.1245265,13z/data=!4m10!1m2!2m1!1sthe+brothers!3m6!1s0x6b12b1005c0d287b:0x6157cc10a965151f!8m2!3d-33.9156957!4d151.2007442!15sCgx0aGUgYnJvdGhlcnNaDiIMdGhlIGJyb3RoZXJzkgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F11vrz60kff?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -663,6 +725,7 @@
       },
       "properties": {
         "name": "Rang On Portman",
+        "id": "rang-on-portman",
         "area": "cbd",
         "suburb": "Zetland",
         "type": "cafe",
@@ -670,7 +733,8 @@
         "has-wifi": "",
         "has-toilets": "",
         "": "",
-        "src": "https://www.google.com/maps/place/Rang+on+Portman/@-33.9049612,151.1999822,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12b1dc919e2959:0xd4af44162fb0e7c4!8m2!3d-33.9049613!4d151.2048531!16s%2Fg%2F11y9h_bv15?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/Rang+on+Portman/@-33.9049612,151.1999822,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12b1dc919e2959:0xd4af44162fb0e7c4!8m2!3d-33.9049613!4d151.2048531!16s%2Fg%2F11y9h_bv15?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -684,6 +748,7 @@
       },
       "properties": {
         "name": "Sorry Thanks I Love You",
+        "id": "sorry-thanks-i-love-you",
         "area": "cbd",
         "suburb": "Sydney",
         "type": "cafe",
@@ -691,7 +756,8 @@
         "has-wifi": "TRUE",
         "has-toilets": "",
         "": "",
-        "src": "http://google.com/maps/place/Sorry+Thanks+I+Love+You,+Sydney+NSW/@-33.9049612,151.1999822,17z/data=!4m5!3m4!1s0x6b12adb97c39191f:0xb9a43f076b70dbfe!8m2!3d-33.8701191!4d151.2089511?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "http://google.com/maps/place/Sorry+Thanks+I+Love+You,+Sydney+NSW/@-33.9049612,151.1999822,17z/data=!4m5!3m4!1s0x6b12adb97c39191f:0xb9a43f076b70dbfe!8m2!3d-33.8701191!4d151.2089511?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -705,6 +771,7 @@
       },
       "properties": {
         "name": "Dulcet Cafe (in Kinokuniya)",
+        "id": "dulcet-cafe-in-kinokuniya",
         "area": "cbd",
         "suburb": "Sydney",
         "type": "cafe",
@@ -712,7 +779,8 @@
         "has-wifi": "TRUE",
         "has-toilets": "",
         "": "",
-        "src": "https://www.google.com/maps/place/Dulcet+Cafe/@-33.872368,151.2045468,17z/data=!3m2!4b1!5s0x6b12ae3e66a3abd7:0x6af5fe6b59b001a5!4m6!3m5!1s0x6b12af229f106af9:0x810319df0b4c7205!8m2!3d-33.872368!4d151.2071217!16s%2Fg%2F11n24ctjc5?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/Dulcet+Cafe/@-33.872368,151.2045468,17z/data=!3m2!4b1!5s0x6b12ae3e66a3abd7:0x6af5fe6b59b001a5!4m6!3m5!1s0x6b12af229f106af9:0x810319df0b4c7205!8m2!3d-33.872368!4d151.2071217!16s%2Fg%2F11n24ctjc5?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -726,6 +794,7 @@
       },
       "properties": {
         "name": "Gram Cafe & Pancakes",
+        "id": "gram-cafe-and-pancakes",
         "area": "ns",
         "suburb": "Chatswood",
         "type": "cafe",
@@ -733,7 +802,8 @@
         "has-wifi": "TRUE",
         "has-toilets": "",
         "": "",
-        "src": "https://www.google.com/maps/place/Gram+Cafe+%26+Pancakes+Chatswood/@-33.7973101,151.1783439,17z/data=!4m6!3m5!1s0x6b12a96c9eccc1bf:0xc3389ae6b940babf!8m2!3d-33.7971836!4d151.1813693!16s%2Fg%2F11h7v1cx0f?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/Gram+Cafe+%26+Pancakes+Chatswood/@-33.7973101,151.1783439,17z/data=!4m6!3m5!1s0x6b12a96c9eccc1bf:0xc3389ae6b940babf!8m2!3d-33.7971836!4d151.1813693!16s%2Fg%2F11h7v1cx0f?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -747,6 +817,7 @@
       },
       "properties": {
         "name": "Dirty Red Glebe",
+        "id": "dirty-red-glebe",
         "area": "cbd",
         "suburb": "Glebe",
         "type": "cafe",
@@ -754,7 +825,8 @@
         "has-wifi": "FALSE",
         "has-toilets": "",
         "": "",
-        "src": "http://google.com/maps/place/Dirty+Red+Glebe/@-33.8810899,151.2100583,17z/data=!4m6!3m5!1s0x6b12afadff55da8d:0xd2afcc5e58f73d05!8m2!3d-33.8834113!4d151.191739!16s%2Fg%2F11ffltpk7k?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "http://google.com/maps/place/Dirty+Red+Glebe/@-33.8810899,151.2100583,17z/data=!4m6!3m5!1s0x6b12afadff55da8d:0xd2afcc5e58f73d05!8m2!3d-33.8834113!4d151.191739!16s%2Fg%2F11ffltpk7k?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -768,6 +840,7 @@
       },
       "properties": {
         "name": "Cafe 506",
+        "id": "cafe-506",
         "area": "cbd",
         "suburb": "Alexandria",
         "type": "cafe",
@@ -775,7 +848,8 @@
         "has-wifi": "TRUE",
         "has-toilets": "",
         "": "",
-        "src": "https://www.google.com/maps/place/Cafe+506/@-33.9136139,151.1984489,17z/data=!3m2!4b1!5s0x6b12b1ba313fa04b:0x791e03e3713a6d5e!4m6!3m5!1s0x6b12b1ba3188ab69:0x90cff67100fd9bb9!8m2!3d-33.9136139!4d151.2010238!16s%2Fg%2F1td65gmb?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/Cafe+506/@-33.9136139,151.1984489,17z/data=!3m2!4b1!5s0x6b12b1ba313fa04b:0x791e03e3713a6d5e!4m6!3m5!1s0x6b12b1ba3188ab69:0x90cff67100fd9bb9!8m2!3d-33.9136139!4d151.2010238!16s%2Fg%2F1td65gmb?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -789,6 +863,7 @@
       },
       "properties": {
         "name": "Blue Brew Cafe",
+        "id": "blue-brew-cafe",
         "area": "iw",
         "suburb": "Redfern",
         "type": "cafe",
@@ -796,7 +871,8 @@
         "has-wifi": "TRUE",
         "has-toilets": "",
         "": "",
-        "src": "https://www.google.com/maps/place/Blue+Brew+Cafe/@-33.8929285,151.20109,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12b1bd73e451e9:0x19cd96f78722392c!8m2!3d-33.8929285!4d151.2036649!16s%2Fg%2F11h8kb_z66?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/Blue+Brew+Cafe/@-33.8929285,151.20109,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12b1bd73e451e9:0x19cd96f78722392c!8m2!3d-33.8929285!4d151.2036649!16s%2Fg%2F11h8kb_z66?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -810,6 +886,7 @@
       },
       "properties": {
         "name": "Chubby Cubby",
+        "id": "chubby-cubby",
         "area": "",
         "suburb": "Haymarket",
         "type": "cafe",
@@ -817,7 +894,8 @@
         "has-wifi": "TRUE",
         "has-toilets": "",
         "": "",
-        "src": "https://www.google.com/maps/place/Chubby+Cubby+Cafe/@-33.8817797,151.1998188,17z/data=!3m2!4b1!5s0x6b12ae23f49db485:0x23aabf548ae1b98b!4m6!3m5!1s0x6b12af5787697f0f:0x214d1e6a2b2db14c!8m2!3d-33.8817798!4d151.2046897!16s%2Fg%2F11wc8j3rdn?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/Chubby+Cubby+Cafe/@-33.8817797,151.1998188,17z/data=!3m2!4b1!5s0x6b12ae23f49db485:0x23aabf548ae1b98b!4m6!3m5!1s0x6b12af5787697f0f:0x214d1e6a2b2db14c!8m2!3d-33.8817798!4d151.2046897!16s%2Fg%2F11wc8j3rdn?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -831,6 +909,7 @@
       },
       "properties": {
         "name": "Sappho Bookstore",
+        "id": "sappho-bookstore",
         "area": "cbd",
         "suburb": "Glebe",
         "type": "cafe",
@@ -838,7 +917,8 @@
         "has-wifi": "FALSE",
         "has-toilets": "TRUE",
         "": "",
-        "src": "https://www.google.com/maps/place/Sappho+Books,+Cafe+%26+Bar/@-33.8831714,151.1888732,17z/data=!3m2!4b1!5s0x6b12ae2a3f271f6d:0x6a49b81d8b641d9!4m6!3m5!1s0x6b12ae2a3f08db39:0x195e88dbde1ad80d!8m2!3d-33.8831714!4d151.1914481!16s%2Fg%2F1tdlbwgg?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/Sappho+Books,+Cafe+%26+Bar/@-33.8831714,151.1888732,17z/data=!3m2!4b1!5s0x6b12ae2a3f271f6d:0x6a49b81d8b641d9!4m6!3m5!1s0x6b12ae2a3f08db39:0x195e88dbde1ad80d!8m2!3d-33.8831714!4d151.1914481!16s%2Fg%2F1tdlbwgg?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -852,6 +932,7 @@
       },
       "properties": {
         "name": "Smelly Cheesecake",
+        "id": "smelly-cheesecake",
         "area": "iw",
         "suburb": "Strathfield",
         "type": "cafe",
@@ -859,7 +940,8 @@
         "has-wifi": "FALSE",
         "has-toilets": "",
         "": "",
-        "src": "http://google.com/maps/place/The+Smelly+Cheesecake+Strathfield,+Albert+Road,+Strathfield+NSW/@-33.8846715,151.1956977,17z/data=!3m1!5s0x6b12ae27b1c52591:0x881f184442dab44b!4m5!3m4!1s0x6b12bb2787338b45:0x19ac97c9829054a5!8m2!3d-33.8721454!4d151.0935746?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "http://google.com/maps/place/The+Smelly+Cheesecake+Strathfield,+Albert+Road,+Strathfield+NSW/@-33.8846715,151.1956977,17z/data=!3m1!5s0x6b12ae27b1c52591:0x881f184442dab44b!4m5!3m4!1s0x6b12bb2787338b45:0x19ac97c9829054a5!8m2!3d-33.8721454!4d151.0935746?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -873,6 +955,7 @@
       },
       "properties": {
         "name": "Dymocks Cafe",
+        "id": "dymocks-cafe",
         "area": "cbd",
         "suburb": "Sydney",
         "type": "cafe",
@@ -880,7 +963,8 @@
         "has-wifi": "TRUE",
         "has-toilets": "TRUE",
         "": "",
-        "src": "https://www.google.com/maps/place/Dymocks+Cafe/@-33.8699588,151.2025121,17z/data=!3m2!4b1!5s0x6b12af3aa386f727:0xa418b913cf80df29!4m6!3m5!1s0x6b12ae3f090cc7df:0xa9ff58b1bfe0143a!8m2!3d-33.8699589!4d151.207383!16s%2Fg%2F1tkkv07m?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/Dymocks+Cafe/@-33.8699588,151.2025121,17z/data=!3m2!4b1!5s0x6b12af3aa386f727:0xa418b913cf80df29!4m6!3m5!1s0x6b12ae3f090cc7df:0xa9ff58b1bfe0143a!8m2!3d-33.8699589!4d151.207383!16s%2Fg%2F1tkkv07m?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -894,6 +978,7 @@
       },
       "properties": {
         "name": "XS Espresso Gregory Hills",
+        "id": "xs-espresso-gregory-hills",
         "area": "w",
         "suburb": "Gledswood Hills",
         "type": "cafe",
@@ -901,7 +986,8 @@
         "has-wifi": "TRUE",
         "has-toilets": "TRUE",
         "": "",
-        "src": "https://www.google.com/maps/place/XS+Espresso+Gregory+Hills/@-33.9020628,150.7599145,9.59z/data=!4m6!3m5!1s0x6b12f1e34af11e31:0xa02912e166b5035f!8m2!3d-34.0215569!4d150.7652883!16s%2Fg%2F11hz19l_86?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/XS+Espresso+Gregory+Hills/@-33.9020628,150.7599145,9.59z/data=!4m6!3m5!1s0x6b12f1e34af11e31:0xa02912e166b5035f!8m2!3d-34.0215569!4d150.7652883!16s%2Fg%2F11hz19l_86?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -915,6 +1001,7 @@
       },
       "properties": {
         "name": "Vivace Cafe",
+        "id": "vivace-cafe",
         "area": "n",
         "suburb": "Epping",
         "type": "cafe",
@@ -922,7 +1009,8 @@
         "has-wifi": "TRUE",
         "has-toilets": "",
         "": "",
-        "src": "https://www.google.com/maps/place/Vivace+Cafe/@-33.7716433,151.0803179,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12a7e8edc8b103:0x2be6d273982319ea!8m2!3d-33.7716433!4d151.0828928!16s%2Fg%2F11lfd2c307?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/Vivace+Cafe/@-33.7716433,151.0803179,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12a7e8edc8b103:0x2be6d273982319ea!8m2!3d-33.7716433!4d151.0828928!16s%2Fg%2F11lfd2c307?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -936,6 +1024,7 @@
       },
       "properties": {
         "name": "cafe ACRO+ (in Central Park Mall)",
+        "id": "cafe-acro-plus-in-central-park-mall",
         "area": "cbd",
         "suburb": "Chippendale",
         "type": "cafe",
@@ -943,7 +1032,8 @@
         "has-wifi": "TRUE",
         "has-toilets": "",
         "": "",
-        "src": "https://www.google.com/maps/place/cafe+ACRO%2B/@-33.8846715,151.1956977,17z/data=!3m2!4b1!5s0x6b12ae27b1c52591:0x881f184442dab44b!4m6!3m5!1s0x6b12afb3917068d7:0xf0699c2327910bf7!8m2!3d-33.8846716!4d151.2005686!16s%2Fg%2F11krccs07t?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/cafe+ACRO%2B/@-33.8846715,151.1956977,17z/data=!3m2!4b1!5s0x6b12ae27b1c52591:0x881f184442dab44b!4m6!3m5!1s0x6b12afb3917068d7:0xf0699c2327910bf7!8m2!3d-33.8846716!4d151.2005686!16s%2Fg%2F11krccs07t?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -957,6 +1047,7 @@
       },
       "properties": {
         "name": "(Only Coffee) The Old Tab Cafe",
+        "id": "only-coffee-the-old-tab-cafe",
         "area": "iw",
         "suburb": "Campsie",
         "type": "cafe",
@@ -964,7 +1055,8 @@
         "has-wifi": "TRUE",
         "has-toilets": "",
         "": "",
-        "src": "https://www.google.com/maps/place/(Only+Coffee)+The+Old+Tab+Cafe/@-33.9113676,151.1005876,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12ba50501836df:0x78c0a5a73c27df10!8m2!3d-33.9113676!4d151.1031625!16s%2Fg%2F1ptx8x3wb?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/(Only+Coffee)+The+Old+Tab+Cafe/@-33.9113676,151.1005876,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12ba50501836df:0x78c0a5a73c27df10!8m2!3d-33.9113676!4d151.1031625!16s%2Fg%2F1ptx8x3wb?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -978,6 +1070,7 @@
       },
       "properties": {
         "name": "Incafe",
+        "id": "incafe",
         "area": "cbd",
         "suburb": "Haymarket",
         "type": "cafe",
@@ -985,7 +1078,8 @@
         "has-wifi": "TRUE",
         "has-toilets": "",
         "": "time limit on wifi",
-        "src": "https://www.google.com/maps/place/Incafe/@-33.8816666,151.2029531,17z/data=!3m2!4b1!5s0x6b12ae2393e5b545:0xdae37bb2ec72d337!4m6!3m5!1s0x6b12ae239472ecaf:0x653ed0a033ba738!8m2!3d-33.8816666!4d151.205528!16s%2Fg%2F11cs6fbx8p?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/Incafe/@-33.8816666,151.2029531,17z/data=!3m2!4b1!5s0x6b12ae2393e5b545:0xdae37bb2ec72d337!4m6!3m5!1s0x6b12ae239472ecaf:0x653ed0a033ba738!8m2!3d-33.8816666!4d151.205528!16s%2Fg%2F11cs6fbx8p?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -999,6 +1093,7 @@
       },
       "properties": {
         "name": "Common Coffee",
+        "id": "common-coffee",
         "area": "n",
         "suburb": "Epping",
         "type": "cafe",
@@ -1006,7 +1101,8 @@
         "has-wifi": "TRUE",
         "has-toilets": "",
         "": "",
-        "src": "https://www.google.com/maps/place/Common+Coffee/@-33.7721613,151.0801692,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12a73eb1a0991f:0x7f7a16c4bf29459b!8m2!3d-33.7721613!4d151.0827441!16s%2Fg%2F11mncr33vw?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/Common+Coffee/@-33.7721613,151.0801692,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12a73eb1a0991f:0x7f7a16c4bf29459b!8m2!3d-33.7721613!4d151.0827441!16s%2Fg%2F11mncr33vw?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     },
     {
@@ -1020,6 +1116,7 @@
       },
       "properties": {
         "name": "Susu Lane",
+        "id": "susu-lane",
         "area": "cbd",
         "suburb": "Chippendale",
         "type": "cafe",
@@ -1027,7 +1124,8 @@
         "has-wifi": "FALSE",
         "has-toilets": "",
         "": "",
-        "src": "https://www.google.com/maps/place/Susu+Lane/@-33.8857266,151.1985806,17z/data=!4m6!3m5!1s0x6b12afe45d0dc365:0x99cc9f1c7749de21!8m2!3d-33.8857266!4d151.2011555!16s%2Fg%2F11yk5v6njl?entry=ttu&g_ep=EgoyMDI2MDMyOS4wIKXMDSoASAFQAw%3D%3D"
+        "src": "https://www.google.com/maps/place/Susu+Lane/@-33.8857266,151.1985806,17z/data=!4m6!3m5!1s0x6b12afe45d0dc365:0x99cc9f1c7749de21!8m2!3d-33.8857266!4d151.2011555!16s%2Fg%2F11yk5v6njl?entry=ttu&g_ep=EgoyMDI2MDMyOS4wIKXMDSoASAFQAw%3D%3D",
+        "address": "Address not found"
       }
     }
   ]

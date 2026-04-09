@@ -15,18 +15,20 @@ def csv_to_geojson(input_file):
     with open(input_file, newline='') as f:
         reader = csv.DictReader(f)
         
-        for row in reader:
+        for i, row in enumerate(reader):
             url = row[link_col]
             
             coords = coords_from_url(url)
             if coords is None:
                 print(f" Could not find coordinates.")
                 continue
+            address = address_from_url(url)
             
             lat, lng = coords
 
             properties = {k: v for k, v in row.items() if k != link_col}
             properties["src"] = url
+            properties["address"] = address
 
             feature = {
                 "type": "Feature",
@@ -58,5 +60,26 @@ def coords_from_url(url:str):
         return float(match.group(1)), float(match.group(2))
 
     return None
+
+def get_address_from_coords(lat, lng):
+    try:
+        # Nominatim requires a string like "lat, lng"
+        location = geolocator.reverse(f"{lat}, {lng}")
+        if location:
+            return location.address
+    except Exception as e:
+        print(f"Error geocoding: {e}")
+    return "Address not found"
+
+def address_from_url(url: str):
+    try:
+        match = re.search(r'/place/(.*?)/@', url)
+        if match:
+            slug = match.group(1)
+            decoded = unquote(slug).replace('+', ' ')
+            return decoded
+    except Exception:
+        pass
+    return "Address not found"
 
 csv_to_geojson(sys.argv[1])

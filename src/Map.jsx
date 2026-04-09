@@ -1,21 +1,20 @@
 import Header from "./Header"
-import { useEffect, useRef } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import mapboxgl from 'mapbox-gl';
+
 import 'mapbox-gl/dist/mapbox-gl.css';
 
-
-
-
 const Map = () => {
-	// const [filter, setFilter] = useState('All');
-
+	
 	// const filteredSpots = studySpots.filter(spot => 
-  	//   filter === 'All' || data.tags.includes(filter)
-	// );
-
-
+		//   filter === 'All' || data.tags.includes(filter)
+		// );
+		
+	const [selected, setSelected] = useState(null);
+	// const [filter, setFilter] = useState('All');
 	const mapRef = useRef()
   	const mapContainerRef = useRef()
+	const selectedRef = useRef(null);
 
 	const loadImage = (map, url) => {
 		return new Promise((resolve, reject) => {
@@ -36,17 +35,17 @@ const Map = () => {
         	[150.70621083451968, -33.65097998638358]
     	];
 		
-		mapRef.current = new mapboxgl.Map({
+		const map = (mapRef.current = new mapboxgl.Map({
 			container: mapContainerRef.current,
-			style: 'mapbox://styles/mapbox/light-v10', 
+			style: 'mapbox://styles/mapbox/light-v11', 
 			zoom: 10,
 			center: [151.14882147065683, -33.8819969622573],
 			// maxBounds: bounds
-		}); 
-
-		const map = mapRef.current
+		})); 
 
 		map.on('load', async () => {
+			// map.setLayoutProperty('poi-level', 'visibility', 'none');
+
 			const icons = [
             	{ name: 'cafe-icon', url: '/icons/cafe-icon.png' },
            		{ name: 'cafe-icon-hover', url: '/icons/cafe-icon-hover.png' },
@@ -91,8 +90,54 @@ const Map = () => {
 					}
 				});
 
-				// INTERACTIONS
-				
+				// INTERACTIONS — must be in onLoad //
+				// Clicking on the map will deselect the selected feature
+
+				map.on('click', 'cafe-layer', (e) => {
+					// const properties = e.features[0].properties;
+
+					// setSelected({
+					// 	name: properties.name,
+					// 	suburb: properties.suburb || 'Sydney, NSW',
+            		// 	wifi: properties.has-wifi || 'Unknown',
+            		// 	power: properties.has-power || 'Unknown',
+            		// 	link: properties.has-toilets || 'Unknown'
+					// })
+
+					if (selectedRef.current) {
+						map.setFeatureState(selectedRef.current, {
+						selected: false
+						});
+						setSelected(null);
+					}
+
+					map.easeTo({
+						center: e.features[0].geometry.coordinates,
+						zoom: 14
+					});
+				});
+
+				map.on('click', () => {
+					  if (selectedRef.current) {
+						map.setFeatureState(selectedRef.current, {
+							selected: false
+						});
+						setSelected(null);
+					}
+				});
+
+				// map.addInteraction('map-click', {
+				// 	type: 'click',
+				// 	handler: () => {
+				// 	if (selectedFeatureRef.current) {
+				// 		map.setFeatureState(selectedFeatureRef.current, {
+				// 		selected: false
+				// 		});
+				// 		setSelectedFeature(null);
+				// 	}
+				// 	}
+				// });				
+							
 				map.on('mousemove', 'cafe-layer', (e) => {
 					if (e.features && e.features.length > 0) {
 						const hoveredId = e.features[0].id;
@@ -143,6 +188,20 @@ const Map = () => {
 								3. keywords?
 							</div>
       					<div className='map-container' ref={mapContainerRef}/>
+						
+						  <div className="map-overlay">		
+							{selected && (
+							<div className="map-overlay-container">
+								<code>${selected.properties.name}</code>
+								<hr />
+								{Object.entries(selected.properties).map(([key, value]) => (
+									<li>
+										<b>{key}</b>: {value.toString()}
+									</li>
+								))}
+							</div>
+							)}
+							</div>
 						</div>
 					</div>
 				</div>
