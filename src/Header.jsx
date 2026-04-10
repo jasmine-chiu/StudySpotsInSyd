@@ -1,8 +1,7 @@
-
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import placeholder from "./assets/placeholder.png"
-import { IoIosCloseCircle } from "react-icons/io";
+import { IoIosCloseCircle, IoMdSearch } from "react-icons/io";
 
 const Header = ({ isCompact = false }) => {
     const [isOpen, setIsOpen] = useState(false);
@@ -39,9 +38,9 @@ const Header = ({ isCompact = false }) => {
 						<Link className="nav-btn" to="/buildings">UNSW Buildings</Link>
 						{/* <Link className="nav-btn" to="/shuttle">Shuttle Times</Link> */}
 					</div>
-					<div className="nav-search">
-						<input className="search-bar" type="text" placeholder="Search for a building"></input>
-						<button className="search-btn"></button>
+					<div className="search">
+						<input id="nav-bar" className="search-bar" type="text" placeholder="Search for a spot" />
+						<button className="search-btn"><IoMdSearch className="search-icon" /></button>
 					</div>
 				</div>
 			</header>

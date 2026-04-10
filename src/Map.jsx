@@ -1,5 +1,7 @@
 import Header from "./Header"
 import Use from "./Use";
+import Key from "./Key";
+
 import { useEffect, useRef, useState } from 'react';
 import mapboxgl from 'mapbox-gl';
 
@@ -153,7 +155,7 @@ const Map = () => {
 
 				map.on('click', () => {
 					if (justClickedFeature) {
-    		    		justClickedFeature = false;  // ← consume the flag, don't deselect
+    		    		justClickedFeature = false;
         				return;
 				    }
 					if (selectedRef.current !== null) {
@@ -164,14 +166,16 @@ const Map = () => {
 						selectedRef.current = null;
 						setSelected(null);
 					}
+
+					map.easeTo({
+						zoom: 12
+					});
 				});
 			
 			} catch (err) {
-            	console.error("Error loading icons:", err);
+        console.error("Error loading icons:", err);
 			};
 		})
-
-		
 
 		return () => {
       		map.remove()
@@ -181,61 +185,41 @@ const Map = () => {
 
 	return (
     <>
-			<Header isCompact={true} />
-				<div className="page">
-					<div className="page-top">
-						<div className="page-title">
-							<h1>Study Spots in Sydney</h1>
-						</div>
-					</div>
-					<div className="page-content">
-						<Use isCompact={true} />
-						<div className="map-content">
-							<div className="key-content">
-								<div className="map-key">
-									hello i need to fill this out with a relevant interactive key ;-;
-									1. has amenities
-									2. nearest spots
-									3. keywords?
+			<div className="page">
+
+				<div className="page-top">
+					<Header isCompact={true} />
+					<Use isCompact={true} />
+				</div>
+				<div className="page-title">
+						<h1>Study Spots in Sydney</h1>
+				</div>
+
+				<div className="page-content">
+					<div className="map-content">
+						<div className="key-content">
+							<Key isCompact={false} selected={selected} />
+							{/* <div className="map-overlay">		 */}
+								{selected && (<div className="map-overlay-container">
+									<h2 className="overlay-name">{selected.name}</h2>
+									<p className="overlay-suburb"><i>{selected.suburb}</i></p>
+									<hr />
+									{Object.entries(selected).map(([key, value]) => (
+										<ul key={key}>
+											<b>{key}</b>: {value.toString()}
+										</ul>
+									))}
 								</div>
-								<div className="map-overlay">		
-									{selected && (<div className="map-overlay-container">
-										<code>{selected.name}</code>
-										<hr />
-										{Object.entries(selected).map(([key, value]) => (
-											<li key={key}>
-												<b>{key}</b>: {value.toString()}
-											</li>
-										))}
-									</div>
-									)}
-								</div>
-							</div>
-							<div className='map-container' ref={mapContainerRef}/>
+								)}
+							{/* </div> */}
 						</div>
+
+						<div className='map-container' ref={mapContainerRef}/>
 					</div>
 				</div>
-    	</>
-  	)
-
-	/* // return (
-	// 	<>
-	// 		<Header />
-	// 		<div className="page">
-	// 			<div className="page-content">
-	// 				<div className="page-title">
-	// 					<h1>Map of Spots in Sydney</h1>
-	// 				</div>
-	// 				<div className="map-key">
-	// 					{/* <button>show open</button> */
-	// 				</div>
-	// 				<div className="map-container" ref={mapContainer}>
-						
-	// 				</div>
-	// 			</div>
-	// 		</div>
-	// 	</>
-	// ) */}
+			</div>
+  	</>
+	)
 }
 
 export default Map
