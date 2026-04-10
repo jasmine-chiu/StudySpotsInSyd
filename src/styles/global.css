@@ -65,16 +65,24 @@ header {
 	transition: transform 0.3s ease;
 }
 
-.header-toggle {
+.use-toggle, .header-toggle {
 	position: sticky;
 	height: 50px;
 	width: 50px;
 	margin-top: 10px;
-	margin-left: 10px;
+	/* margin-left: 10px; */
 	line-height: 50px;
 	border-radius: 50%;
 	border: none;
 	background-color: #FF5757;
+}
+
+.header-toggle {
+	left: 10px;
+}
+
+.use-toggle {
+  right: 10px;
 }
 
 .icon-img {
@@ -85,7 +93,7 @@ header {
 
 .header-compact {
 	position: fixed;
-	top: 20px;
+  top: 20px;
   left: 20px;
   display: flex;
   align-items: center;
@@ -274,16 +282,22 @@ a {
 }
 
 /* MAP ! */
-
 .map-content {
 	display: flex;
 	flex-direction: row;
-    gap: 10px;
+	gap: 10px;
+	margin-bottom: 20px;
+}
+.key-content {
+	display: flex;
+	flex-direction: column;
+  gap: 10px;
 }
 
 .map-key {
 	background-color: #7775C5;
-    border: #9AA7FF 3px solid;
+  height: 100%;
+  border: #9AA7FF 3px solid;
 	border-radius: 30px;
 	padding: 12px;
 }
@@ -291,20 +305,19 @@ a {
 .map-container {
     border: #9AA7FF 3px solid;
     border-radius: 30px;
-    /* flex-grow: 1; */
-		/* flex-direction: column; */
 	height: 80vh;
     min-width: 70%;
     overflow: hidden;
 }
 
 .map-overlay-container {
-    position: absolute;
-    z-index: 5;
-    display: inline;
-    background-color: white;
-    padding: 10px;
-    border-radius: 3px
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+    height: 250px;
+    max-width: 400px;
+    overflow-y: auto;
 }
 
 @media (max-width: 832px) {

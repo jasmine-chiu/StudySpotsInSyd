@@ -1,4 +1,5 @@
 import Header from "./Header"
+import Use from "./Use";
 import { useEffect, useRef, useState } from 'react';
 import mapboxgl from 'mapbox-gl';
 
@@ -43,7 +44,11 @@ const Map = () => {
 			// maxBounds: bounds
 		})); 
 
+
+			
+
 		map.on('load', async () => {
+			// see if i can remove small ugly buildings
 			// map.setLayoutProperty('poi-level', 'visibility', 'none');
 
 			const icons = [
@@ -92,72 +97,81 @@ const Map = () => {
 
 				// INTERACTIONS — must be in onLoad //
 				// Clicking on the map will deselect the selected feature
+				let justClickedFeature = false;
 
 				map.on('click', 'cafe-layer', (e) => {
-					// const properties = e.features[0].properties;
+					justClickedFeature = true;
 
-					// setSelected({
-					// 	name: properties.name,
-					// 	suburb: properties.suburb || 'Sydney, NSW',
-            		// 	wifi: properties.has-wifi || 'Unknown',
-            		// 	power: properties.has-power || 'Unknown',
-            		// 	link: properties.has-toilets || 'Unknown'
-					// })
+					const feature = e.features[0];
+					const properties = e.features[0].properties;
+					const featureId = feature.id;
+
+					selectedRef.current = featureId;
+					map.setFilter('cafe-hover-layer', ['==', ['id'], featureId]);
 
 					if (selectedRef.current) {
-						map.setFeatureState(selectedRef.current, {
-						selected: false
-						});
-						setSelected(null);
+						map.setFeatureState(
+							{ source: 'data-src', id: selectedRef.current }, 
+							{ selected: true }
+						);
 					}
+
+					setSelected({
+						name: properties.name,
+						suburb: properties.suburb || 'Sydney, NSW',
+						wifi: properties['has-wifi'] || 'Unknown',
+						power: properties['has-power'] || 'Unknown',
+						toilets: properties['has-toilets'] || 'Unknown'
+					});
 
 					map.easeTo({
 						center: e.features[0].geometry.coordinates,
 						zoom: 14
 					});
 				});
-
-				map.on('click', () => {
-					  if (selectedRef.current) {
-						map.setFeatureState(selectedRef.current, {
-							selected: false
-						});
-						setSelected(null);
-					}
-				});
-
-				// map.addInteraction('map-click', {
-				// 	type: 'click',
-				// 	handler: () => {
-				// 	if (selectedFeatureRef.current) {
-				// 		map.setFeatureState(selectedFeatureRef.current, {
-				// 		selected: false
-				// 		});
-				// 		setSelectedFeature(null);
-				// 	}
-				// 	}
-				// });				
 							
 				map.on('mousemove', 'cafe-layer', (e) => {
 					if (e.features && e.features.length > 0) {
 						const hoveredId = e.features[0].id;
 
 						if (hoveredId !== undefined && hoveredId !== null) {
-							map.setFilter('cafe-hover-layer', ['==', ['id'], hoveredId]);
+							map.setFilter('cafe-hover-layer', [
+								'any',
+								['==', ['id'], hoveredId],
+								['==', ['id'], selectedRef.current !== null ? selectedRef.current : '']
+							]);
 							map.getCanvas().style.cursor = 'pointer';
 						}
 					}
 				});
 
 				map.on('mouseleave', 'cafe-layer', () => {
-					map.setFilter('cafe-hover-layer', ['==', ['id'], '']);
+					const filterId = selectedRef.current !== null ? selectedRef.current : '';
+    				map.setFilter('cafe-hover-layer', ['==', ['id'], filterId]);
 					map.getCanvas().style.cursor = '';
+				});
+
+				map.on('click', () => {
+					if (justClickedFeature) {
+    		    		justClickedFeature = false;  // ← consume the flag, don't deselect
+        				return;
+				    }
+					if (selectedRef.current !== null) {
+						map.setFeatureState(
+							{ source: 'data-src', id: selectedRef.current }, 
+							{ selected: false }
+						);
+						selectedRef.current = null;
+						setSelected(null);
+					}
 				});
 			
 			} catch (err) {
             	console.error("Error loading icons:", err);
 			};
 		})
+
+		
 
 		return () => {
       		map.remove()
@@ -175,33 +189,29 @@ const Map = () => {
 						</div>
 					</div>
 					<div className="page-content">
-						<div className="instruction-container">
-							<p>Mobile: </p>
-							<p>Mouse: </p>
-							<p>Trackpad:</p>
-						</div>
+						<Use isCompact={true} />
 						<div className="map-content">
-							<div className="map-key">
-								hello i need to fill this out with a relevant interactive key ;-;
-								1. has amenities
-								2. nearest spots
-								3. keywords?
+							<div className="key-content">
+								<div className="map-key">
+									hello i need to fill this out with a relevant interactive key ;-;
+									1. has amenities
+									2. nearest spots
+									3. keywords?
+								</div>
+								<div className="map-overlay">		
+									{selected && (<div className="map-overlay-container">
+										<code>{selected.name}</code>
+										<hr />
+										{Object.entries(selected).map(([key, value]) => (
+											<li key={key}>
+												<b>{key}</b>: {value.toString()}
+											</li>
+										))}
+									</div>
+									)}
+								</div>
 							</div>
-      					<div className='map-container' ref={mapContainerRef}/>
-						
-						  <div className="map-overlay">		
-							{selected && (
-							<div className="map-overlay-container">
-								<code>${selected.properties.name}</code>
-								<hr />
-								{Object.entries(selected.properties).map(([key, value]) => (
-									<li>
-										<b>{key}</b>: {value.toString()}
-									</li>
-								))}
-							</div>
-							)}
-							</div>
+							<div className='map-container' ref={mapContainerRef}/>
 						</div>
 					</div>
 				</div>
