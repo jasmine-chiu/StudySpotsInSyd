@@ -2,6 +2,10 @@
 	"folders": [
 		{
 			"path": ".."
+		},
+		{
+			"name": "stdio",
+			"uri": "ssh://cse//import/adams/2/z5418509/1521/asst2/stdio"
 		}
 	],
 	"settings": {}

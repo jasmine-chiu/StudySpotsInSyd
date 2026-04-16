@@ -1,6 +1,7 @@
 import Header from "./Header"
 import Use from "./Use";
 import Key from "./Key";
+import Overlay from "./Overlay";
 
 import { useEffect, useRef, useState } from 'react';
 import mapboxgl from 'mapbox-gl';
@@ -200,22 +201,12 @@ const Map = () => {
 						<div className="key-content">
 							<Key isCompact={false} selected={selected} />
 							{/* <div className="map-overlay">		 */}
-								{selected && (<div className="map-overlay-container">
-									<h2 className="overlay-name">{selected.name}</h2>
-									<p className="overlay-suburb"><i>{selected.suburb}</i></p>
-									<hr />
-									{Object.entries(selected).map(([key, value]) => (
-										<ul key={key}>
-											<b>{key}</b>: {value.toString()}
-										</ul>
-									))}
-								</div>
-								)}
-							{/* </div> */}
+								{selected && (<Overlay selected={selected}/>)}
 						</div>
 
 						<div className='map-container' ref={mapContainerRef}/>
 					</div>
+						<button className="reset-btn"/>
 				</div>
 			</div>
   	</>

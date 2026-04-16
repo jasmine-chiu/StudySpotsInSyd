@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { IoIosArrowUp, IoIosArrowDown, IoMdSearch } from 'react-icons/io';
 
 const Key = ({isCompact, selected}) => {
@@ -36,12 +36,9 @@ const Key = ({isCompact, selected}) => {
     if (onFilterChange) onFilterChange([]);
   };
 
-
-	useEffect(() => {
-    if (selected) {
-      setIsOpen(false);
-    }
-  }, [selected]);
+  const filter = () => {
+	
+  }
 
 	return (
 		<>
@@ -85,8 +82,9 @@ const Key = ({isCompact, selected}) => {
 										))}
 									</ul>
 									<div className="filter-btn-container">
-										<button className="filter-btn" onClick={selectAll}>Select all</button>
-										<button className="filter-btn" onClick={clearAll}>Clear selection</button>
+										<button className="filter-btn" onClick={filter}>Filter</button>
+										<button className="select-btn" onClick={selectAll}>Select all</button>
+										<button className="select-btn" onClick={clearAll}>Clear selection</button>
 									</div>
 								</div>
 							</div>

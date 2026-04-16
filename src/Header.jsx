@@ -36,7 +36,6 @@ const Header = ({ isCompact = false }) => {
 						<a href="/"><img id="logo" src={placeholder}/></a>
 						<Link className="nav-btn" to="/map">Map</Link>
 						<Link className="nav-btn" to="/buildings">UNSW Buildings</Link>
-						{/* <Link className="nav-btn" to="/shuttle">Shuttle Times</Link> */}
 					</div>
 					<div className="search">
 						<input id="nav-bar" className="search-bar" type="text" placeholder="Search for a spot" />
