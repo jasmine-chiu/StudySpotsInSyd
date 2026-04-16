@@ -5,6 +5,8 @@ import Overlay from "./Overlay";
 
 import { useEffect, useRef, useState } from 'react';
 import mapboxgl from 'mapbox-gl';
+import { IoIosRefreshCircle } from 'react-icons/io';
+
 
 import 'mapbox-gl/dist/mapbox-gl.css';
 
@@ -184,6 +186,27 @@ const Map = () => {
 		
   	}, []);
 
+		const resetMap = () => {
+			if (mapRef.current) {
+				mapRef.current.flyTo({
+					center: [151.14882147065683, -33.8819969622573],
+					zoom: 10,
+					essential: true 
+				});
+
+				if (mapRef.current.getLayer('cafe-layer')) {
+					mapRef.current.setFilter('cafe-layer', null);
+				}
+
+				mapRef.current.setFeatureState(
+							{ source: 'data-src', id: selectedRef.current }, 
+							{ selected: false }
+						);
+						selectedRef.current = null;
+						setSelected(null);
+			}
+		};
+
 	return (
     <>
 			<div className="page">
@@ -206,7 +229,9 @@ const Map = () => {
 
 						<div className='map-container' ref={mapContainerRef}/>
 					</div>
-						<button className="reset-btn"/>
+						<button className="reset-btn" onClick={resetMap} >
+							<IoIosRefreshCircle className="icon-img" title="Refresh Map" color="#9AA7FF" />
+						</button>
 				</div>
 			</div>
   	</>
