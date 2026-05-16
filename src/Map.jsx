@@ -17,7 +17,7 @@ const Map = () => {
 		// );
 		
 	const [selected, setSelected] = useState(null);
-	// const [filter, setFilter] = useState('All');
+	const [activeFilters, setActiveFilters] = useState([]);
 	const mapRef = useRef()
   	const mapContainerRef = useRef()
 	const selectedRef = useRef(null);
@@ -49,9 +49,6 @@ const Map = () => {
 			// maxBounds: bounds
 		})); 
 
-
-			
-
 		map.on('load', async () => {
 			// see if i can remove small ugly buildings
 			// map.setLayoutProperty('poi-level', 'visibility', 'none');
@@ -82,7 +79,7 @@ const Map = () => {
 					source: 'data-src',
 					layout: {
 						'icon-image': 'cafe-icon',
-						'icon-size': 0.1,
+						'icon-size': 0.14,
 						'icon-allow-overlap': true
 					}
 					
@@ -95,7 +92,7 @@ const Map = () => {
 					filter: ['==', ['id'], ''], 
 					layout: {
 						'icon-image': 'cafe-icon-hover',
-						'icon-size': 0.11, 
+						'icon-size': 0.15, 
 						'icon-allow-overlap': true
 					}
 				});
@@ -124,12 +121,13 @@ const Map = () => {
 					setSelected({
 						name: properties.name,
 						suburb: properties.suburb || 'Sydney, NSW',
+						outlets: properties['has-outlets'] || 'Unknown',
 						wifi: properties['has-wifi'] || 'Unknown',
 						power: properties['has-power'] || 'Unknown',
 						toilets: properties['has-toilets'] || 'Unknown'
 					});
 
-					map.easeTo({
+					map.flyTo({
 						center: e.features[0].geometry.coordinates,
 						zoom: 14
 					});
@@ -186,6 +184,18 @@ const Map = () => {
 		
   	}, []);
 
+	useEffect(() => {
+		const map = mapRef.current;
+		if (!map || !map.getLayer('cafe-layer')) return;
+
+		if (activeFilters.length === 0) {
+			map.setFilter('cafe-layer', null);
+		} else {
+			const filterShow = ['all', ...activeFilters.map(f => ['==', ['get', f], "TRUE"])];
+			map.setFilter('cafe-layer', filterShow);
+		}
+	}, [activeFilters]);
+
 		const resetMap = () => {
 			if (mapRef.current) {
 				mapRef.current.flyTo({
@@ -222,16 +232,24 @@ const Map = () => {
 				<div className="page-content">
 					<div className="map-content">
 						<div className="key-content">
-							<Key isCompact={false} selected={selected} />
+							<Key isCompact={false} selected={selected} onFilterChange={setActiveFilters} />
 							{/* <div className="map-overlay">		 */}
 								{selected && (<Overlay selected={selected}/>)}
 						</div>
 
 						<div className='map-container' ref={mapContainerRef}/>
 					</div>
+					<div className="map-btn-container">
+						<div classname="zoom-btn-container">
+							<button className="zoom-btn plus-btn">+</button>
+							<button className="zoom-btn minus-btn">-</button>
+						</div>
 						<button className="reset-btn" onClick={resetMap} >
 							<IoIosRefreshCircle className="icon-img" title="Refresh Map" color="#9AA7FF" />
 						</button>
+					</div>
+
+						
 				</div>
 			</div>
   	</>

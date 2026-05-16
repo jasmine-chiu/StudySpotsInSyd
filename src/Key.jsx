@@ -1,13 +1,13 @@
 import { useState } from 'react';
 import { IoIosArrowUp, IoIosArrowDown, IoMdSearch } from 'react-icons/io';
 
-const Key = ({isCompact, selected}) => {
+const Key = ({isCompact, selected, onFilterChange}) => {
 	const [isOpen, setIsOpen] = useState(!isCompact);
 	const [activeFilters, setActiveFilters] = useState([]);
 
 	const filterOptions = [
-    { label: 'WiFi Available', value: 'has-wifi' },
-    { label: 'Power Outlets', value: 'has-power' },
+    { label: 'Wi-Fi Available', value: 'has-wifi' },
+    { label: 'Power Outlets Available', value: 'has-outlets' },
 		{ label: 'Toilets Nearby', value: 'has-toilets' },
     // { label: 'Quiet Zone', value: 'is-quiet' },
     // { label: 'Open Late', value: 'open-late' }
@@ -35,10 +35,6 @@ const Key = ({isCompact, selected}) => {
     setActiveFilters([]);
     if (onFilterChange) onFilterChange([]);
   };
-
-  const filter = () => {
-	
-  }
 
 	return (
 		<>
@@ -82,7 +78,6 @@ const Key = ({isCompact, selected}) => {
 										))}
 									</ul>
 									<div className="filter-btn-container">
-										<button className="filter-btn" onClick={filter}>Filter</button>
 										<button className="select-btn" onClick={selectAll}>Select all</button>
 										<button className="select-btn" onClick={clearAll}>Clear selection</button>
 									</div>

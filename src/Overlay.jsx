@@ -23,17 +23,17 @@ const Overlay = ({selected}) => {
   };
 
 	const renderIcon = (feature) => {
-	const isAvailable = String(selected[feature]).toLowerCase() === 'true';
-	const iconUrl = iconMap[feature][isAvailable];
+		const isAvailable = String(selected[feature]).toLowerCase() === 'true';
+		const iconUrl = iconMap[feature][isAvailable];
 
-	return (
-		<img 
-			src={iconUrl} 
-			alt={`${feature} icon`} 
-			className="feature-icon" 
-			title={`${feature}: ${isAvailable ? 'Available' : 'Unavailable'}`}
-			/>
-		);
+		return (
+			<img 
+				src={iconUrl} 
+				alt={`${feature} icon`} 
+				className="feature-icon" 
+				title={`${feature}: ${isAvailable ? 'Available' : 'Unavailable'}`}
+				/>
+			);
 	};
 
 
