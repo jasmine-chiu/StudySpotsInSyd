@@ -11,15 +11,11 @@ import { IoIosRefreshCircle } from 'react-icons/io';
 import 'mapbox-gl/dist/mapbox-gl.css';
 
 const Map = () => {
-	
-	// const filteredSpots = studySpots.filter(spot => 
-		//   filter === 'All' || data.tags.includes(filter)
-		// );
-		
 	const [selected, setSelected] = useState(null);
 	const [activeFilters, setActiveFilters] = useState([]);
+	const [spots, setSpots] = useState([]);
 	const mapRef = useRef()
-  	const mapContainerRef = useRef()
+  const mapContainerRef = useRef()
 	const selectedRef = useRef(null);
 
 	const loadImage = (map, url) => {
@@ -69,9 +65,13 @@ const Map = () => {
 				map.addSource('data-src', {
 					type: 'geojson',
 					data: './data/studySpotsCafe.geojson',
-					// promoteId does not work — manually add id later?
+					// later just use the id col. in future datasets
 					generateId: true
 				});
+
+				fetch('./data/studySpotsCafe.geojson')
+					.then(r => r.json())
+					.then(data => setSpots(data.features));
 
 				map.addLayer({
 					id: 'cafe-layer',
@@ -172,6 +172,10 @@ const Map = () => {
 						zoom: 12
 					});
 				});
+
+				// pressing enter = search
+				map.on('enter', 'cafe-layer', () => {
+				});
 			
 			} catch (err) {
         console.error("Error loading icons:", err);
@@ -196,26 +200,30 @@ const Map = () => {
 		}
 	}, [activeFilters]);
 
-		const resetMap = () => {
-			if (mapRef.current) {
-				mapRef.current.flyTo({
-					center: [151.14882147065683, -33.8819969622573],
-					zoom: 10,
-					essential: true 
-				});
+	const onSpotSelect = (coords) => {
+  	mapRef.current.flyTo({ center: coords, zoom: 15 });
+	};
 
-				if (mapRef.current.getLayer('cafe-layer')) {
-					mapRef.current.setFilter('cafe-layer', null);
-				}
+	const resetMap = () => {
+		if (mapRef.current) {
+			mapRef.current.flyTo({
+				center: [151.14882147065683, -33.8819969622573],
+				zoom: 10,
+				essential: true 
+			});
 
-				mapRef.current.setFeatureState(
-							{ source: 'data-src', id: selectedRef.current }, 
-							{ selected: false }
-						);
-						selectedRef.current = null;
-						setSelected(null);
+			if (mapRef.current.getLayer('cafe-layer')) {
+				mapRef.current.setFilter('cafe-layer', null);
 			}
-		};
+
+			mapRef.current.setFeatureState(
+				{ source: 'data-src', id: selectedRef.current }, 
+				{ selected: false }
+			);
+				selectedRef.current = null;
+				setSelected(null);
+		}
+	};
 
 	return (
     <>
@@ -232,7 +240,11 @@ const Map = () => {
 				<div className="page-content">
 					<div className="map-content">
 						<div className="key-content">
-							<Key isCompact={false} selected={selected} onFilterChange={setActiveFilters} />
+							<Key 
+								isCompact={false}
+								onFilterChange={setActiveFilters} 
+								spots={spots}
+								onSpotSelect={onSpotSelect}/>
 							{/* <div className="map-overlay">		 */}
 								{selected && (<Overlay selected={selected}/>)}
 						</div>
@@ -240,7 +252,7 @@ const Map = () => {
 						<div className='map-container' ref={mapContainerRef}/>
 					</div>
 					<div className="map-btn-container">
-						<div classname="zoom-btn-container">
+						<div className="zoom-btn-container">
 							<button className="zoom-btn plus-btn">+</button>
 							<button className="zoom-btn minus-btn">-</button>
 						</div>

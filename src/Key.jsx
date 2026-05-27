@@ -1,39 +1,57 @@
 import { useState } from 'react';
 import { IoIosArrowUp, IoIosArrowDown, IoMdSearch } from 'react-icons/io';
 
-const Key = ({isCompact, selected, onFilterChange}) => {
+const Key = ({isCompact, onFilterChange, spots, onSpotSelect }) => {
 	const [isOpen, setIsOpen] = useState(!isCompact);
 	const [activeFilters, setActiveFilters] = useState([]);
+	const [query, setQuery] = useState("");
+	const [showSuggestions, setShowSuggestions] = useState(false);
 
 	const filterOptions = [
     { label: 'Wi-Fi Available', value: 'has-wifi' },
-    { label: 'Power Outlets Available', value: 'has-outlets' },
+    { label: 'Power Outlets', value: 'has-outlets' },
 		{ label: 'Toilets Nearby', value: 'has-toilets' },
-    // { label: 'Quiet Zone', value: 'is-quiet' },
     // { label: 'Open Late', value: 'open-late' }
-  ];
+	];
+
+	const suggestions = query.length > 1
+  ? spots.filter(f =>
+      f.properties.name?.toLowerCase().includes(query.toLowerCase()) ||
+      f.properties.suburb?.toLowerCase().includes(query.toLowerCase())
+    ).slice(0, 8)
+  : [];
+
+  const handleSelect = (spot) => {
+    setQuery(spot.properties.name);
+    setShowSuggestions(false);
+    onSpotSelect(spot.geometry.coordinates);
+  };
 
 	const toggleFilter = (val) => {
     const newFilters = activeFilters.includes(val)
-      ? activeFilters.filter(f => f !== val)
-      : [...activeFilters, val];            
+    	? activeFilters.filter(f => f !== val)
+    	: [...activeFilters, val];            
 
-    setActiveFilters(newFilters);
+    	setActiveFilters(newFilters);
     
-    if (onFilterChange) {
-      onFilterChange(newFilters);
-    }
-  };
+			if (onFilterChange) {
+				onFilterChange(newFilters);
+			}
+  	};
 
 	const selectAll = () => {
     const allValues = filterOptions.map(opt => opt.value);
-    setActiveFilters(allValues);
-    if (onFilterChange) onFilterChange(allValues);
+  	setActiveFilters(allValues);
+    if (onFilterChange) {
+			onFilterChange(allValues);
+		} 
   };
 
   const clearAll = () => {
     setActiveFilters([]);
-    if (onFilterChange) onFilterChange([]);
+    if (onFilterChange) {
+			onFilterChange([]);
+		} 
   };
 
 	return (
@@ -56,8 +74,29 @@ const Key = ({isCompact, selected, onFilterChange}) => {
 					{isOpen && (
 						<div>
 							<div id="key-search" className="search">
-								<input id="key-bar" className="search-bar" type="text" placeholder="Search location ..." />
-								<button className="search-btn"><IoMdSearch className="search-icon" /></button>
+								<div className="key-search-container">
+									<input
+										id="key-bar"
+										className="search-bar"
+										type="text"
+										placeholder="Search location ..."
+										value={query}
+										onChange={(e) => { setQuery(e.target.value); setShowSuggestions(true); }}
+										onFocus={() => setShowSuggestions(true)}
+										onBlur={() => setTimeout(() => setShowSuggestions(false), 150)}
+									/>
+									<button className="search-btn"><IoMdSearch className="search-icon" /></button>
+								</div>
+								{showSuggestions && suggestions.length > 0 && (
+                	<ul className="search-suggestions">
+										{suggestions.map((spot, i) => (
+											<li className="suggestion" key={i} onMouseDown={() => handleSelect(spot)}>
+												<b>{spot.properties.name}</b>
+												<span> — {spot.properties.suburb}</span>
+											</li>
+										))}
+                	</ul>
+              	)}
 							</div>
 
 							<div className="key-scrollable">
@@ -83,25 +122,12 @@ const Key = ({isCompact, selected, onFilterChange}) => {
 									</div>
 								</div>
 							</div>
-
-							{/* <ul>
-								<li>nearest (10) spots</li>
-								<li>search by name/notes</li>
-							</ul>
-							<p>filter:</p>
-							<ul>
-								<li>by amenities</li>
-								<li>by opening hours</li>
-								<li>by type</li>
-							</ul> */}
 						</div>
 					)}
 				</div>
 		</div>
 		</>
-
   )
-
 }
 
 export default Key;
