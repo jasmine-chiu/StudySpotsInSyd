@@ -112,7 +112,7 @@
         "has-wifi": "TRUE",
         "has-toilets": "TRUE",
         "": "",
-        "src": "http://google.com/maps/place/Bunker+64+Lidcombe,+Railway+Street,+Lidcombe+NSW/@-33.8641317,151.0381382,17z/data=!4m5!3m4!1s0x6b12bdd9be2c572f:0x35cef17ec3c55f72!8m2!3d-33.8638612!4d151.0441421?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "src": "http://www.google.com/maps/place/Bunker+64+Lidcombe,+Railway+Street,+Lidcombe+NSW/@-33.8641317,151.0381382,17z/data=!4m5!3m4!1s0x6b12bdd9be2c572f:0x35cef17ec3c55f72!8m2!3d-33.8638612!4d151.0441421?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
         "address": "Address not found"
       }
     },
@@ -158,7 +158,7 @@
         "has-wifi": "FALSE",
         "has-toilets": "TRUE",
         "": "",
-        "src": "http://google.com/maps/place/LAB+Strathfield,+The+Boulevarde,+Strathfield+NSW/@-33.8638612,151.0415672,17z/data=!4m5!3m4!1s0x6b12bad863026821:0xf9c5d5503af1bc4f!8m2!3d-33.8726016!4d151.0944386?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "src": "http://www.google.com/maps/place/LAB+Strathfield,+The+Boulevarde,+Strathfield+NSW/@-33.8638612,151.0415672,17z/data=!4m5!3m4!1s0x6b12bad863026821:0xf9c5d5503af1bc4f!8m2!3d-33.8726016!4d151.0944386?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
         "address": "Address not found"
       }
     },
@@ -328,8 +328,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.0849047,
-          -33.8604425
+          103.9211566,
+          1.3839804
         ]
       },
       "properties": {
@@ -342,7 +342,7 @@
         "has-wifi": "FALSE",
         "has-toilets": "",
         "": "",
-        "src": "https://www.google.com/maps/place/La+Lune+Market/@-33.8604425,151.0849047,17z/data=!3m2!4b1!5s0x6b12bb2c74b4c937:0x5f3b696fc04c87bc!4m6!3m5!1s0x6b12bbe500e3ad9f:0x5f347abcc097ace6!8m2!3d-33.8604425!4d151.0874796!16s%2Fg%2F11p13yh40j?entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+        "src": "http://google.com/maps/place/La+Lune+Market,+Shop+1+George+Street,+North+Strathfield+NSW/@1.3839804,103.9211566,12.13z/data=!3m1!5s0x31da15ed9fba9541:0xa7e661a3be5461cd!4m5!3m4!1s0x6b12bbe500e3ad9f:0x5f347abcc097ace6!8m2!3d-33.8604425!4d151.0874796?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
         "address": "Address not found"
       }
     },
@@ -443,8 +443,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.098052,
-          -33.864568
+          151.0768901,
+          -33.7910891
         ]
       },
       "properties": {
@@ -457,7 +457,7 @@
         "has-wifi": "TRUE",
         "has-toilets": "",
         "": "",
-        "src": "http://google.com/maps/place/1606+Luis+de+Torres+Rhodes,+Rider+Boulevard,+Rhodes+NSW/@-33.864568,151.098052,11.88z/data=!4m5!3m4!1s0x6b12a4e43c0cd8d3:0xdb0ac6055511414a!8m2!3d-33.8317866!4d151.0861066?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+        "src": "http://google.com/maps/place/1606+Luis+de+Torres+Rhodes,+Rider+Boulevard,+Rhodes+NSW/@-33.7910891,151.0768901,17z/data=!4m5!3m4!1s0x6b12a4e43c0cd8d3:0xdb0ac6055511414a!8m2!3d-33.8317866!4d151.0861066?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D",
         "address": "Address not found"
       }
     },
@@ -701,7 +701,7 @@
         ]
       },
       "properties": {
-        "name": "The Brothers Project Cafe",
+        "name": "The Brothers project cafe",
         "id": "the-brothers-project-cafe",
         "area": "cbd",
         "suburb": "Rosebery",
@@ -775,7 +775,7 @@
         "area": "cbd",
         "suburb": "Sydney",
         "type": "cafe",
-        "has-outlets": "FALSE",
+        "has-outlets": "",
         "has-wifi": "TRUE",
         "has-toilets": "",
         "": "",
@@ -798,7 +798,7 @@
         "area": "ns",
         "suburb": "Chatswood",
         "type": "cafe",
-        "has-outlets": "FALSE",
+        "has-outlets": "",
         "has-wifi": "TRUE",
         "has-toilets": "",
         "": "",

@@ -21,6 +21,7 @@ html, body {
   margin: 0;
   padding: 0;
   width: 100%;
+	height: 100vh;
   font-size: 18px;
   font-family: RCB;
   color: #2C2D62;
@@ -187,7 +188,6 @@ a {
 
 .nav-btn:hover {
 	font-weight: bold;
-	border: 2px dotted #FF5757;
 }
 
 #nav-bar {
@@ -266,7 +266,7 @@ a {
   cursor: pointer;
   color: #2C2D62;
   line-height: 18px;
-  border-bottom: 1px dotted #9AA7FF;
+  border-bottom: 1px dotted #9AA7FF
 }
 
 .search-suggestions li:last-child {
@@ -312,7 +312,6 @@ a {
     padding-top: 0;
     padding-bottom: 0;
     flex: 1;
-    
 }
 
 .page-bot {
@@ -529,8 +528,8 @@ a {
 	display: flex;
 	flex-direction: column;
 	z-index: 10;
-	bottom: 80px;
-	right: 100px;
+	bottom: 75px;
+	right: 75px;
 	border-radius: 50%;
 	border: none;
 	gap: 20px;
@@ -538,7 +537,6 @@ a {
 
 .zoom-btn-container {
 	width: 100%;
-	border: 1px pink solid;
 }
 
 .zoom-btn {
@@ -627,6 +625,7 @@ ul {
       height: 40px;
       width: 40px; 
     }
+		
     .page-content {
         display: flex;
         flex-grow: 1;

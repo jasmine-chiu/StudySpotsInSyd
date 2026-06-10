@@ -1,7 +1,7 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { IoIosArrowUp, IoIosArrowDown, IoMdSearch } from 'react-icons/io';
 
-const Key = ({isCompact, onFilterChange, spots, onSpotSelect }) => {
+const Key = ({isCompact, onFilterChange, spots, onSpotSelect, resetKey }) => {
 	const [isOpen, setIsOpen] = useState(!isCompact);
 	const [activeFilters, setActiveFilters] = useState([]);
 	const [query, setQuery] = useState("");
@@ -21,11 +21,11 @@ const Key = ({isCompact, onFilterChange, spots, onSpotSelect }) => {
     ).slice(0, 8)
   : [];
 
-  const handleSelect = (spot) => {
-    setQuery(spot.properties.name);
-    setShowSuggestions(false);
-    onSpotSelect(spot.geometry.coordinates);
-  };
+	const handleSelect = (spot) => {
+  	setQuery(spot.properties.name);
+  	setShowSuggestions(false);
+  	onSpotSelect(spot); 
+	};
 
 	const toggleFilter = (val) => {
     const newFilters = activeFilters.includes(val)
@@ -53,6 +53,13 @@ const Key = ({isCompact, onFilterChange, spots, onSpotSelect }) => {
 			onFilterChange([]);
 		} 
   };
+
+	useEffect(() => {
+		if (resetKey === 0) return;
+		setQuery("");
+		setShowSuggestions(false);
+		setActiveFilters([]);
+  }, [resetKey]);
 
 	return (
 		<>

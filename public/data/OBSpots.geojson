@@ -1,0 +1,905 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2125966,
+          -33.9051027
+        ]
+      },
+      "properties": {
+        "name": "Oliver Brown",
+        "place_id": "ChIJuyipg-mxEmsRV2r6D-d1kfI",
+        "address": "Ground Floor, East Village, 4 Defries Ave, Zetland NSW 2017, Australia",
+        "suburb": "",
+        "rating": 3.6,
+        "rating_count": 400,
+        "hours": {
+          "Monday": "7:00 AM – 9:00 PM",
+          "Tuesday": "7:00 AM – 9:00 PM",
+          "Wednesday": "7:00 AM – 9:00 PM",
+          "Thursday": "7:00 AM – 9:00 PM",
+          "Friday": "7:00 AM – 9:00 PM",
+          "Saturday": "7:30 AM – 9:00 PM",
+          "Sunday": "7:30 AM – 9:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Paola Bistre",
+            "rating": 5,
+            "text": "This place is great, the hot chocolate especially is fantastic. Everything I’ve tried so far has been delicious and the staff is super friendly."
+          },
+          {
+            "author": "Mark Butler",
+            "rating": 5,
+            "text": "Great mochas and hot chocolates with proper Belgian chocolate. Nice desserts like waffles as well. Iced drinks are great for a hot day with fruit crushes from $8.50 and milkshakes $7.50 but a lot more for the special ones like Iced Choc Mojito for $12. So, on the expensive side but consistently decent quality. Many tables inside and a few outside."
+          },
+          {
+            "author": "Moguchee Moguchee",
+            "rating": 5,
+            "text": "Is great place to have chocolate desserts! The churros were soft and fluffy with two choice of chocolate fondues. The waffles were thick and filling- it was topped with fresh strawberries and banana! The chocolate fondue here were smooth and rich! I liked it a lot!"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2017199,
+          -33.8268786
+        ]
+      },
+      "properties": {
+        "name": "Oliver Brown",
+        "place_id": "ChIJsQNayemuEmsRbqOKWjg9JAs",
+        "address": "3/34-48 Alexander St, Crows Nest NSW 2065, Australia",
+        "suburb": "",
+        "rating": 3.9,
+        "rating_count": 497,
+        "hours": {
+          "Monday": "7:00 AM – 9:30 PM",
+          "Tuesday": "7:00 AM – 9:30 PM",
+          "Wednesday": "7:00 AM – 9:30 PM",
+          "Thursday": "7:00 AM – 9:30 PM",
+          "Friday": "7:00 AM – 10:30 PM",
+          "Saturday": "7:00 AM – 10:30 PM",
+          "Sunday": "7:00 AM – 9:30 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Danny Metin",
+            "rating": 2,
+            "text": "Atmosphère is nice. If your looking for an average coffee shop it's right here. Latte was nice, mocca was so sweet with extra milk chocolate spread dripped on top. The croissant was cut in half! Interesting, maybe it had been prepared earlier with another intent. The taste was very plain like the one you buy from a supermarket The service was nice."
+          },
+          {
+            "author": "Rachael Ouyang",
+            "rating": 1,
+            "text": "TLDR: incredibly rude, atrocious, unfair behaviour from a potentially racist owner. Will not be coming here again.\n\nI paid $40 for lunch and a drink, and came here to study with my friend for a few hours (as other customers were similarly doing).\nIt started when I came back from a mini study break and my friend told me that the owner had come to her and told her rudely \"you can only stay here for 1 hour, you should leave.\"\n\nI was a shocked by this (given that others were doing the same thing) so went to have a calm conversation with the owner to clarify the situation. He was immediately defensive and agitated at the start, claiming that we were taking up space and costing him profit from more patrons. I asked how this was the case when up till now, the place had been half empty, and thus we weren't taking up space from any incoming patrons (and that obviously if we saw that the place was full, out of common courtesy we would've left). He said that we were in a \"premium spot\" and I said that well if we moved to a \"non-premium spot\" and there were many tables available (as there were now) then he should explain the logic behind telling us to leave, to which he stood there unable to answer. He then tried evading that question (because in fact he didn't have a plausible answer) to which I called him out on. He said he didn't want to answer.\n\nI then said that we'd never experienced anything like this, even at another Oliver Brown, and thus I acknowledged that this must be how he chooses to do things at his establishment, rudely and without clear explanation or logic.\n\nThe next thing I mentioned was how he only told us (two young Asian women) to leave. I stated how other patrons, including the two right next to us (notably white men), had been at the cafe for a similar amount of time (2.5h) yet he hadn't told them to leave, only us. I highlighted the unfairness of this, given that we had also at least paid for drinks (again I had spent a whopping $40), and that if this was some consistent rule, it should be made clear to patrons and apply to everyone.\n\nThe images attached show how the place clearly had many available tables the entire time, and how we weren't the only people choosing to stay there to do personal work with their laptops.\n\nThis was an atrocious experience from an incredibly rude, unfair, and potentially racist owner. We will not be coming back here."
+          },
+          {
+            "author": "Masaki Kawakami",
+            "rating": 4,
+            "text": "Visited Oliver Brown and tried their matcha latte, and it really hit the spot.\nThe matcha flavor was rich but not overpowering, with a creamy finish and just the right sweetness. The presentation was clean and inviting, and the staff were kind and attentive. Even though Oliver Brown is known for its chocolate drinks, the matcha latte was an excellent surprise — refreshing and comforting at the same time. Great spot to sit, relax, and enjoy a warm drink in Sydney."
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1853524,
+          -33.9228557
+        ]
+      },
+      "properties": {
+        "name": "Oliver Brown",
+        "place_id": "ChIJzQYX7OqwEmsRQ1IRj-dHSO4",
+        "address": "19/19-33 Kent Rd, Mascot NSW 2020, Australia",
+        "suburb": "",
+        "rating": 3.9,
+        "rating_count": 608,
+        "hours": {
+          "Monday": "6:30 AM – 9:00 PM",
+          "Tuesday": "6:30 AM – 9:00 PM",
+          "Wednesday": "6:30 AM – 9:00 PM",
+          "Thursday": "6:30 AM – 9:00 PM",
+          "Friday": "6:30 AM – 10:00 PM",
+          "Saturday": "7:00 AM – 10:00 PM",
+          "Sunday": "7:00 AM – 9:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Joy Seko",
+            "rating": 1,
+            "text": "I had an extremely bad experience at the Oliver Brown Mascot branch on 14 February 2026.\n\nI ordered 2 waffles, 1 large latte, and 1 regular hot chocolate. Initially, I wanted to pay by cash, but the cashier informed me they had no change and asked me to pay by card (with a surcharge). I understood and proceeded with card payment.\n\nAfter placing my order, I sat outside to wait. However, one of the staff members approached me twice asking if I had ordered. I explained both times that I was still waiting.\n\nWhen my order finally arrived, the latte was presented in a very messy condition and was not hot, it was already lukewarm. The staff member simply said sorry about that and that’s all.\n\nAdditionally, the waffles were overly sweet, I could actually taste large amounts of sugar inside them.\n\nI have never had an experience like this before. Overall, it was very poor service."
+          },
+          {
+            "author": "SW",
+            "rating": 5,
+            "text": "Food is good and portion is just nice for us. I got Flat White in my thermos. The atmosphere in Etherden Walk here is awesome, breezy with many greens! Great place to have your meal."
+          },
+          {
+            "author": "Ls Chan",
+            "rating": 5,
+            "text": "Nice Cafe serving all day coffee in Mascot, Sydney. Breakfast here in Oliver Brown is great - good coffee paired with their pastries. It gets pretty busy in the morning thus may need to wait a little longer for your food. The chorizo croissant is a pleasant surprise- tasty and spicy too 👍"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0702578,
+          -33.8519611
+        ]
+      },
+      "properties": {
+        "name": "Oliver Brown",
+        "place_id": "ChIJbzuTR9elEmsRRwSgyjQKWno",
+        "address": "Shop 2/3 Olympic Blvd, Sydney Olympic Park NSW 2127, Australia",
+        "suburb": "",
+        "rating": 4,
+        "rating_count": 522,
+        "hours": {
+          "Monday": "6:00 AM – 11:00 PM",
+          "Tuesday": "6:00 AM – 11:00 PM",
+          "Wednesday": "6:00 AM – 11:00 PM",
+          "Thursday": "6:00 AM – 11:00 PM",
+          "Friday": "6:00 AM – 11:00 PM",
+          "Saturday": "6:00 AM – 11:00 PM",
+          "Sunday": "6:00 AM – 11:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Khaliun Tsog-Ochir",
+            "rating": 2,
+            "text": "I ordered the big breakfast, but it was a complete letdown. The sausage was tiny — definitely not what you’d expect from something called a “big” breakfast — and there was no bacon at all. I asked the waiter to remake it, but he never brought anything back or even followed up. On top of that, the chicken pesto pasta I ordered tasted awful — completely bland and unpleasant. Later, I checked Google reviews and photos, and honestly, what I received looked nothing like what was shown. This place is very misleading, and the food quality was far below average. Definitely wouldn’t recommend."
+          },
+          {
+            "author": "J",
+            "rating": 5,
+            "text": "Good interiors. Huge space with lots of available seats for a big group like ours. Kitchen closes at 5 MWF, which was a shame cos we were keen to try their all-day breakfast, but there were still sandwiches, crepes, and waffles to choose from. Service is really accommodating and friendly"
+          },
+          {
+            "author": "Social Yhel",
+            "rating": 1,
+            "text": "I’ve been a fan of Oliver Brown, especially this branch. I usually come in on weekends and also order online. Today, I placed an order through Uber and got my usual Iced Coffee. However, when it arrived, it didn’t have the ice cream on my ice coffee that I really enjoy. I’m very disappointed. Although I received a refund through Uber, I still want to leave this review because it’s frustrating when my order is missing its taste."
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9252724,
+          -33.6913263
+        ]
+      },
+      "properties": {
+        "name": "Oliver Brown",
+        "place_id": "ChIJWb4BKaGfEmsR1eqO8y2VJRU",
+        "address": "Ground Floor, Rouse Hill Town Centre, Cnr Windsor Rd &, White Hart Dr, Rouse Hill NSW 2155, Australia",
+        "suburb": "",
+        "rating": 3.5,
+        "rating_count": 1007,
+        "hours": {
+          "Monday": "8:30 AM – 9:00 PM",
+          "Tuesday": "8:30 AM – 9:00 PM",
+          "Wednesday": "8:30 AM – 9:00 PM",
+          "Thursday": "8:30 AM – 10:00 PM",
+          "Friday": "8:30 AM – 10:00 PM",
+          "Saturday": "8:30 AM – 10:00 PM",
+          "Sunday": "8:30 AM – 9:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Cherry Yip (#SydneyObento)",
+            "rating": 2,
+            "text": "On Sundays it looks like management not here but just a few young kids working there to get pocket money , chilling behind the counter and not coming out to wipe tables and benches despite having about 4 of them there and the drink station has spilled water that wasn’t wiped.\n\nI ordered Latte -  very diluted taste but appearance was instagrammable\n\nthe rest of us ordered Cappuccino and was told it tasted ok.\n\nDon’t think I’ll come back again"
+          },
+          {
+            "author": "arshia dashtian",
+            "rating": 1,
+            "text": "This is the worst place I ever been .\nPeople that work there they really rude and not friendly. I ordered an iced white chocolate\nThey bring me iced chocolate and say you didn’t mention that and they act really rude I ordered another one and they didn’t even bring it to us and said takeaway . That is so disrespectful."
+          },
+          {
+            "author": "Sanind Shaikh",
+            "rating": 5,
+            "text": "Oliver Brown Rouse Hill is our absolute go-to breakfast spot as a family! My kids and I love coming here — the waffles and pancakes are always amazing, fresh, and perfectly made. The atmosphere is warm and welcoming, making it the perfect place to start our mornings together.\n\nA special mention to Louis, who always provides such friendly and attentive service. He makes the experience even better every time we visit.\n\nHighly recommend Oliver Brown Rouse Hill for anyone looking for a delicious breakfast and great service. It’s become a favourite for our whole family!\n\n---\n\nWould you like me to make it a bit shorter and more casual (like a quick Google review), or keep this slightly detailed version for a stronger impact?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0934858,
+          -33.87260270000001
+        ]
+      },
+      "properties": {
+        "name": "Oliver Brown",
+        "place_id": "ChIJ1RZ2f9i6EmsRpwyt5p1jXwo",
+        "address": "Shop 32/11 The Boulevarde, Strathfield NSW 2135, Australia",
+        "suburb": "",
+        "rating": 3.6,
+        "rating_count": 713,
+        "hours": {
+          "Monday": "8:00 AM – 10:00 PM",
+          "Tuesday": "8:00 AM – 10:00 PM",
+          "Wednesday": "8:00 AM – 10:00 PM",
+          "Thursday": "8:00 AM – 10:00 PM",
+          "Friday": "8:00 AM – 10:00 PM",
+          "Saturday": "8:00 AM – 10:00 PM",
+          "Sunday": "8:00 AM – 10:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Nikhil Nayak",
+            "rating": 5,
+            "text": "A Heavenly Dessert Experience at Oliver Brown!\nI recently had one of the best hot chocolates of my life at a spot in Strathfield Mall, and their Tiramisu? Absolutely divine! It just melts in your mouth—I'd describe it as a truly out-of-body experience.\nThey offer an amazing selection, including fantastic cheesecakes, rich mud cakes, a variety of chocolates, and delicious cookies. You can also find a good range of soft drinks, coffee, and thick shakes.\nThe staff is incredibly friendly and welcoming, and I love that they have both indoor and outdoor dining options. You'll find it easily inside Strathfield Mall, on your left as soon as you walk in. Seriously, give it a try; you won't regret it! ❤️"
+          },
+          {
+            "author": "Craig Dunkan",
+            "rating": 1,
+            "text": "I’m not sure if the female staff (dark skin, thick accent) was having a bad day, but that doesn’t excuse being rude to customers. don’t react negatively or funny when a customer places an order due to a lack of attention on your side, that interaction felt unnecessary and disrespectful. and don't need to have annoyed face at all.\n\nThe order itself (a strawberry matcha cloud) was not complicated, and the situation could have been handled much more politely.👌"
+          },
+          {
+            "author": "Mostafa Ghorbani Koli",
+            "rating": 1,
+            "text": "I bought Macha shake with strawberry flour the waiter recommend to me she told this most popular Macha I think she doesn’t know what does mean most popular!%70 of shake was iced and the Macha shake picture miss represents shake I never recommend this for no one"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1048614,
+          -33.8748474
+        ]
+      },
+      "properties": {
+        "name": "Oliver Brown Burwod Westfield",
+        "place_id": "ChIJv9Qcztq6EmsRUK2Yq5wCLDA",
+        "address": "100 Burwood Rd, Burwood NSW 2134, Australia",
+        "suburb": "",
+        "rating": 3.9,
+        "rating_count": 431,
+        "hours": {
+          "Monday": "8:30 AM – 9:00 PM",
+          "Tuesday": "8:30 AM – 9:00 PM",
+          "Wednesday": "8:30 AM – 9:00 PM",
+          "Thursday": "8:30 AM – 9:00 PM",
+          "Friday": "8:30 AM – 9:00 PM",
+          "Saturday": "8:30 AM – 9:00 PM",
+          "Sunday": "8:30 AM – 9:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Shaikh Razik",
+            "rating": 5,
+            "text": "⭐⭐⭐⭐⭐\n\nHuge shoutout to Jessica for going above and beyond to make this online birthday delivery so special! Even though the request was made online, Jessica truly put in the effort to make sure the surprise felt thoughtful and memorable. It’s not easy to create such a warm and personal experience through a delivery, but she absolutely nailed it. Her dedication and willingness to try her best to make the birthday special really stood out. The whole process felt smooth, caring, and genuinely customer-focused.\n\nThank you so much, Jessica, for making the birthday celebration extra special from afar. Really appreciate the effort cheers!"
+          },
+          {
+            "author": "Nerine Cummins",
+            "rating": 5,
+            "text": "Located at Westfield Burwood Shopping Centre, 100 Burwood Road, Burwood, New South Wales, Australia 🇦🇺 (just near the Event Cinemas).\nA great place to go to for a delicious 😋 snack and drink before going to the movies 🎥. The selection of cakes and drinks are always great and the churros are sooo yummy 🤤. The hot chocolate is some of the best I have had. There are tables but they are up stairs, there’s a single table and chairs at the entrance. There’s also ice cream available. The staff are always very friendly and welcoming. Willing to help with any questions and requests. The service is always quick and professional. Would definitely recommend. Thumbs up!!! 👍👍👍"
+          },
+          {
+            "author": "Isabella S",
+            "rating": 5,
+            "text": "Service with a smile, and killer strong coffee! Great clean premises, a nice spot to sit and relax before a movie with the kids."
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.040226,
+          -33.9160401
+        ]
+      },
+      "properties": {
+        "name": "Oliver Brown",
+        "place_id": "ChIJCRIuOQ-8EmsRQ_ePsVnKFAY",
+        "address": "Shop 231 Lady Cutler Ave, Bankstown NSW 2200, Australia",
+        "suburb": "",
+        "rating": 4,
+        "rating_count": 779,
+        "hours": {
+          "Monday": "8:00 AM – 8:00 PM",
+          "Tuesday": "8:00 AM – 8:00 PM",
+          "Wednesday": "8:00 AM – 9:00 PM",
+          "Thursday": "8:00 AM – 10:00 PM",
+          "Friday": "8:00 AM – 9:00 PM",
+          "Saturday": "8:00 AM – 9:00 PM",
+          "Sunday": "8:00 AM – 8:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Amy Hoang",
+            "rating": 5,
+            "text": "I stumbled across this cafe as I was shopping around bankstown central, and thank goodness I did! The staff was great, and the lady serving me at the counter was lovely.\nThank you to whoever was in the kitchen today, as the Turkish eggs that I ordered were the best I've ever eaten. The eggs were cooked to perfection, the sundried tomatoes and labneh was golden, and the zaatar manoush was perfect. Would highly recommend going here not only for a sweet drink but also a wonderful meal\nThank you!!"
+          },
+          {
+            "author": "aybota janat",
+            "rating": 5,
+            "text": "⭐⭐⭐⭐⭐ – Great service and atmosphere!\nReally impressed with this coffee shop. The service was fast and friendly, and the staff made me feel welcome right away. My coffee was delicious and the place had a warm, cozy vibe — perfect for relaxing or getting some work done. Highly recommend!"
+          },
+          {
+            "author": "Abdul",
+            "rating": 1,
+            "text": "My experience at Oliver brown was disappointing, disgusting Oreo crepe. Came into the store purchased this Oreo crepe got home opened up box check the image shown that’s how it looks like coming on what’s the staff doing. Rang store asked for supervisor Bianca answered was rude on the phone and not professional than passed me onto a guy Juliet also not professional and refused to give me store manager name. My wife’s pregnant and was scared to eat this. Definitely good lead to possible food poison. I want further action taken by the store manager. People of Bankstown beware of this store and food served."
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2384203,
+          -33.9408371
+        ]
+      },
+      "properties": {
+        "name": "Oliver Brown",
+        "place_id": "ChIJh0oDoxKzEmsRrwjGKL48u88",
+        "address": "Shop49/737 Anzac Parade, Maroubra NSW 2035, Australia",
+        "suburb": "",
+        "rating": 4.3,
+        "rating_count": 331,
+        "hours": {
+          "Monday": "7:30 AM – 7:00 PM",
+          "Tuesday": "7:30 AM – 7:00 PM",
+          "Wednesday": "7:30 AM – 7:00 PM",
+          "Thursday": "7:30 AM – 7:00 PM",
+          "Friday": "7:30 AM – 7:00 PM",
+          "Saturday": "8:00 AM – 7:00 PM",
+          "Sunday": "8:00 AM – 7:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Vivian Saptajaya",
+            "rating": 5,
+            "text": "I recently visited Oliver Brown in Maroubra juction, and I must say, it was an excellent experience!\n\nThe menu has a fantastic variety of options, but I couldn’t resist trying their famous chocolate dishes. I ordered the waffle and hot chocolate, and it was absolutely divine! The presentation was beautiful, and every bite was a chocolate lover's dream.\n\nThe staff were friendly and attentive, making sure my visit was enjoyable. I appreciated their recommendations and the prompt service.\n\nI also loved the vibe of the place—perfect for catching up with friends or enjoying a sweet treat on your own.\nI can’t wait to go back and try more from their menu!"
+          },
+          {
+            "author": "G con",
+            "rating": 1,
+            "text": "Coffee is very average, didn't have a cold can of soft drink at ten AM on a Thursday, went elsewhere for breakfast. I have been one other time, the waitresses need retraining, they serve cans of drinks without glasses to the table, they don't clear the table after food even though you just ordered coffee. Multiple trips for the same work."
+          },
+          {
+            "author": "asti indah",
+            "rating": 5,
+            "text": "I always buy my coffee and snacks here and it never disappoints. The coffee is consistently great, the food is fresh, and the café has a really nice atmosphere."
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0827885,
+          -33.9514627
+        ]
+      },
+      "properties": {
+        "name": "Oliver Brown",
+        "place_id": "ChIJhXn2MnC5EmsR9qFOR833aF4",
+        "address": "544 King Georges Rd, Beverly Hills NSW 2209, Australia",
+        "suburb": "",
+        "rating": 3.8,
+        "rating_count": 558,
+        "hours": {
+          "Monday": "7:30 AM – 11:00 PM",
+          "Tuesday": "7:30 AM – 11:00 PM",
+          "Wednesday": "7:30 AM – 11:00 PM",
+          "Thursday": "7:30 AM – 11:00 PM",
+          "Friday": "7:30 AM – 12:00 AM",
+          "Saturday": "7:30 AM – 12:00 AM",
+          "Sunday": "7:30 AM – 11:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "englishholic1",
+            "rating": 3,
+            "text": "Went here last week, had an excellent experience.\n\nWent again a few days ago and the crepe was inedible.\n\nThey also ran out of berries and pistachios for the waffles. So I wasn’t able to order those two waffles. Bear in mind this was around midday. So I am not sure how they could have run out at that time.\n\nCoffees are excellent. Cake slices and desserts in the cake display are great.\n\nCustomer service was average.\n\nOn a side note, please don’t overcook your crepes and then hide your mistake by turning them upside down onto the plate, then drowning them with chocolate. They’re inedible and the customer will know!\n\nWould I be back. Possibly for the coffee and pre made desserts."
+          },
+          {
+            "author": "Laura Torres",
+            "rating": 2,
+            "text": "We have been coming here on Mondays and Tuesdays for coffee for more than two months. The products they offer are good and of good quality.\n\nHowever, the service from the woman who serves us is usually not very cordial. She does not greet us and generally comes across as annoyed or distant.\n\nI understand that we can all have difficult days, but this attitude has been consistent every time we visit.\n\nCustomer service in a café should be, at the very least, professional and friendly. A simple greeting and a few words of courtesy make a difference."
+          },
+          {
+            "author": "Kronoz Nakarmi",
+            "rating": 5,
+            "text": "The morning coffee in OB is addictive. Have been a regular visitor nothing else but a sip of coffee and Belgian chocolate"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1063771,
+          -33.8132737
+        ]
+      },
+      "properties": {
+        "name": "Oliver Brown",
+        "place_id": "ChIJ76DOtrqlEmsRdoqJ7KkvPDQ",
+        "address": "Australia, New South Wales, Ryde, Blaxland Rd, Top Ryde City Shopping Centre, L1 4004 Devlin St &",
+        "suburb": "",
+        "rating": 3.9,
+        "rating_count": 440,
+        "hours": {
+          "Monday": "8:00 AM – 9:00 PM",
+          "Tuesday": "8:00 AM – 9:00 PM",
+          "Wednesday": "8:00 AM – 9:00 PM",
+          "Thursday": "8:00 AM – 10:00 PM",
+          "Friday": "8:00 AM – 10:00 PM",
+          "Saturday": "8:00 AM – 10:00 PM",
+          "Sunday": "8:00 AM – 10:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Aimee Meng",
+            "rating": 5,
+            "text": "I loved the food, desserts and drinks here. The manager was awesome and made sure everything was up to standard.\n\nNEW MATCHA Cloud drinks at @oliverbrownofficial\nFeaturing:\n- Chicken Schnitzel Panini\n- Chicken Avo Panini\n- Avocado Toast\n- Mango Matcha Cloud\n- Strawberry Matcha Cloud\n- Coconut Matcha\n- Fondue for 2\n- Sticky Date Pudding\n- Tiramisu Slice\n- Almond Croissant\n- Passionfruit Coconut Slice\n- Pistachio Churros"
+          },
+          {
+            "author": "Kazza Blanca",
+            "rating": 4,
+            "text": "Have visited a couple of times with my toddler granddaughter. We order a kids milkshake for her which she loves, now if only they had kid sandwiches or similar? I asked the staff but they weren’t familiar enough with the menu to help me out.\nLast time I was there I ordered using the code on table- it took longer to get my order and the kids milkshake came out 5 mins after my drink.  It really should come together or first.\nIt’s a nice environment inside & I appreciate having a high chair available to use."
+          },
+          {
+            "author": "Laxman Raut",
+            "rating": 5,
+            "text": "No doubt best place to have hot chocolate and coffee. Nice are, plenty of sitting space, welcoming staff. Highly recommend."
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9876914,
+          -33.8542098
+        ]
+      },
+      "properties": {
+        "name": "El mocha",
+        "place_id": "ChIJcTwO9he9EmsRoqWw3KLMHj4",
+        "address": "271 Guildford Rd, Guildford NSW 2161, Australia",
+        "suburb": "",
+        "rating": 3.8,
+        "rating_count": 240,
+        "hours": {
+          "Monday": "6:00 AM – 11:00 PM",
+          "Tuesday": "6:00 AM – 11:00 PM",
+          "Wednesday": "6:00 AM – 11:00 PM",
+          "Thursday": "6:00 AM – 11:00 PM",
+          "Friday": "6:00 AM – 11:00 PM",
+          "Saturday": "6:00 AM – 11:00 PM",
+          "Sunday": "7:00 AM – 11:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Maruf Maykdad",
+            "rating": 1,
+            "text": "Really disappointed with this place. The coffee was served in a flimsy, unstable cup — the lid barely stayed on, and the guy even warned me to “be careful” as he handed it over. That alone says a lot. Later I noticed stains of chocolate or something else on the outside of the cup, which was just gross. Worst of all, the coffee itself was cold as hell. Honestly, I’d take a $2 servo coffee over this any day — and it doesn’t even come close to a 7-Eleven brew. Not coming back."
+          },
+          {
+            "author": "Eman Hussein",
+            "rating": 1,
+            "text": "The worst cappuccino i ever had in my life . Can't even call it a coffee,  there was no foam just hot water with a little milk and dirt for coffee. The custard slice was old and tastless. My mother's espresso was cold and tasted like dirt. We threw it away . Save your money. The server was nice though"
+          },
+          {
+            "author": "leon ear",
+            "rating": 2,
+            "text": "Went here for dessert. Ordered a thickshake and fruitty waffle. Thickshake was more runny then a milkshake and they have the audacity to call it a thickshake. Fruity waffle fruits were not sweet at all and ice cream was bland, only saving grace was the chocolate. Ice cream on top also came melted texture was horrible. Melted icecream on a thick waffle with sour bananas."
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0851723,
+          -33.8344538
+        ]
+      },
+      "properties": {
+        "name": "Oliver Brown",
+        "place_id": "ChIJGea5m-akEmsRoJ7_43eQ7c8",
+        "address": "Ground Floor Rhodes Waterside Shopping Centre, 51/1 Rider Blvd, Rhodes NSW 2138, Australia",
+        "suburb": "",
+        "rating": 3.3,
+        "rating_count": 603,
+        "hours": {
+          "Monday": "7:00 AM – 10:30 PM",
+          "Tuesday": "7:00 AM – 10:30 PM",
+          "Wednesday": "7:00 AM – 10:30 PM",
+          "Thursday": "7:00 AM – 10:30 PM",
+          "Friday": "7:00 AM – 10:30 PM",
+          "Saturday": "7:30 AM – 10:30 PM",
+          "Sunday": "7:30 AM – 10:30 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Maria Benjamin",
+            "rating": 2,
+            "text": "This place used to be a favourite, but sadly the quality has declined. We ordered the Belgian waffles for two and received two very ordinary waffles - nothing that justified the name. They came with basic vanilla ice cream and a drizzle of chocolate sauce. For the price, it felt completely unjustified. The drinks were fine, but overall it wasn’t worth it. Indoor and outdoor seating available. We won’t be rushing back."
+          },
+          {
+            "author": "Laura Osman",
+            "rating": 1,
+            "text": "The third time I come to this particular oliverbrown in the last 2months.\nFirst time had a terrible experience of the tables being so dirty and staff not cleaning it even after being asked twice.\nSecond time I had to wait over 20mins for a mocha then I got told that someone else took my order even though I was seated right near the pick up section and they didn’t called out my order. Staff were extremely rude.\nThird time and last time was yesterday. I asked for an iced mocha and the waiter looked at me blankly. I repeated my order and was met with silence again. They didn’t even put it through their system. I’m not sure if there was a language barrier. I said it a third time and another staff member helped them but then I was given a mocha milk shake instead of an iced mocha.\n\nDefinitely do not recommend. I’ve been here in the past but I’m sure they are under new management as this is no where near the standard of service I have received in previous years."
+          },
+          {
+            "author": "YM Lee",
+            "rating": 5,
+            "text": "The coffee and waffles were really good, and the staff were kind and welcoming. It was a pleasant experience, and I would definitely come back again."
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9113276,
+          -33.7056227
+        ]
+      },
+      "properties": {
+        "name": "Oliver Brown",
+        "place_id": "ChIJPxFKAxyfEmsRxO8OE9YSPbM",
+        "address": "The Ponds Blvd &, Riverbank Dr, The Ponds NSW 2769, Australia",
+        "suburb": "",
+        "rating": 3.8,
+        "rating_count": 515,
+        "hours": {
+          "Monday": "7:00 AM – 9:00 PM",
+          "Tuesday": "7:00 AM – 9:00 PM",
+          "Wednesday": "7:00 AM – 9:00 PM",
+          "Thursday": "7:00 AM – 9:00 PM",
+          "Friday": "7:00 AM – 9:00 PM",
+          "Saturday": "7:00 AM – 9:00 PM",
+          "Sunday": "7:00 AM – 9:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Jemma Ferrer",
+            "rating": 5,
+            "text": "I recently visited Oliver Brown The Ponds and had a wonderful experience. I ordered the Angus and egg roll, which was delicious and very satisfying, while my husband had the Spanish omelette - both were excellent. We also shared the fondue for two, which was such a treat and perfect for sharing.\n\nThe coffee was great, the service was friendly and efficient, and the food came out quickly. The venue itself is spacious with a lovely atmosphere, making it a great spot whether you’re dining alone or catching up with a group. There’s a fantastic selection of food and drinks, especially on the brunch menu. We’ll definitely be back!"
+          },
+          {
+            "author": "T Semaan",
+            "rating": 4,
+            "text": "First time at this cafe since it changed owners and menu. Definitely more inviting. Being NY day and only 3 staff, it took a little while to get our food. Whilst the big breakfast tasted nice, it was a bit let down by the small serving of scrambled eggs. Smaller than anywhere else we’ve been. That would be my only recommendation to bring the rating up to 5 stars."
+          },
+          {
+            "author": "amelia castle",
+            "rating": 5,
+            "text": "My favourite place for a warm drink and sweet treat. The people that own this one are so lovely and care about their service! (Nothing like the other ones I have been to, sorry to say!) always love coming to the Ponds"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9892875,
+          -33.8346522
+        ]
+      },
+      "properties": {
+        "name": "Oliver Brown",
+        "place_id": "ChIJQ0zpcC29EmsRRobqPxIa-80",
+        "address": "Shop 1065B/1 McFarlane St, Merrylands NSW 2160, Australia",
+        "suburb": "",
+        "rating": 4,
+        "rating_count": 467,
+        "hours": {
+          "Monday": "7:30 AM – 9:30 PM",
+          "Tuesday": "7:30 AM – 9:30 PM",
+          "Wednesday": "7:30 AM – 9:30 PM",
+          "Thursday": "7:30 AM – 9:30 PM",
+          "Friday": "7:30 AM – 9:30 PM",
+          "Saturday": "7:30 AM – 9:30 PM",
+          "Sunday": "7:30 AM – 9:30 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Ahmed",
+            "rating": 4,
+            "text": "Nice spot for dessert or a coffee catch-up. The waffles and churros are always fresh, and the chocolate tastes rich and smooth. Coffee is consistent, and they serve it at the right temperature. The menu has good variety, and presentation is always on point.\n\nThe place can get busy at night, especially on weekends, but the staff handle it well and stay polite even when it’s packed. Sometimes the tables need a quick wipe between customers, but overall, it’s clean and comfortable.\n\nService is quick, and the atmosphere feels relaxed — good for friends, dates, or late-night cravings. Prices are fair for what you get. Definitely one of the better dessert spots in Merrylands."
+          },
+          {
+            "author": "Fatima Barkzee",
+            "rating": 5,
+            "text": "Always the best\nHigh quality of product ,they using very professional serving and customer service\nThey have added ACAI soft serve recently to their menu 🔥ohhh my god that is amazing and incredible 😍\nYou should try this delicious acai and also so many different cakes and sweets which I can’t name all of them but they are so fresh and yummy❤️❤️❤️"
+          },
+          {
+            "author": "Laxman Raut",
+            "rating": 5,
+            "text": "one of my  Favourite place to drink dark hot chocolate (ymmmy 😋😋). Staff always welcome with warm and smile even though they are busy. Does having sitting area, plenty of parking inside stockland. Would highly recommend this place."
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0611678,
+          -33.8924643
+        ]
+      },
+      "properties": {
+        "name": "Oliver Brown",
+        "place_id": "ChIJN-gshhG7EmsRab-VNYAOWoc",
+        "address": "355-357 Waterloo Rd, Chullora NSW 2190, Australia",
+        "suburb": "",
+        "rating": 3.5,
+        "rating_count": 222,
+        "hours": {
+          "Monday": "6:00 AM – 10:00 PM",
+          "Tuesday": "6:00 AM – 10:00 PM",
+          "Wednesday": "6:00 AM – 10:00 PM",
+          "Thursday": "6:00 AM – 10:00 PM",
+          "Friday": "6:00 AM – 10:00 PM",
+          "Saturday": "6:00 AM – 10:00 PM",
+          "Sunday": "7:00 AM – 10:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Yousra Mahdi",
+            "rating": 5,
+            "text": "I’ve tried Oliver Brown in a few different branches and it’s always been great.\n\nThe mocha frappé is easily on of the best I’ve ever had rich, creamy, and perfectly balanced.\n\nTheir desserts are super tasty too, especially the waffles, crepes, and even the açai bowls when I want something lighter. Service is friendly and consistent everywhere I’ve been. It’s definitely my go to spot for chocolate treats!"
+          },
+          {
+            "author": "H Agar",
+            "rating": 1,
+            "text": "A 15% public holiday surcharge was added to the bill with no signage, no menu notice, and no warning whatsoever.\n\nYes, businesses in NSW can charge a public holiday surcharge, but only if it’s clearly displayed upfront. This was not displayed anywhere. Hidden charges are misleading and unacceptable.\n\nWhat a shame."
+          },
+          {
+            "author": "B Hudson",
+            "rating": 5,
+            "text": "I had to service my car close by and stopped in to grab a coffee and churros.\nUnknowingly there was an issue and because a few had broken the lovely girl that was serving went and made extra for me. I was not expecting that nor was I too bothered but her kindness and apology was a wonderful gift after I have had such a rushed and crazy morning."
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0341269,
+          -33.913447
+        ]
+      },
+      "properties": {
+        "name": "Oliver Brown",
+        "place_id": "ChIJ25CayhG8EmsR1asXsnce9dc",
+        "address": "G21/462 Chapel Rd, Bankstown NSW 2200, Australia",
+        "suburb": "",
+        "rating": 4,
+        "rating_count": 265,
+        "hours": {
+          "Monday": "7:30 AM – 10:00 PM",
+          "Tuesday": "7:30 AM – 10:00 PM",
+          "Wednesday": "7:30 AM – 10:00 PM",
+          "Thursday": "7:30 AM – 10:00 PM",
+          "Friday": "7:30 AM – 10:00 PM",
+          "Saturday": "8:30 AM – 10:00 PM",
+          "Sunday": "9:00 AM – 10:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Surakshya Gurung",
+            "rating": 5,
+            "text": "Oliver Brown Little Saigon never disappoints!\nFresh ingredients, beautiful presentation and the perfect mix of chocolate and ice cream. Great service and lovely vibe. Highly recommend!"
+          },
+          {
+            "author": "Irene Y",
+            "rating": 1,
+            "text": "Eat in fondue for 2. Really disappointed that the chocolate was served in takeaway sauce container. Wouldn't come back..."
+          },
+          {
+            "author": "Tim Shu",
+            "rating": 5,
+            "text": "Great place to have dessert or coffee. Located in Little Saigon Plaza, Bankstown. Love the fondue, comes with different things to dip into the chocolate. Coffees are nice as well and the sundaes are pleasant. Clean restaurant and no issues with the service. Defs would dine again."
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0321711,
+          -33.8506338
+        ]
+      },
+      "properties": {
+        "name": "Oliver Brown",
+        "place_id": "ChIJu8RrG5O9EmsRPfOGMmD5tkA",
+        "address": "Auburn Central Shopping Centre, Auburn NSW 2144, Australia",
+        "suburb": "",
+        "rating": 4,
+        "rating_count": 688,
+        "hours": {
+          "Monday": "6:30 AM – 10:30 PM",
+          "Tuesday": "6:30 AM – 10:30 PM",
+          "Wednesday": "6:30 AM – 10:30 PM",
+          "Thursday": "6:30 AM – 10:30 PM",
+          "Friday": "6:30 AM – 10:30 PM",
+          "Saturday": "7:00 AM – 11:00 PM",
+          "Sunday": "7:00 AM – 11:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Sandeep Poudel",
+            "rating": 1,
+            "text": "I ordered an iced chai latte and a latte through the QR code on the table. The iced chai latte never arrived, and I had to go up and ask about it myself. The barista admitted they had completely forgotten to make it. When it finally came out, it was nothing like an iced chai latte — it was slushy, like a frozen smoothie.\n\nI even went back and asked whether their chai lattes are normally served like that, and the barista told me yes, as if that was acceptable. At this point it’s pretty clear the staff, especially this barista, need proper training. The whole experience was honestly very disappointing."
+          },
+          {
+            "author": "Masoud Jafarian",
+            "rating": 5,
+            "text": "All workers are polite and respectful and my two favourite girls are Renu and Puja .\nI love this Cafe,  very much recommended"
+          },
+          {
+            "author": "Sara Nazish",
+            "rating": 5,
+            "text": "They have a new range of matcha, i was confused about which one to try, Renu and Nishan recommended to have strawberry matcha 😋 which was the best i have ever tried in auburn.\nThank yoh so much Renu and Nishan for your great customer service.\nAnd I would like to everyone to try these matcha range."
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0521032,
+          -33.7769416
+        ]
+      },
+      "properties": {
+        "name": "Oliver Brown",
+        "place_id": "ChIJj39hGgakEmsRBkaXR7RZj78",
+        "address": "Pennant Hills Rd, Carlingford NSW 2118, Australia",
+        "suburb": "",
+        "rating": 3.8,
+        "rating_count": 416,
+        "hours": {
+          "Monday": "7:30 AM – 9:30 PM",
+          "Tuesday": "7:30 AM – 9:30 PM",
+          "Wednesday": "7:30 AM – 9:30 PM",
+          "Thursday": "7:30 AM – 9:30 PM",
+          "Friday": "7:30 AM – 9:30 PM",
+          "Saturday": "7:30 AM – 9:30 PM",
+          "Sunday": "7:30 AM – 9:30 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Andrew",
+            "rating": 1,
+            "text": "Hair in chocolate sauce. Soggy churros multiple times. No cinnamon sugar multiple times or the bitter powdery leftovers. Keep receiving dark chocolate when asked for milk chocolate."
+          },
+          {
+            "author": "L Luu",
+            "rating": 5,
+            "text": "Would give 2 stars for service because the man on Saturday morning at the counter is not friendly when taking your order but thankfully the young boy who brings out the coffee and food was super friendly with lovely manners. What a sweet boy he was and even asked us \" was there anything else you need\"?. Absolutely a pleasure to have him service us. Food was super salty but the churros were soft and crunchy on the outside however not enough chocolate for dipping."
+          },
+          {
+            "author": "BeachLover 11",
+            "rating": 3,
+            "text": "My friend took me here today (Saturday 28/12/2024) for the first time. We had ice coffee and a cheesecake. I like the atmosphere of the cafe and the coffee was nice. However, the customer service was not very good as they didn't provide sovette and when my friend asked to have some sovette, they gave him only one (should be at least 2 as there are 2 of us), the cheesecake was old and horrible, I felt sick after eating it."
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1006368,
+          -34.0355512
+        ]
+      },
+      "properties": {
+        "name": "Oliver Brown",
+        "place_id": "ChIJjVHsr4THEmsRnycSE7gGNtY",
+        "address": "600 Kingsway, Miranda NSW 2228, Australia",
+        "suburb": "",
+        "rating": 3.7,
+        "rating_count": 368,
+        "hours": {
+          "Monday": "8:30 AM – 9:00 PM",
+          "Tuesday": "8:30 AM – 9:00 PM",
+          "Wednesday": "8:30 AM – 9:00 PM",
+          "Thursday": "8:30 AM – 9:00 PM",
+          "Friday": "8:30 AM – 9:00 PM",
+          "Saturday": "8:30 AM – 9:00 PM",
+          "Sunday": "8:30 AM – 9:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Airshredder73",
+            "rating": 4,
+            "text": "I stopped in here to have breakfast with my daughter. 1 big breakfast each and it was perfect. Delicious fried cherry tomatoes and mushrooms were so nice. The little sausage were also delicious. The highlight? The single best chocolate thick shake I've had in my entire life! Where have you been thick shake?! If you're a chocoholic like me then I must press that you need to try the chocolate stuff here. Yum!!!\nUpdate: 2 stars off. I dropped in to get my daughter and I a milkshake each, 20 minutes later I had to approach the counter because they had forgotten my order! Organise yourselves guys because that is rotten service.\nUpdate: i had the belgian chocolate waffles and they were amazing! That chocolate syrup, omg! 😋"
+          },
+          {
+            "author": "MyWebs Australia",
+            "rating": 5,
+            "text": "Oliver Brown at Westfield Miranda is a fantastic spot for coffee lovers and anyone seeking a cozy, welcoming atmosphere. The service is truly exceptional—staff members are always friendly, attentive, and go above and beyond to ensure a great experience. Their coffee is top-notch, rich in flavor, and perfectly brewed. The seating is comfortable and enjoyable, making it an ideal place to relax, catch up with friends, or even get some work done. With such amazing staff and impeccable service, I would highly recommend Oliver Brown at Westfield Miranda. It’s a 100% must-visit! 🥰"
+          },
+          {
+            "author": "aysha akhter",
+            "rating": 5,
+            "text": "Had a wonderful time with my family at Oliver Brown miranda. The stuff were so hospitable and the foods were so delicious. From granny to my toddlers, every single person enjoyed the food so much. The mouth watering fried chicken, the delicious waffles and the delicacy of eggs benedict, everything was just so perfect. Love the cosy atmosphere and sitting arrangements. Definitely will be going back again."
+          }
+        ]
+      }
+    }
+  ]
+}

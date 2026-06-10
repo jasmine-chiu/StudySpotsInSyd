@@ -17,7 +17,8 @@ def csv_to_geojson(input_file):
         
         for i, row in enumerate(reader):
             url = row[link_col]
-            
+            print(repr(url))
+            print(coords_from_url(url))
             coords = coords_from_url(url)
             if coords is None:
                 print(f" Could not find coordinates.")
@@ -63,7 +64,7 @@ def coords_from_url(url:str):
 
 def get_address_from_coords(lat, lng):
     try:
-        # Nominatim requires a string like "lat, lng"
+
         location = geolocator.reverse(f"{lat}, {lng}")
         if location:
             return location.address
