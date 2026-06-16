@@ -1,6 +1,8 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import placeholder from "./assets/placeholder.png"
+import logo from "./assets/logo.png"
+
 import { IoIosCloseCircle, IoMdSearch } from "react-icons/io";
 
 const Header = ({ isCompact = false }) => {
@@ -13,7 +15,7 @@ const Header = ({ isCompact = false }) => {
          {isOpen ? (
             <IoIosCloseCircle className="icon-img" title="Close Nav Bar" />
           ) : (
-            <img src={placeholder} alt="Open Nav Bar" className="icon-img" />
+            <img src={logo} alt="Open Nav Bar" className="icon-img" />
           )}
         </button>
         

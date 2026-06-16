@@ -2014,54 +2014,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.7652883,
-          -34.0215569
-        ]
-      },
-      "properties": {
-        "name": "XS Espresso Gregory Hills",
-        "place_id": "ChIJMR7xSuPxEmsRXwO1ZuESKaA",
-        "address": "4/18 Holborn Cct, Gledswood Hills NSW 2557, Australia",
-        "suburb": "Gledswood Hills",
-        "rating": 3.9,
-        "rating_count": 1546,
-        "hours": {
-          "Monday": "6:00 AM – 10:00 PM",
-          "Tuesday": "6:00 AM – 10:00 PM",
-          "Wednesday": "6:00 AM – 10:00 PM",
-          "Thursday": "6:00 AM – 10:00 PM",
-          "Friday": "6:00 AM – 10:00 PM",
-          "Saturday": "7:00 AM – 10:00 PM",
-          "Sunday": "7:00 AM – 10:00 PM"
-        },
-        "summary": "",
-        "reviews": [
-          {
-            "author": "Melissa Fabs",
-            "rating": 1,
-            "text": "This place  doesn’t deserve a star , I went with my daughter yesterday at around 2pm to XS Gregory hills and ordered a big breakfast we sat inside at a corner table with a high bench next to it , we received our food and enjoyed it having a conversation and there was nothing wrong with the food until I was about to finish my food we saw a very big cockroach crawl from under the table we were eating at, we both looked at it in shock it crawled quickly to the top bench near our table that’s when I geabbed the table number and used it to kill the cockroach. We were both in shock and disgusted I felt like I just ate a whole plate of cockroaches, I felt like throwing up. I called the manager who was leaving the restaurant and told her, she said they just had the place sprayed the day before, which means they know they have cockroaches in the premises. I asked for a refund which she did she also offered a voucher to the value of the big breakfast which was $33. I gave my details as she asked for it, about 30 mins after I left the restaurant, I received a call from the owner I thought he was calling to apologise but he rang to attack me and criticise me and asked me questions because he was more concerned about how his staff were feeling! because I received a refund and a voucher. I explained that i don’t want the voucher but I did take the refund he then started acussing me and was very very rude. He wasn’t apologetic and was arrogant  and very rude. It’s not my first time there all the times I’ve been there the staff are friendly but this time I was actually eating with cockroaches. I explained how disgusting I felt and very unhygienic and dirty and then to be treated so rudely by the owner, I’m feeling traumatised, attacked for complaining and very upset by this whole situation.  I will never ever go there again and I don’t want to use the voucher they’ll probably put cockroaches or other insects in my food. Very unhappy and upset customer. Pics of the cockroaches attached.."
-          },
-          {
-            "author": "Carlo Miranda",
-            "rating": 5,
-            "text": "By far the juiciest, most delicious burgers I've had yet. Also the fries are seasoned well but not overwhelmingly flavoured. My wife and a friend of mine enjoyed our stay too. It's relatively quiet for a roadside Cafe. A very peaceful vibe to the place. Good for a heart to heart."
-          },
-          {
-            "author": "fadi kareem",
-            "rating": 1,
-            "text": "My wife just ordered and have a look to what I received..\nAt least put something to cover the coffee..\nI can’t understand how you give to uber driver like this without the coffee cup cover…\nBad customer service"
-          }
-        ],
-        "has-wifi": "TRUE",
-        "has-outlets": "TRUE",
-        "has-toilets": "TRUE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           151.0828928,
           -33.7716433
         ]

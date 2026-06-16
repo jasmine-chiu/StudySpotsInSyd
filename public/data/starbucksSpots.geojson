@@ -14,7 +14,7 @@
         "name": "Starbucks York Street",
         "place_id": "ChIJOXb02ECuEmsR_UWvHCtCG-Q",
         "address": "Shop 1/11-31 York St, Sydney NSW 2000, Australia",
-        "suburb": "",
+        "suburb": "Sydney",
         "rating": 3.9,
         "rating_count": 1172,
         "hours": {
@@ -43,7 +43,8 @@
             "rating": 4,
             "text": "Starbucks did a decent ice matcha  latte, get it without sugar as it’s quite sweet already.\n\nPlenty of seating inside with aircon and free wifi."
           }
-        ]
+        ],
+        "has-wifi": "TRUE"
       }
     },
     {
@@ -59,7 +60,7 @@
         "name": "Starbucks George Street",
         "place_id": "ChIJcawkWTyuEmsRG56o5LAc0LQ",
         "address": "2/525 George St, Sydney NSW 2000, Australia",
-        "suburb": "",
+        "suburb": "Sydney",
         "rating": 3.7,
         "rating_count": 1457,
         "hours": {
@@ -88,7 +89,104 @@
             "rating": 3,
             "text": "Bought drinks here several times but every time that the Asst Manager is in the cashier, she has been grumpy and quite rude not only to me but what I heard towards to the other customers and to her other staff when I am in the line. Unfortunately this is not only one time but two or three times. I understand the rush and busyness of the store but I think it’s a perfect time to show more of good customer service. But maybe she’s tired or she has been in rough times. On the other hand, other staff are friendly and drinks are nicer than the other branches."
           }
+        ],
+        "has-wifi": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0064493,
+          -33.7308658
         ]
+      },
+      "properties": {
+        "name": "Starbucks Castle Towers",
+        "place_id": "ChIJp6NqUNWhEmsRIvj3CCM8_nI",
+        "address": "Shop 1229/6-14 Castle St, Castle Hill NSW 2154, Australia",
+        "suburb": "Castle Hill",
+        "rating": 3.7,
+        "rating_count": 163,
+        "hours": {
+          "Monday": "7:00 AM – 6:30 PM",
+          "Tuesday": "7:00 AM – 6:30 PM",
+          "Wednesday": "7:00 AM – 6:30 PM",
+          "Thursday": "7:00 AM – 9:00 PM",
+          "Friday": "7:00 AM – 6:30 PM",
+          "Saturday": "7:30 AM – 6:30 PM",
+          "Sunday": "7:30 AM – 6:30 PM"
+        },
+        "summary": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries.",
+        "reviews": [
+          {
+            "author": "alwaysangelicunicornalice",
+            "rating": 4,
+            "text": "A Castle Towers Gem: Sweet Starbucks ☕️\n\nI've been a loyal customer at the Castle Towers Starbucks since my early twenties, and it's a spot I've grown quite fond of. My go-to Venti drinks are always on point, and their doughnuts and pastries hit the spot with their sweet, indulgent vibe. The savouries are also really good. Did you know? The bakery half-price special after 3 pm is a nice touch, too – always a win for budget-conscious days.\n\nThe Brown Sugar Cookie Coffee Frappuccino I had is a fave of mine, but fair warning: Starbucks drinks can be super sweet, sometimes too much so. But that's kinda what they're known for, right? Also, this drink had a lot of caffeine, so it was a lot of sensory overwhelm at first!\n\nThe real magic's in the crew, though – they know me by name (thanks to the whole name-on-cup thing), and the service is great. It's one reason I keep coming back – they nail the customer vibe (which is what Starbucks, just generally around the world, is known for).\n\nThe cafe's small, clean, and has a fun, cosy feel – perfect for catching up with friends, or plus ones. Sure, prices can be a bit steep, but specials pop up, and the app's points system is a nice perk (when there's no tech issues).\n\nOnly one photo (sorry)! But trust me, this Starbucks is a legit gem in The Hills Shire. Maybe I'm biased (it is my favourite Sydney Starbucks by far), but I'd definitely come back."
+          },
+          {
+            "author": "Seulki Chung",
+            "rating": 2,
+            "text": "I have rated this place 2.5 stars.\n\nWent here for some coffee and light bites. The caramel macchiato was served hot, had a nice level of sweetness, and the coffee flavor was really good. The staff were friendly and the service was fast, which I appreciated.\n\nUnfortunately, the spinach and cheese roll was very disappointing. I understand it’s likely pre-made and just heated up, but the taste was very underwhelming. The ones you can get at 7-11 or service stations is way better. The filling didn’t have any noticeable cheese flavor and tasted like bland, mushy spinach paste. The pastry wasn’t crispy at all — it was soggy and plain, almost like eating a soft tortilla wrap rather than a flaky pastry. I wouldn’t order it again, but I might come back for the coffee only."
+          },
+          {
+            "author": "Melissa Quiban",
+            "rating": 5,
+            "text": "I had a wonderful experience at Starbucks thanks to the amazing baristas Nathan and Joe. They are truly passionate about what they do and it really shows in the way they serve customers. They go above and beyond to make sure everyone feels welcomed and has a great experience. Their positive attitude and dedication reflect how much they genuinely love their job. Thank you, Nathan and Joe, for making my visit so enjoyable. Keep  up the fantastic work!"
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "",
+        "has-toilets": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1002959,
+          -33.7040689
+        ]
+      },
+      "properties": {
+        "name": "Starbucks Hornsby",
+        "place_id": "ChIJVVhAgIOnEmsRVNMh0GUCZKE",
+        "address": "Westfield Hornsby, Shop 2028 - Level 2/236 Pacific Hwy, Hornsby NSW 2077, Australia",
+        "suburb": "Hornsby",
+        "rating": 3.2,
+        "rating_count": 94,
+        "hours": {
+          "Monday": "7:00 AM – 5:30 PM",
+          "Tuesday": "7:00 AM – 5:30 PM",
+          "Wednesday": "7:00 AM – 5:30 PM",
+          "Thursday": "7:00 AM – 8:00 PM",
+          "Friday": "7:00 AM – 5:30 PM",
+          "Saturday": "8:00 AM – 6:00 PM",
+          "Sunday": "8:00 AM – 5:30 PM"
+        },
+        "summary": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries.",
+        "reviews": [
+          {
+            "author": "Philippe Dancak",
+            "rating": 2,
+            "text": "I was introduced to to Magic Coffee on a visit to Melbourne a few years back...and loved it. I've been having it at a number of coffee places in Sydney since, which has been hit & miss - good 👍 with the hits, and you go back - but now the big boys (Starbucks) are getting in on the act... Personally, it was a miss... Maybe it was the coffee roast, or that the double ristretto looked more like a single espresso ( I watched it as it came from the machine ), either way it was, well, insipid...at least it did have ¾ steamed milk..."
+          },
+          {
+            "author": "AADARSH SINGH",
+            "rating": 5,
+            "text": "Starbucks Hornsby is a reliable stop for your coffee fix. The staff is friendly and quick, and the store has a cozy atmosphere perfect for grabbing a drink on the go or hanging out for a while. The usual Starbucks menu is available, from classic lattes to seasonal specials. I tried the Caramel Macchiato, and it was made just right—creamy with the perfect balance of sweetness.\n\nIt can get a bit busy during peak hours, but that’s typical for any Starbucks. There’s plenty of seating, so you can usually find a spot to relax or work. The Wi-Fi is decent, and there are always fresh pastries to pair with your coffee.\n\nIf you’re in the area and want a quick, quality coffee, this Starbucks does the job!"
+          },
+          {
+            "author": "s vivekananda",
+            "rating": 4,
+            "text": "Not  crowded restaurant in Westfield Hornsby. Great place for beverages and mostly snacks. Plenty of seating, some with power sockets, usb charging. Good service.  Prices more than other cafes around here. Guess you paying for the brand. Clean place too."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "",
+        "has-toilets": ""
       }
     },
     {
@@ -104,7 +202,7 @@
         "name": "Starbucks Parkline Place",
         "place_id": "ChIJpy2q3g2vEmsRfVFv4TGBajY",
         "address": "Shop G 01.02/252 Pitt St, Sydney NSW 2000, Australia",
-        "suburb": "",
+        "suburb": "Sydney",
         "rating": 2.8,
         "rating_count": 88,
         "hours": {
@@ -133,7 +231,8 @@
             "rating": 1,
             "text": "On 25 December 2025 at approximately 12:10 PM, I visited your store and was served by a barista wearing a black uniform, who was the only staff member on duty at that time.\n\nI regret to inform you that this staff member displayed extremely unprofessional behavior and a complete lack of service mindset, which is entirely unacceptable for a customer-facing role.\n\nI politely requested a cup holder, using a calm and respectful tone and without any sense of urgency, fully understanding that the staff member was busy. However, I was met with visible irritation and negative facial expressions throughout the interaction. The staff member then slid the cup holder across the counter in a dismissive and disrespectful manner, clearly expressing dissatisfaction.\n\nWhen I verbally expressed my disappointment by saying “so bad”, the male staff member immediately responded with rude and inappropriate remarks, demonstrating behavior that I find highly offensive and unacceptable in any service environment.\n\nSuch conduct raises serious concerns regarding your organization’s employee screening, training, and service quality standards, which, in this instance, appeared to be alarmingly low. I must also emphasize that this is not the first time I have experienced poor service of this nature at your store.\n\nAs a globally recognized brand, this level of service is far below acceptable standards and deeply disappointing. I would like to be informed of the concrete and sustainable measures your organization intends to implement to prevent such incidents from recurring. Failing a clear and satisfactory response, I will have no choice but to escalate this matter to your head office for further review.\n\nI look forward to your formal response."
           }
-        ]
+        ],
+        "has-wifi": "TRUE"
       }
     },
     {
@@ -149,7 +248,7 @@
         "name": "Starbucks Darling Square",
         "place_id": "ChIJT4no_vCvEmsRqPd1Ip2iZlk",
         "address": "Shop NE07, 35 Tumbalong Boulevard, Darling Dr, Haymarket NSW 2000, Australia",
-        "suburb": "",
+        "suburb": "Haymarket",
         "rating": 3.4,
         "rating_count": 407,
         "hours": {
@@ -178,7 +277,8 @@
             "rating": 1,
             "text": "I had a rather unsettling encounter at a particular Starbucks branch on 07/02/23 at 5:14 PM. It all began when I shared a moment with my boyfriend by exchanging a kiss, and to my surprise, the cashier made a derogatory comment in Korean. The situation took a more uncomfortable turn when the manager began staring at me incessantly. When I inquired about the issue, the manager's gaze intensified, and he disapprovingly shook his head before whispering something to his colleagues. This experience left me feeling intimidated and uneasy, making it the most distressing encounter I've had at any Starbucks location. I couldn't comprehend why we deserved such treatment. Although the manager eventually retreated indoors, his intense glare continued to follow me. Upon discussing the situation with my boyfriend, he confirmed that the worker's gaze was directed solely at me and not at him. Strangely, the manager reemerged when we decided to leave.\n\nSubsequently, I approached another barista to inquire if the aforementioned worker had an issue with us or had any intentions to express something. Shockingly, she mentioned that this behavior was typical of him. I implore Starbucks to address this matter promptly. It is essential to condemn and rectify such conduct, particularly within a customer-oriented industry. After further inquiry, I discovered that the manager in question is named David, and his managerial position adds greater urgency to the situation.\n\nEdit\n\nUpon thorough examination of previous reviews, it has become evident that the issues related to this individual are not isolated incidents. The continuous stream of complaints spanning over a year indicates a concerning lack of action on the management's part, as this person still maintains the same disrespectful demeanor. It is truly perplexing that he believes he can mistreat customers with impunity, despite the management's awareness of the numerous complaints lodged against him.\n\nThe behavior displayed by the cashier today further highlights the problematic nature of this particular branch. It is apparent that the management disregards customer feedback and permits their staff to engage in unwarranted rudeness and intimidation. I intend to escalate this matter to the headquarters and insist on a thorough review of the CCTV footage. Such footage would provide concrete evidence of the extent to which I was subjected to the unsettling experience of being intensely stared down by this individual, almost as if he intended to pursue physical harm. This behavior is entirely unhinged and unacceptable."
           }
-        ]
+        ],
+        "has-wifi": "TRUE"
       }
     },
     {
@@ -194,7 +294,7 @@
         "name": "Starbucks Haymarket",
         "place_id": "ChIJfbX2aiOuEmsRS3rtwHGqAaI",
         "address": "Capitol Square, g01, 730-742 George St, Haymarket NSW 2000, Australia",
-        "suburb": "",
+        "suburb": "Haymarket",
         "rating": 3.7,
         "rating_count": 810,
         "hours": {
@@ -223,7 +323,8 @@
             "rating": 1,
             "text": "The most horrible coffee I could imagine ,\nI got long black with zero crema with zero effort from barista . I make that at home way better . Two small coffee and banana bread cost me 20$\nThey couldn’t even talk English\nDid want to go back for refund but will never go there again"
           }
-        ]
+        ],
+        "has-wifi": "TRUE"
       }
     },
     {
@@ -239,7 +340,7 @@
         "name": "Starbucks QVB",
         "place_id": "ChIJH4-m9D6uEmsRy7hgF2btwT0",
         "address": "LG1, Queen Victoria Building, 69/455 George St, Sydney NSW 2000, Australia",
-        "suburb": "",
+        "suburb": "Sydney",
         "rating": 3.9,
         "rating_count": 768,
         "hours": {
@@ -268,7 +369,8 @@
             "rating": 1,
             "text": "My order was iced matcha latte but with no ice. I’ve been ordering like this in many other Starbucks in Syd including this shop, but this was the first time I got my drink back like that. It was not full (event counting the foam on top). I asked the staff and he ensured that this was how the drink should be. Pretty disappointed.\nP.s the cup was purchased on 25/11."
           }
-        ]
+        ],
+        "has-wifi": "TRUE"
       }
     },
     {
@@ -284,7 +386,7 @@
         "name": "Starbucks Central Park",
         "place_id": "ChIJ95VUNg-vEmsRoa86hUkT7Do",
         "address": "38 Broadway, Chippendale NSW 2008, Australia",
-        "suburb": "",
+        "suburb": "Chippendale",
         "rating": 3.7,
         "rating_count": 470,
         "hours": {
@@ -313,7 +415,8 @@
             "rating": 1,
             "text": "20/12/2025\nDuring my visit, the staff’s attitude felt unprofessional and unwelcoming. I understand hospitality work can be demanding, but basic courtesy is still important. The interaction made the experience uncomfortable, and I hope the management can address this."
           }
-        ]
+        ],
+        "has-wifi": "TRUE"
       }
     },
     {
@@ -329,7 +432,7 @@
         "name": "Starbucks Broadway",
         "place_id": "ChIJS1hJqa-vEmsRosxiZ9qX69I",
         "address": "Shop K230 Level 2, Broadway Shopping Centre, 1 Bay St, Glebe NSW 2037, Australia",
-        "suburb": "",
+        "suburb": "Glebe",
         "rating": 3.1,
         "rating_count": 92,
         "hours": {
@@ -358,7 +461,8 @@
             "rating": 5,
             "text": "Great new Starbucks inside Broadway Shopping Centre. Consistent customer service, and drinks and food from what you expect from Starbucks whether you’re in Sydney, New York or London! Loved the Christmas flavoured nutty Frappuccino and turkey and cranberry toasted sandwiches! The donuts were ‘okay’ they are very pretty to look at but they don’t taste fresh (probably 1-3 days refrigerated). Overall, love Starbucks!"
           }
-        ]
+        ],
+        "has-wifi": "TRUE"
       }
     },
     {
@@ -374,7 +478,7 @@
         "name": "Starbucks The Rocks",
         "place_id": "ChIJEWSDRI-vEmsR8psnD9luiv4",
         "address": "135 George St, The Rocks NSW 2000, Australia",
-        "suburb": "",
+        "suburb": "The Rocks",
         "rating": 4.2,
         "rating_count": 566,
         "hours": {
@@ -403,52 +507,8 @@
             "rating": 5,
             "text": "Starbucks in Australia offers a slightly different service experience compared to its locations in other countries, yet the staff maintain the same friendly and welcoming demeanor. One notable difference is that brewed coffee, such as the Pike Place roast, may not always be readily available, as the focus in many Australian locations is more on espresso-based drinks. However, if you request a specific brewed coffee like Pike Place, the staff are often more than happy to accommodate by brewing a fresh pot for you. This demonstrates their commitment to customer satisfaction and their willingness to provide personalized service. Overall, the experience combines the global Starbucks charm with a touch of local service nuances."
           }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.8449479,
-          -33.7186706
-        ]
-      },
-      "properties": {
-        "name": "Starbucks Marsden Park",
-        "place_id": "ChIJT_EctvabEmsRdRl_GwwsDDw",
-        "address": "861 Richmond Rd, Marsden Park NSW 2765, Australia",
-        "suburb": "",
-        "rating": 3.8,
-        "rating_count": 1339,
-        "hours": {
-          "Monday": "4:30 AM – 10:00 PM",
-          "Tuesday": "4:30 AM – 10:00 PM",
-          "Wednesday": "4:30 AM – 10:00 PM",
-          "Thursday": "4:30 AM – 10:00 PM",
-          "Friday": "4:30 AM – 11:00 PM",
-          "Saturday": "6:00 AM – 10:00 PM",
-          "Sunday": "6:00 AM – 10:00 PM"
-        },
-        "summary": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries.",
-        "reviews": [
-          {
-            "author": "Sang Nguyen",
-            "rating": 5,
-            "text": "Consistently serving up deliciously blended frappes and coffees, even during the busy rush. Service is quick and efficient, and we really enjoyed our drinks."
-          },
-          {
-            "author": "Ranjeet Singh Bal",
-            "rating": 1,
-            "text": "This Starbucks store was closed 30 minutes before the advertised closing time. I arrived well within business hours at 10:30pm as it's shown closing time 11pm and was refused service with no explanation or notice. It happened on 15Jan 2026 at 10:30pm\nThis is misleading and unacceptable. Customers rely on published trading hours, and closing early shows poor management and lack of accountability. Starbucks needs to address this immediately, as this does not meet basic customer service standards."
-          },
-          {
-            "author": "Clarence Beeks",
-            "rating": 5,
-            "text": "The manager is  an efficient guy. He served me a delicious drip filter coffee. Consistently good."
-          }
-        ]
+        ],
+        "has-wifi": "TRUE"
       }
     },
     {
@@ -464,7 +524,7 @@
         "name": "Starbucks Chatswood",
         "place_id": "ChIJS8dW7CipEmsROaRKdAQfc50",
         "address": "10/409 Victoria Ave &, Anderson St, Chatswood NSW 2067, Australia",
-        "suburb": "",
+        "suburb": "Chatswood",
         "rating": 3.5,
         "rating_count": 752,
         "hours": {
@@ -493,142 +553,8 @@
             "rating": 1,
             "text": "Bad quality. I ordered choco frap, the taste was very plain. All staff need to be trained properly. I have the photo as a proof, I even go to the another Starbucks branch to order the same choco frapp to compare. Picture in the left is ordered in starbucks chatswood (plain and pale), picture in the right is ordered in another branch.. starbucks chatswood is such a terrible taste."
           }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.6915839,
-          -33.7455279
-        ]
-      },
-      "properties": {
-        "name": "Starbucks North Penrith",
-        "place_id": "ChIJycCcfZWFEmsRiPebb9JCKVQ",
-        "address": "2229-2231 Castlereagh Rd, Penrith NSW 2750, Australia",
-        "suburb": "",
-        "rating": 3.9,
-        "rating_count": 657,
-        "hours": {
-          "Monday": "5:00 AM – 9:30 PM",
-          "Tuesday": "5:00 AM – 9:30 PM",
-          "Wednesday": "5:00 AM – 9:30 PM",
-          "Thursday": "5:00 AM – 9:30 PM",
-          "Friday": "5:00 AM – 9:30 PM",
-          "Saturday": "5:00 AM – 10:00 PM",
-          "Sunday": "6:00 AM – 9:30 PM"
-        },
-        "summary": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries.",
-        "reviews": [
-          {
-            "author": "Krystal Schinella",
-            "rating": 2,
-            "text": "After going through a selection of drinks to order that were understandably not in season or out of ingredients, I ordered a white chocolate mocha. The staff were nice but when I got home it was 80% filled, and tasted like warm water. I'm not sure what went wrong with my order but very disappointed in the flavour. I also have ordered this drink from other Starbucks in Sydney and never have experienced this."
-          },
-          {
-            "author": "DEFN REVIEWS",
-            "rating": 5,
-            "text": "Always busy, very consistent store that delivers friendly faces ALWAYS at the  drive through. My partner always has the green frapaccino with extra cream and she's in heaven. Anytime we're on the way home and I say \"STARBUCKS?\" I know I'm 5 min away from ordering 3 tall beveridges lol....no one says no to Penrith Starbucks in my home...5 stars all day! Oh, I sometimes eat in store and its always neat, tidy. Toilets are clean and the chairs are comfy.....awesome"
-          },
-          {
-            "author": "Mountains Girl",
-            "rating": 5,
-            "text": "My favourite Starbucks, the staff are always friendly. They will check to see if your order is right. Music isn’t too loud, but it’s a good atmosphere to study or think, or chat with a mate. Enjoying the Christmas menu right now. Sometimes they have discounted food, worth it to  have a sneaky snack with your coffee. Drive through is good when in a hurry but we like to stop and have a cuppa. They have the plant based milk and cream! Would recommend ☕️"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.7557317,
-          -33.7681941
-        ]
-      },
-      "properties": {
-        "name": "Starbucks Werrington",
-        "place_id": "ChIJqcLSRQCFEmsRUEsi_Kpfcd4",
-        "address": "578 Great Western Hwy, Werrington NSW 2747, Australia",
-        "suburb": "",
-        "rating": 3.8,
-        "rating_count": 76,
-        "hours": {
-          "Monday": "5:00 AM – 10:30 PM",
-          "Tuesday": "5:00 AM – 10:30 PM",
-          "Wednesday": "5:00 AM – 10:30 PM",
-          "Thursday": "5:00 AM – 10:30 PM",
-          "Friday": "5:00 AM – 10:30 PM",
-          "Saturday": "6:00 AM – 10:30 PM",
-          "Sunday": "6:00 AM – 10:30 PM"
-        },
-        "summary": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries.",
-        "reviews": [
-          {
-            "author": "Raman Kumar Jha",
-            "rating": 5,
-            "text": "Always a great experience at Starbucks Werrington! The staff are super friendly and welcoming, the service is quick, and the coffee is consistently perfect. The store has a relaxed vibe perfect for studying, catching up with friends, or just enjoying some quiet time with your favourite drink. Love how clean and cosy the place feels every time I visit. Highly recommend this location! ☕✨"
-          },
-          {
-            "author": "Karen Van Gramberg",
-            "rating": 4,
-            "text": "The New Starbucks at Werrington is finally open! I loved my Cold Brew with Pumpkin Foam! Hubby had a Mocha Frappe! Service was nice but she repeated my order twice, kinda annoying when i clearly stated what I wanted. Mini doughnuts not really nice. But I loved that I can finally have my cold brew fix, hopefully we’ll get all the different cold foam flavours soon. The place looks nice and open, seating outside as well as inside."
-          },
-          {
-            "author": "Dorothy Villanueva",
-            "rating": 4,
-            "text": "Convenient new spot! Unfortunately the layout isn’t as cozy as the North Penrith store, and when I went in the temp was way too cold. Service and food quality is good, hopefully they add more study tables though!"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.81755,
-          -33.7660139
-        ]
-      },
-      "properties": {
-        "name": "Starbucks Mt Druitt",
-        "place_id": "ChIJeWs3mFyaEmsRL27dtpEVv3A",
-        "address": "Pad Site 1 Westfield, Carlisle Ave, Mount Druitt NSW 2770, Australia",
-        "suburb": "",
-        "rating": 3.9,
-        "rating_count": 1300,
-        "hours": {
-          "Monday": "5:00 AM – 11:00 PM",
-          "Tuesday": "5:00 AM – 11:00 PM",
-          "Wednesday": "5:00 AM – 11:00 PM",
-          "Thursday": "5:00 AM – 11:00 PM",
-          "Friday": "5:00 AM – 11:00 PM",
-          "Saturday": "6:00 AM – 11:00 PM",
-          "Sunday": "7:00 AM – 11:00 PM"
-        },
-        "summary": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries.",
-        "reviews": [
-          {
-            "author": "Matt Wildig",
-            "rating": 1,
-            "text": "Been to a lot of Starbucks'. Some staff here are nice, others... Not. Apparently every other sb (and cafe out there) gives out marshmallows with their babycinnos, but not here. Additional charge, bro. Getting sass when asking to get a tasty mallow for my kid? Big yikes."
-          },
-          {
-            "author": "Shay Ali Shahid",
-            "rating": 5,
-            "text": "Been a regular for years. All the staff are friendly and some even recognise me by voice in drive through. Never disappointed(yes somedays coffee is different especially when new staff are in training) but overall it's my go to coffee shop. My kids enjoy their hot chocolate and sweet treats they even know this is our go to coffee shop. We live in Penrith but still prefer this branch over the rest! Thank you to the amazing team. I don't remember all their names or else i would have listed them down but I know their faces and they know us and that's the best part of amazing customer service over the years (2019 on) 🫶"
-          },
-          {
-            "author": "Khleq Nasir",
-            "rating": 5,
-            "text": "Starbucks Mt Druitt is a popular local café located at Westfield Mount Druitt, known for its classic Starbucks coffee, wide range of espresso drinks and cold beverages, snacks, and casual atmosphere — plus the convenience of a drive-thru.\n\nMany customers enjoy stopping by for a reliable coffee fix, friendly service and familiar menu favourites like frappuccinos and iced teas, with a generally pleasant and welcoming vibe for hanging out or grabbing a drink on the go.\n\nHowever, reviews are mixed: some visitors praise the consistent drinks and busy, lively setting, while others have had less positive experiences with service quality or order accuracy at times."
-          }
-        ]
+        ],
+        "has-wifi": "TRUE"
       }
     },
     {
@@ -644,7 +570,7 @@
         "name": "Starbucks Bondi Junction",
         "place_id": "ChIJeQ4PnPGtEmsRM3NGJSIJcu4",
         "address": "Shop 2052/500 Oxford St, Bondi Junction NSW 2022, Australia",
-        "suburb": "",
+        "suburb": "Bondi Junction",
         "rating": 3.8,
         "rating_count": 355,
         "hours": {
@@ -673,7 +599,8 @@
             "rating": 3,
             "text": "Nicely situated in the Bondi Westfield, plenty of seating options and lots of merchandise on offer. Didn’t have to wait long but was disappointed that my nitro cold brew was lukewarm, got it with the idea of drink it on the way home but ended up having to finish it before I even reached the car because of its temperature."
           }
-        ]
+        ],
+        "has-wifi": "TRUE"
       }
     },
     {
@@ -689,7 +616,7 @@
         "name": "Starbucks Auburn",
         "place_id": "ChIJ0W6D_N2jEmsRUIZkQYH_DJ8",
         "address": "311/315 Parramatta Rd, Auburn NSW 2144, Australia",
-        "suburb": "",
+        "suburb": "Auburn",
         "rating": 3.4,
         "rating_count": 134,
         "hours": {
@@ -718,7 +645,8 @@
             "rating": 5,
             "text": "I recently visited the new Starbucks café in our neighborhood, and I was impressed! The warm atmosphere and friendly staff (Nandy)made me feel right at home. The seating is comfy and inviting, great for relaxing or getting some work done. Overall, it's a wonderful addition to the community. I highly recommend checking it out!"
           }
-        ]
+        ],
+        "has-wifi": "TRUE"
       }
     },
     {
@@ -734,7 +662,7 @@
         "name": "Starbucks Manly",
         "place_id": "ChIJ-5eobw-rEmsRQyYWJ0Whxa0",
         "address": "110-112 The Corso, Manly NSW 2095, Australia",
-        "suburb": "",
+        "suburb": "Manly",
         "rating": 3.6,
         "rating_count": 882,
         "hours": {
@@ -763,7 +691,8 @@
             "rating": 3,
             "text": "I always love Starbuck’s matcha latte, but this time I order venti size, and this is what I get, only half liquid inside.\nThe bubble was half on the top.\nI’m not sure is this normal?"
           }
-        ]
+        ],
+        "has-wifi": "TRUE"
       }
     },
     {
@@ -779,7 +708,7 @@
         "name": "Starbucks Eastgardens",
         "place_id": "ChIJl7yJJWWxEmsRMI35ERbm8ig",
         "address": "Shop 267,/152 Bunnerong Rd, Eastgardens NSW 2036, Australia",
-        "suburb": "",
+        "suburb": "Eastgardens",
         "rating": 3.8,
         "rating_count": 460,
         "hours": {
@@ -808,7 +737,8 @@
             "rating": 1,
             "text": "I ordered cold brew coffee with cloud toffee crunch toppings. They had no toppings (despite they were advertising for this, they never had it including my previous visit 2 weeks ago).\n\nThis is how they were going to serve it.\n\nI also saw them pour the cold brew and top up with TAP WATER.\n\nSo if you order the large size, they just top up with water."
           }
-        ]
+        ],
+        "has-wifi": "TRUE"
       }
     },
     {
@@ -824,7 +754,7 @@
         "name": "Starbucks Macquarie Centre",
         "place_id": "ChIJg4lRDu-nEmsRnAs0Tm7ywvk",
         "address": "Macquarie Centre, Shop 3404A Herring Road &, Waterloo Rd, North Ryde NSW 2113, Australia",
-        "suburb": "",
+        "suburb": "North Ryde",
         "rating": 3.3,
         "rating_count": 452,
         "hours": {
@@ -853,7 +783,8 @@
             "rating": 1,
             "text": "The manager is disgustingly rude i watched her yell at 2 teenage girls after one of the girls informed staff about them having her order incorrect. The store manager was getting up in their faces screaming at them refusing to assist in fixing the girls drink. Absolutely disgusting and unacceptable. My heart goes out to those poor girls who just wanted their starbucks and got yelled at."
           }
-        ]
+        ],
+        "has-wifi": "TRUE"
       }
     },
     {
@@ -869,7 +800,7 @@
         "name": "Starbucks Parramatta",
         "place_id": "ChIJ1ffoQiCjEmsRNVwSOxTMpUc",
         "address": "Shop 2174, Level 2, Westfield Parramatta, 159-175 Church St, Parramatta NSW 2150, Australia",
-        "suburb": "",
+        "suburb": "Parramatta",
         "rating": 3.8,
         "rating_count": 1212,
         "hours": {
@@ -898,7 +829,8 @@
             "rating": 1,
             "text": "Coffee was good, but service needs some improvement. One girl was working hard making all the coffees while another was chatting loudly behind the counter. It didn’t give the best impression of teamwork or professionalism."
           }
-        ]
+        ],
+        "has-wifi": "TRUE"
       }
     }
   ]

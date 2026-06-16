@@ -1,5 +1,4 @@
 import Header from "./Header"
-import Use from "./Use";
 import Key from "./Key";
 import Overlay from "./Overlay";
 
@@ -10,19 +9,23 @@ import 'mapbox-gl/dist/mapbox-gl.css';
 
 const categories = [
   { id: 'cafes',         file: './data/cafeSpots.geojson',         icon: 'cafe-icon', iconHover: 'cafe-icon-hover' },
-  { id: 'starbucks',     file: './data/starbucksSpots.geojson',     icon: 'icon-hover', iconHover: 'icon-hover' },
-  { id: 'oliver-browns', file: './data/OBSpots.geojson',            icon: 'icon', iconHover: 'icon-hover' },
-  { id: 'libraries',     file: './data/libSpots.geojson',   icon: 'lib-icon', iconHover: 'lib-icon-hover' },
+  { id: 'starbucks',     file: './data/starbucksSpots.geojson',    icon: 'cafe-icon', iconHover: 'cafe-icon-hover' },
+  { id: 'oliver-browns', file: './data/OBSpots.geojson',           icon: 'cafe-icon', iconHover: 'cafe-icon-hover' },
+  { id: 'libraries',     file: './data/libSpots.geojson',          icon: 'lib-icon', iconHover: 'lib-icon-hover' },
+  { id: 'misc',          file: './data/miscSpots.geojson',         icon: 'icon', iconHover: 'icon-hover' }
 ];
 
 const Map = () => {
-  const [selected, setSelected]       = useState(null);
+  const [isLoading, setIsLoading] = useState(true);
+  const [selected, setSelected] = useState(null);
   const [activeFilters, setActiveFilters] = useState([]);
-  const [spots, setSpots]             = useState([]);
-  const [resetKey, setResetKey]       = useState(0);
-  const mapRef          = useRef();
+  const [spots, setSpots] = useState([]);
+  const [activeCategory, setActiveCategory] = useState("all");
+  const [resetKey, setResetKey] = useState(0);
+  const [boxOpen, setBoxOpen] = useState(true);
+  const mapRef = useRef();
   const mapContainerRef = useRef();
-  const selectedRef     = useRef(null);
+  const selectedRef = useRef(null);
 
   const loadImage = (map, url) => new Promise((resolve, reject) => {
     map.loadImage(url, (error, image) => error ? reject(error) : resolve(image));
@@ -32,14 +35,24 @@ const Map = () => {
     const MB_TOKEN = 'pk.eyJ1IjoianFzbWluYyIsImEiOiJjbW44bGF3MmcwYndvMnJwejI1ejd4NndqIn0.ts5PTb2BHeScF9oA3SSkfQ';
     mapboxgl.accessToken = MB_TOKEN;
 
+    const bounds = [
+      [150.86000, -34.12492], // SW
+      [151.37828, -33.60665]  // NE
+    ];
+
     const map = (mapRef.current = new mapboxgl.Map({
       container: mapContainerRef.current,
       style: 'mapbox://styles/mapbox/light-v11',
-      zoom: 10.5,
-      center: [151.14882147065683, -33.8819969622573],
+      zoom: 9.75,
+      center: [151.11913782513034, -33.86578478609183],
+      maxBounds: bounds,
+      minZoom: 9.25,
+      maxZoom: 15,
     }));
 
     map.on('load', async () => {
+      const start = Date.now();
+
       const icons = [
 				{ name: 'cafe-icon',       url: '/icons/cafeIcon.png'       },
         { name: 'cafe-icon-hover', url: '/icons/cafeIconHover.png' },
@@ -81,6 +94,13 @@ const Map = () => {
             layout: { 'icon-image': cat.iconHover, 'icon-size': 0.15, 'icon-allow-overlap': true }
           });
         }
+        const elapsed = Date.now() - start;
+        const minDelay = 1000;
+        const remainder = Math.max(0, minDelay - elapsed);
+
+        setTimeout(() => {
+          setIsLoading(false);
+        }, remainder);
 
         // load spots for search
         Promise.all(
@@ -114,13 +134,19 @@ const Map = () => {
               { selected: true }
             );
 
+            setBoxOpen(false);
+
             setSelected({
-              name:    properties.name,
-              suburb:  properties.suburb || 'Sydney, NSW',
+              name:     properties.name,
+              suburb:   properties.suburb || 'Sydney, NSW',
               category: cat.id,
-              outlets: properties['has-outlets'] || 'Unknown',
-              wifi:    properties['has-wifi']    || 'Unknown',
-              toilets: properties['has-toilets'] || 'Unknown',
+              outlets:  properties['has-outlets'] || '',
+              wifi:     properties['has-wifi']    || '',
+              toilets:  properties['has-toilets'] || '',
+              hours:    parseHours(properties.hours),
+              summary:  properties.summary || '',
+              rating:   properties.rating,
+              rating_count: properties.rating_count,
             });
 
             map.flyTo({ center: feature.geometry.coordinates, zoom: 15 });
@@ -159,51 +185,116 @@ const Map = () => {
             selectedRef.current = null;
             setSelected(null);
           }
-          map.easeTo({ zoom: 10.5 });
+          map.easeTo({ zoom: 9.75, });
         });
 
       } catch (err) {
         console.error("Error loading icons:", err);
+        setIsLoading(false); 
       }
+
     });
 
     return () => map.remove();
   }, []);
+  
+   const parseHours = (hours) => {
+    if (!hours) {
+      return {};
+    } 
+    if (typeof hours === 'object') {
+      return hours; 
+    }
+
+    try {
+      { return JSON.parse(hours); }
+    } catch {
+      return {};
+    }
+  };
+
 
   // apply filters to all layers
   useEffect(() => {
     const map = mapRef.current;
     if (!map) return;
+
     for (const cat of categories) {
-      if (!map.getLayer(`layer-${cat.id}`)) continue;
-      if (activeFilters.length === 0) {
-        map.setFilter(`layer-${cat.id}`, null);
-      } else {
-        map.setFilter(`layer-${cat.id}`, [
-          'all', ...activeFilters.map(f => ['==', ['get', f], 'TRUE'])
-        ]);
+    if (!map.getLayer(`layer-${cat.id}`)) continue;
+
+    let matchesCategory = true;
+    if (activeCategory !== 'all') {
+      if (activeCategory === 'café') {
+        matchesCategory = cat.id.includes('cafe') || cat.id.includes('starbucks') || cat.id.includes('oliver-brown');
+      } else if (activeCategory === 'library') {
+        matchesCategory = cat.id === 'libraries';
+      } else if (activeCategory === 'misc') {
+        matchesCategory = cat.id === 'misc';
       }
     }
-  }, [activeFilters]);
 
+    if (!matchesCategory) {
+      map.setFilter(`layer-${cat.id}`, ['boolean', false]);
+      map.setFilter(`layer-${cat.id}-hover`, ['==', ['id'], '']);
+      continue; 
+    }
+
+    if (activeFilters.length === 0) {
+      map.setFilter(`layer-${cat.id}`, null);
+    } else {
+      map.setFilter(`layer-${cat.id}`, [
+        'all', 
+        ...activeFilters.map(f => ['==', ['get', f], 'TRUE'])
+      ]);
+    }
+  }
+}, [activeFilters, activeCategory]);
+
+ 
   const onSpotSelect = (spot) => {
-    mapRef.current.flyTo({ center: spot.geometry.coordinates, zoom: 15 });
-    setSelected({
-      name:     spot.properties.name,
-      suburb:   spot.properties.suburb || 'Sydney, NSW',
-      outlets:  spot.properties['has-outlets'] || 'Unknown',
-      wifi:     spot.properties['has-wifi']    || 'Unknown',
-      toilets:  spot.properties['has-toilets'] || 'Unknown',
+    mapRef.current.flyTo({ 
+      center: spot.geometry.coordinates,
+      zoom: 15
     });
+    
+    setSelected({
+      name:            spot.properties.name,
+      suburb:          spot.properties.suburb || 'Sydney, NSW',
+      rating:          spot.properties.rating,
+      rating_count:    spot.properties.rating_count,
+      hours:           parseHours(spot.properties.hours), 
+      outlets:         spot.properties['has-outlets'] || 'Unknown',
+      wifi:            spot.properties['has-wifi']    || 'Unknown',
+      toilets:         spot.properties['has-toilets'] || 'Unknown',
+    });
+
+    setBoxOpen(false);
+    
+  };
+
+  const zoomIn = () => {
+    const map = mapRef.current;
+    if (map) {
+      map.zoomIn({ duration: 300 });
+    }
+    };
+
+  const zoomOut = () => {
+    const map = mapRef.current;
+    if (map) {
+      map.zoomOut({ duration: 300 });
+    }
   };
 
   const resetMap = () => {
     const map = mapRef.current;
     if (!map) return;
 
+    setBoxOpen(true);
+
     map.flyTo({
-			center: [151.14882147065683, -33.8819969622573],
-			zoom: 10.5,
+      center: [151.11913782513034, -33.86578478609183],
+			zoom: 9.75,
 			essential: true
 		});
 
@@ -222,36 +313,57 @@ const Map = () => {
     selectedRef.current = null;
     setSelected(null);
     setActiveFilters([]);
+    setActiveCategory("all");
     setResetKey(k => k + 1);
   };
 
   return (
     <div className="page">
+      <div className={`loading-overlay ${!isLoading ? 'hidden' : ''}`}>
+        <div className="loading-spinner" />
+        <img
+          className="loading-img"
+          src="/icons/logo.png"
+          alt="Loading"
+        />
+        <p><i>loading study spots...</i></p>
+      </div>
+
       <div className="page-top">
         <Header isCompact={true} />
-        <Use isCompact={true} />
       </div>
       <div className="page-title">
-        <h1>Study Spots in Sydney</h1>
+        <h1 className="page-heading"><i>STUDY SPOTS IN SYDNEY</i></h1>
+        <div className="page-subheading">
+          <span className="page-subheading-deco">✦</span>
+            <span><i className="page-subheading-txt">  find a place to study near you  </i></span>
+          <span className="page-subheading-deco">✦</span>
+        </div>
       </div>
       <div className="page-content">
-        <div className="map-content">
+        <div className="left-content">
           <div className="key-content">
             <Key
-              isCompact={false}
+              boxOpen={boxOpen}
+              setBoxOpen={setBoxOpen}
               onFilterChange={setActiveFilters}
+              onCategoryChange={setActiveCategory}
+              onClearSelection={setSelected}
               spots={spots}
               onSpotSelect={onSpotSelect}
               resetKey={resetKey}
             />
-            {selected && <Overlay selected={selected} />}
+            {selected && <Overlay
+              isCompact={boxOpen}
+              selected={selected}
+            />}
           </div>
           <div className='map-container' ref={mapContainerRef} />
         </div>
         <div className="map-btn-container">
           <div className="zoom-btn-container">
-            <button className="zoom-btn plus-btn">+</button>
-            <button className="zoom-btn minus-btn">-</button>
+            <button className="zoom-btn plus-btn" onClick={zoomIn}>+</button>
+            <button className="zoom-btn minus-btn" onClick={zoomOut}>-</button>
           </div>
           <button className="reset-btn" onClick={resetMap}>
             <IoIosRefreshCircle className="icon-img" title="Refresh Map" color="#9AA7FF" />

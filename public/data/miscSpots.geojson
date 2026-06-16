@@ -1,0 +1,221 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1675154,
+          -33.9082999
+        ]
+      },
+      "properties": {
+        "name": "BlocHaus Bouldering Marrickville | Sydney",
+        "place_id": "ChIJGTzd95CxEmsRNrTcGzoxQLE",
+        "address": "49 Fitzroy St, Marrickville NSW 2204, Australia",
+        "suburb": "Marrickville",
+        "rating": 4.9,
+        "rating_count": 836,
+        "hours": {
+          "Monday": "6:00 AM – 10:00 PM",
+          "Tuesday": "6:00 AM – 11:00 PM",
+          "Wednesday": "6:00 AM – 11:00 PM",
+          "Thursday": "6:00 AM – 11:00 PM",
+          "Friday": "6:00 AM – 10:00 PM",
+          "Saturday": "8:00 AM – 10:00 PM",
+          "Sunday": "8:00 AM – 10:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Tim",
+            "rating": 5,
+            "text": "Easily my favourite overall bouldering gym. The space is big but never wasted, super nice atmosphere, the regulars and staff are all super friendly, and in the 2 occasions I've seen injuries staff were fantastic about providing ice, support and a bit of distraction while waiting for the ambulance.\n\nThe setting is the best for any gym I've been to - big, creative and/or technical moves that leave the easy climbs still really fun to do even for climbers well outside of the skill range and make beginners feel more engaged than any other gym I've seen. Meanwhile the climbs at my level are wonderfully engaging mentally as well as physically - huge props to the setters!\n\nThe air quality is very good, increasingly something that puts me off some gyms, and the lighting and ventilation is really nice too with some nice afternoon sun near the entrance. Good bathroom and shower facilities are also good, though I think that's nothing unusual. Big points for including complimentary period supplies in the male bathroom area to really welcome trans men alongside an all gender bathroom, the gym in general feels super comfortable and welcoming for queer and trans people beyond just empty lip service. There are some nice bonuses as well including a slackline, a comfy lounge area with included boardgames and a table tennis table that help foster a very friendly atmosphere.\n\nI'm not huge on training most of the time, a lot of areas and equipment in other gyms feel quite unwelcoming to the less experienced, but the training area at blochaus is really nice - a fully featured campus board, peg board, a  spraywall that's still got jugs on it for those that can't work the brutally hard walls of some gyms and a kilterboard plus weights, fingerboards and pullup bars deck out one training area, with a whole other gym area for those more experienced trying for a more serious over all workout that's less social.\n\nI don't have many photos of the facility, but I'll include 3 clips that hopefully show off some of the impressive setting (and my butchering of the routes!) :)"
+          },
+          {
+            "author": "Lireoec",
+            "rating": 5,
+            "text": "Quality setting and cleanest bouldering gym I've ever been to. Everyone was very friendly and helpful. I would highly recommend this gym for beginners as well as their problems are very beginner friendly and considerate of different body types."
+          },
+          {
+            "author": "Jen Johnston-Marr",
+            "rating": 5,
+            "text": "Killer gym! Went on a Saturday so was obviously busy but the place is big enough and the great layout makes it so you couldn't really tell. Loads of routes and a lot of variety.\nMy friend rented shoes and was able to send all the routes so they're clearly well maintained.\nThere's a slack line if you're interested in that sort of thing.\nI've found the blochaus community to be more welcoming than the 9 degrees community and that's including the staff.\nGreat facilities and well maintained climb down holds.\n25 buck day pass seems to be the going rate so average priced."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2061938,
+          -33.8806663
+        ]
+      },
+      "properties": {
+        "name": "477 Pitt St",
+        "place_id": "ChIJGc9K8EGuEmsRDrot7_uI1xg",
+        "address": "477 Pitt St, Haymarket NSW 2000, Australia",
+        "suburb": "Haymarket",
+        "rating": null,
+        "rating_count": null,
+        "hours": {},
+        "summary": "",
+        "reviews": [],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.208169,
+          -33.862144
+        ]
+      },
+      "properties": {
+        "name": "Salesforce Tower",
+        "place_id": "ChIJFfDSU4evEmsRnqy02aG-1Kw",
+        "address": "180 George St, Sydney NSW 2000, Australia",
+        "suburb": "Sydney",
+        "rating": 4.6,
+        "rating_count": 84,
+        "hours": {
+          "Monday": "8:00 AM – 6:00 PM",
+          "Tuesday": "8:00 AM – 6:00 PM",
+          "Wednesday": "8:00 AM – 6:00 PM",
+          "Thursday": "8:00 AM – 6:00 PM",
+          "Friday": "8:00 AM – 6:00 PM",
+          "Saturday": "Closed",
+          "Sunday": "Closed"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Michael McGrath (DJ Seamus Sydney)",
+            "rating": 5,
+            "text": "Voted as top 4 places to work as far as employment goes.\nSuch a beautiful building and working environment and simply amazing views from the top levels.\nI am lucky enough to have a friend who works their that took .e up for a tour and a coffee."
+          },
+          {
+            "author": "A2B in an EV",
+            "rating": 5,
+            "text": "World class office building. The views are stunning. Reminds you how beautiful Sydney harbour and its landmarks are. What a privilege.\n\nConcierge is courteous, friendly and helpful.\n\nThe giant screens in the foyer a reminder of the power of tech.\n\nModern open plan corporate fitout on each level. Excellent service keeping kitchens and all the glass clean and clear.\n\nThe guest levels have fantastic in-house catering with contemporary drinks menu that includes ginger shots and housemade chai in addition to iced chocolates and of course, coffee. Professional and friendly service too."
+          },
+          {
+            "author": "Theegan Moodley",
+            "rating": 1,
+            "text": "I had a lunch meeting at the Sydney Salesforce Tower yesterday with one of their account managers. Upon arrival, I was asked to check in at the concierge. What followed was the most unpleasant and shocking experience I’ve had in a long time. The female concierge I dealt with was not only rude but, as I observed her behavior with others, blatantly discriminatory. I was disgusted to witness such racism in 2025—it felt like stepping back to the 1900s.\n\nThis completely put me off, especially as I was there to discuss setting up a large commercial account with Salesforce. While my account manager did reach out and apologize on behalf of the concierge, seeing this as the “face” of Salesforce has made me seriously reconsider doing business with them. No CRM, no matter how good, is worth being greeted with that level of condescending and discriminatory behavior.\n\nUnfortunately, this isn’t the first time I’ve encountered this kind of treatment, which makes it even more disappointing. Whoever is looking after this person, should make a change quickly, before they lose more large accounts.."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2174138,
+          -33.8688037
+        ]
+      },
+      "properties": {
+        "name": "Art Gallery of New South Wales",
+        "place_id": "ChIJPVqlfGyuEmsRHPcnCX1X1OE",
+        "address": "Art Gallery Rd, Sydney NSW 2000, Australia",
+        "suburb": "Sydney",
+        "rating": 4.7,
+        "rating_count": 15442,
+        "hours": {
+          "Monday": "10:00 AM – 5:00 PM",
+          "Tuesday": "10:00 AM – 5:00 PM",
+          "Wednesday": "10:00 AM – 10:00 PM",
+          "Thursday": "10:00 AM – 5:00 PM",
+          "Friday": "10:00 AM – 5:00 PM",
+          "Saturday": "10:00 AM – 5:00 PM",
+          "Sunday": "10:00 AM – 5:00 PM"
+        },
+        "summary": "Contemporary, modern & indigenous art displayed in a classical-style building, founded in 1871.",
+        "reviews": [
+          {
+            "author": "Bulat Faezov",
+            "rating": 5,
+            "text": "Beautiful free art museum in NSW. The Art Gallery of New South Wales is one of the best places to visit in Sydney, whether you love art or just want a peaceful, inspiring afternoon. The building is beautiful, the atmosphere is calm, and the collection is surprisingly rich for a museum with free entry. I loved the mix of classic, modern, Australian, Aboriginal, and international art. The new Sydney Modern section is especially impressive, with open spaces, interesting architecture, and thoughtful exhibitions. It feels welcoming rather than intimidating, which makes it easy to wander, slow down, and enjoy the work at your own pace. The location near the Botanic Garden also makes it perfect for combining with a walk by the harbour. A beautiful cultural space, generous to the public, and absolutely worth visiting. One of Sydney’s quiet treasures."
+          },
+          {
+            "author": "Authenticity Studio",
+            "rating": 5,
+            "text": "The Art Gallery of New South Wales in Sydney is truly a world-class gallery, home to Renaissance paintings, contemporary works, powerful Aboriginal Australian art, and incredible local artists that will leave you inspired. Honestly, I couldn’t believe entry was free. If you love art and enjoy taking your time to wander through exhibitions, you could easily spend half a day here. Highly recommended.\n\nWhat makes the experience even more special is the building itself — equally impressive, carrying the elegance and grandeur of a Victorian era that reflects the craftsmanship and architectural beauty of a time gone by."
+          },
+          {
+            "author": "Najla Alhraiwil",
+            "rating": 5,
+            "text": "One of my absolute favorite places, and no matter how many times I visit, I never get bored of it. The gallery’s vast space allows you to explore comfortably, and the diversity of art on display is truly impressive, from classic pieces to contemporary works.\n\nThe way the exhibitions are curated and arranged makes the experience smooth, inspiring, and enjoyable every time. I also love that there are always new and rotating exhibitions, which gives you a fresh reason to come back again and again.\n\nThe café inside the gallery is another highlight, with its beautiful view overlooking the city — the perfect spot to take a break. The children’s library on the lower floor is wonderful as well, making the gallery welcoming for families.\n\nOverall, it’s a place full of creativity, calm, and inspiration — a space you can keep returning to without ever feeling tired of it."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2083601,
+          -33.8729174
+        ]
+      },
+      "properties": {
+        "name": "252 Pitt St",
+        "place_id": "ChIJVx5Ebj6uEmsRRA7P4vBO4Qo",
+        "address": "252 Pitt St, Sydney NSW 2000, Australia",
+        "suburb": "Sydney",
+        "rating": null,
+        "rating_count": null,
+        "hours": {},
+        "summary": "",
+        "reviews": [],
+        "has-wifi": "",
+        "has-outlets": "",
+        "has-toilets": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2070559,
+          -33.8698137
+        ]
+      },
+      "properties": {
+        "name": "420 George St",
+        "place_id": "ChIJ2QvgCz-uEmsRs2mmicieNW0",
+        "address": "420 George St, Sydney NSW 2000, Australia",
+        "suburb": "Sydney",
+        "rating": null,
+        "rating_count": null,
+        "hours": {},
+        "summary": "",
+        "reviews": [],
+        "has-wifi": "",
+        "has-outlets": "TRUE",
+        "has-toilets": "FALSE"
+      }
+    }
+  ]
+}
