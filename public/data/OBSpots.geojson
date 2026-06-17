@@ -784,6 +784,54 @@
         "has-outlets": "",
         "has-toilets": ""
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1409113,
+          -33.9578854
+        ]
+      },
+      "properties": {
+        "name": "Oliver Brown",
+        "place_id": "ChIJYR01NPK3EmsRGjdZkqhZ-UY",
+        "address": "57 Rockdale Plaza Dr, Rockdale NSW 2216, Australia",
+        "suburb": "Rockdale",
+        "rating": 3.8,
+        "rating_count": 135,
+        "hours": {
+          "Monday": "7:00 AM – 6:00 PM",
+          "Tuesday": "7:00 AM – 6:00 PM",
+          "Wednesday": "7:00 AM – 6:00 PM",
+          "Thursday": "7:00 AM – 7:00 PM",
+          "Friday": "7:00 AM – 6:00 PM",
+          "Saturday": "7:00 AM – 6:00 PM",
+          "Sunday": "7:00 AM – 6:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Theresa Sarmiento",
+            "rating": 5,
+            "text": "This was my first time trying Oliver Brown. You see them everywhere but Ive just never stopped to give them a try until today.\n\nMy husband and I decided to stop to treat ourselves to a fresh coffee and something sweet.\nWe ordered 2 flat whites and a Belgian Waffle for 2.\nCoffee is good.\nThe waffles were delicious!\nIf I were to have any criticism, it's  just that I would have liked to have a little more ice cream to balance out the shear amount of chocolate! Chocolate chips IN the waffles, smothered in a warm chocolate sauce, topped off with ice cream and MORE chocolate drizzle that was even on the plate as well! Delicious but without more ice cream the sugary chocolate becomes a bit overwhelming.\n\nService and atmosphere were fantastic. Tables were clean.\n\nWe would like to come back for brunch one day."
+          },
+          {
+            "author": "Amina Ejaz",
+            "rating": 5,
+            "text": "Absolutely love Oliver Brown Rockdale! The coffee is always amazing — rich, smooth, and perfectly made every time. The staff are so friendly and welcoming. They know their regulars and the service is always efficient even when it's busy. Their food, cakes, desserts are fantastic. It’s one of those places where you instantly feel comfortable, and you can tell they really care about quality and their customers. Easily my favourite spot for a great coffee and good vibes."
+          },
+          {
+            "author": "thesydneytram",
+            "rating": 2,
+            "text": "We were excited to try Oliver Brown in Rockdale. The restaurant, though small, had an inviting atmosphere with cozy and modern decor. The drinks, including coffee and hot chocolate, were good. However, the food was below average.\n\nThe churros were overly doughy, and there was no option for dark chocolate dipping sauce. The steak sandwich was disappointing; the meat was tough, thin, and lacked flavor. The French toast was just okay. The food took a long time to arrive, overall, it wasn’t worth the price."
+          }
+        ],
+        "has-wifi": "",
+        "has-outlets": "",
+        "has-toilets": ""
+      }
     }
   ]
 }

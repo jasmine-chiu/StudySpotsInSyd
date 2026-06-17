@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "name": "BlocHaus Bouldering Marrickville | Sydney",
+        "name": "BlocHaus Bouldering (Marrickville)",
         "place_id": "ChIJGTzd95CxEmsRNrTcGzoxQLE",
         "address": "49 Fitzroy St, Marrickville NSW 2204, Australia",
         "suburb": "Marrickville",
@@ -189,7 +189,7 @@
         "summary": "",
         "reviews": [],
         "has-wifi": "",
-        "has-outlets": "",
+        "has-outlets": "TRUE",
         "has-toilets": ""
       }
     },

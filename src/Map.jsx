@@ -1,6 +1,8 @@
 import Header from "./Header"
 import Key from "./Key";
 import Overlay from "./Overlay";
+import Chat from "./Chat";
+import Search from "./Search"
 
 import { useEffect, useRef, useState } from 'react';
 import mapboxgl from 'mapbox-gl';
@@ -8,15 +10,16 @@ import { IoIosRefreshCircle } from 'react-icons/io';
 import 'mapbox-gl/dist/mapbox-gl.css';
 
 const categories = [
+  { id: 'misc',          file: './data/miscSpots.geojson',         icon: 'misc-icon', iconHover: 'misc-icon-hover' },
   { id: 'cafes',         file: './data/cafeSpots.geojson',         icon: 'cafe-icon', iconHover: 'cafe-icon-hover' },
   { id: 'starbucks',     file: './data/starbucksSpots.geojson',    icon: 'cafe-icon', iconHover: 'cafe-icon-hover' },
   { id: 'oliver-browns', file: './data/OBSpots.geojson',           icon: 'cafe-icon', iconHover: 'cafe-icon-hover' },
   { id: 'libraries',     file: './data/libSpots.geojson',          icon: 'lib-icon', iconHover: 'lib-icon-hover' },
-  { id: 'misc',          file: './data/miscSpots.geojson',         icon: 'icon', iconHover: 'icon-hover' }
 ];
 
 const Map = () => {
   const [isLoading, setIsLoading] = useState(true);
+  const [isChatOpen, setIsChatOpen] = useState(false);
   const [selected, setSelected] = useState(null);
   const [activeFilters, setActiveFilters] = useState([]);
   const [spots, setSpots] = useState([]);
@@ -43,9 +46,9 @@ const Map = () => {
     const map = (mapRef.current = new mapboxgl.Map({
       container: mapContainerRef.current,
       style: 'mapbox://styles/mapbox/light-v11',
-      zoom: 9.75,
       center: [151.11913782513034, -33.86578478609183],
-      maxBounds: bounds,
+			zoom: 9.75,
+      // maxBounds: bounds,
       minZoom: 9.25,
       maxZoom: 15,
     }));
@@ -54,6 +57,8 @@ const Map = () => {
       const start = Date.now();
 
       const icons = [
+        { name: 'misc-icon',       url: '/icons/miscIcon.png'       },
+        { name: 'misc-icon-hover', url: '/icons/miscIconHover.png' },
 				{ name: 'cafe-icon',       url: '/icons/cafeIcon.png'       },
         { name: 'cafe-icon-hover', url: '/icons/cafeIconHover.png' },
 				{ name: 'lib-icon',       url: '/icons/libIcon.png'       },
@@ -185,7 +190,7 @@ const Map = () => {
             selectedRef.current = null;
             setSelected(null);
           }
-          map.easeTo({ zoom: 9.75, });
+          map.easeTo({ zoom: 12 });
         });
 
       } catch (err) {
@@ -263,6 +268,7 @@ const Map = () => {
       rating:          spot.properties.rating,
       rating_count:    spot.properties.rating_count,
       hours:           parseHours(spot.properties.hours), 
+      reviews:         spot.properties.reviews,
       outlets:         spot.properties['has-outlets'] || 'Unknown',
       wifi:            spot.properties['has-wifi']    || 'Unknown',
       toilets:         spot.properties['has-toilets'] || 'Unknown',
@@ -295,7 +301,8 @@ const Map = () => {
     map.flyTo({
       center: [151.11913782513034, -33.86578478609183],
 			zoom: 9.75,
-			essential: true
+			essential: true,
+      // maxBounds: bounds
 		});
 
     for (const cat of categories) {
@@ -330,7 +337,16 @@ const Map = () => {
       </div>
 
       <div className="page-top">
-        <Header isCompact={true} />
+        <Header
+          isCompact={true}
+          onChatToggle={() => setIsChatOpen(!isChatOpen)}
+          isChatOpen={isChatOpen}
+        />
+        {isChatOpen && (
+          <div className="chat-panel">
+            <Chat spots={spots}/>
+          </div>
+        )}
       </div>
       <div className="page-title">
         <h1 className="page-heading"><i>STUDY SPOTS IN SYDNEY</i></h1>
@@ -341,24 +357,36 @@ const Map = () => {
         </div>
       </div>
       <div className="page-content">
-        <div className="left-content">
-          <div className="key-content">
-            <Key
-              boxOpen={boxOpen}
-              setBoxOpen={setBoxOpen}
-              onFilterChange={setActiveFilters}
-              onCategoryChange={setActiveCategory}
-              onClearSelection={setSelected}
-              spots={spots}
-              onSpotSelect={onSpotSelect}
-              resetKey={resetKey}
-            />
-            {selected && <Overlay
-              isCompact={boxOpen}
-              selected={selected}
-            />}
+        <div className="total-content">
+          <div className="left">
+            <div>
+              <Search 
+                spots={spots} 
+                onSpotSelect={onSpotSelect} 
+                onSearchExecuted={() => setSelected(null)}
+              />
+            </div>
+            <div>
+              <div className="key-content">
+                <Key
+                  boxOpen={boxOpen}
+                  setBoxOpen={setBoxOpen}
+                  onFilterChange={setActiveFilters}
+                  onCategoryChange={setActiveCategory}
+                  onClearSelection={setSelected}
+                  spots={spots}
+                  onSpotSelect={onSpotSelect}
+                  resetKey={resetKey}
+                />
+                {selected && <Overlay
+                  isCompact={boxOpen}
+                  selected={selected}
+                />}
+              </div>
+            </div>
           </div>
           <div className='map-container' ref={mapContainerRef} />
+
         </div>
         <div className="map-btn-container">
           <div className="zoom-btn-container">
