@@ -2,7 +2,7 @@ import json
 import time
 import requests
 
-API_KEY = 'AIzaSyDO8a5nZ8HG4GdaOXQID42KBC4xX-6Tx-E'
+# API_KEY
 
 def search_places(query, location, radius, page_token=None):
     params = {

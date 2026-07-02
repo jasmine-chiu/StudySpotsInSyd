@@ -4,10 +4,13 @@ import Overlay from "./Overlay";
 import Chat from "./Chat";
 import Search from "./Search"
 
+import { useLocation, useNavigate } from 'react-router-dom';
 import { useEffect, useRef, useState } from 'react';
 import mapboxgl from 'mapbox-gl';
 import { IoIosRefreshCircle } from 'react-icons/io';
 import 'mapbox-gl/dist/mapbox-gl.css';
+import { loadData } from "./Helper";
+import { supabase } from "./Client";
 
 const categories = [
   { id: 'misc',          file: './data/miscSpots.geojson',         icon: 'misc-icon', iconHover: 'misc-icon-hover' },
@@ -29,10 +32,22 @@ const Map = () => {
   const mapRef = useRef();
   const mapContainerRef = useRef();
   const selectedRef = useRef(null);
+  const location = useLocation();
+  const navigate = useNavigate();
 
-  const loadImage = (map, url) => new Promise((resolve, reject) => {
-    map.loadImage(url, (error, image) => error ? reject(error) : resolve(image));
-  });
+  const loadImage = (mapInstance, url) => {
+    return new Promise((resolve, reject) => {
+      const img = new Image();
+      img.crossOrigin = 'Anonymous'; 
+      img.onload = () => resolve(img);
+      img.onerror = (err) => reject(new Error(`failed to load image resource at: ${url}`));
+      img.src = url;
+    });
+  };
+
+  useEffect(() => {
+    loadData(setSpots); 
+  }, []);
 
   useEffect(() => {
     const MB_TOKEN = 'pk.eyJ1IjoianFzbWluYyIsImEiOiJjbW44bGF3MmcwYndvMnJwejI1ejd4NndqIn0.ts5PTb2BHeScF9oA3SSkfQ';
@@ -53,109 +68,152 @@ const Map = () => {
       maxZoom: 15,
     }));
 
+    const fetchCategory = async (categoryId) => {
+    try {
+      const { data: categorySpots, error } = await supabase
+        .from('spots')
+        .select('name, suburb, lat, lng, category, has_wifi, has_outlets, has_toilets, hours, summary, reviews, rating, rating_count')
+        .eq('category', categoryId); 
+
+      if (error) throw error;
+
+      return {
+        type: 'FeatureCollection',
+        features: (categorySpots || []).map(row => ({
+          type: 'Feature',
+          geometry: {
+            type: 'Point',
+            coordinates: [row.lng, row.lat]
+          },
+          properties: {
+            ...row
+          }
+        }))
+      };
+    } catch (error) {
+      console.error(`err: fetching category ${categoryId}:`, error);
+      return { type: 'FeatureCollection', features: [] };
+    }
+  };
+
     map.on('load', async () => {
       const start = Date.now();
 
-      const icons = [
-        { name: 'misc-icon',       url: '/icons/miscIcon.png'       },
-        { name: 'misc-icon-hover', url: '/icons/miscIconHover.png' },
-				{ name: 'cafe-icon',       url: '/icons/cafeIcon.png'       },
-        { name: 'cafe-icon-hover', url: '/icons/cafeIconHover.png' },
-				{ name: 'lib-icon',       url: '/icons/libIcon.png'       },
-        { name: 'lib-icon-hover', url: '/icons/libIconHover.png' },
-				{ name: 'icon',       url: '/icons/icon.png'       },
-        { name: 'icon-hover', url: '/icons/iconHover.png' },
-        { name: 'xcafe-icon',       url: '/icons/cafe-icon.png'       },
-        { name: 'xcafe-icon-hover', url: '/icons/cafe-icon-hover.png' },
-        { name: 'search', url: '/icons/search.png' }
+      const icon = [
+        { name: 'misc-icon',       file: 'miscIcon.png'       },
+        { name: 'misc-icon-hover', file: 'miscIconHover.png' },
+        { name: 'cafe-icon',       file: 'cafeIcon.png'       },
+        { name: 'cafe-icon-hover', file: 'cafeIconHover.png' },
+        { name: 'lib-icon',        file: 'libIcon.png'        },
+        { name: 'lib-icon-hover',  file: 'libIconHover.png'  },
+        { name: 'icon',            file: 'icon.png'           },
+        { name: 'icon-hover',      file: 'iconHover.png'      },
       ];
 
       try {
-        await Promise.all(icons.map(async (icon) => {
-          const image = await loadImage(map, icon.url);
-          map.addImage(icon.name, image);
-        }));
+        await Promise.all(icon.map(async (icon) => {
+          const { data } = supabase.storage
+            .from('spots-icons')
+            .getPublicUrl(icon.file);
+
+        const publicUrl = data.publicUrl;
+        const image = await loadImage(map, publicUrl);
+        map.addImage(icon.name, image);
+      }));
+
+        
+      const geojsonResults = await Promise.all(
+        categories.map(cat => fetchCategory(cat.id))
+      );
+
+      for (let i = 0; i < categories.length; i++) {
+        const cat = categories[i];
+        const geojson = geojsonResults[i];
 
         // add sources + layers
-        for (const cat of categories) {
-          map.addSource(`src-${cat.id}`, {
-            type: 'geojson',
-            data: cat.file,
-            generateId: true
-          });
+        map.addSource(`src-${cat.id}`, {
+          type: 'geojson',
+          data: geojson,
+          generateId: true
+        });
 
-          map.addLayer({
-            id: `layer-${cat.id}`,
-            type: 'symbol',
+        map.addLayer({
+          id: `layer-${cat.id}`,
+          type: 'symbol',
+          source: `src-${cat.id}`,
+          layout: { 'icon-image': cat.icon, 'icon-size': 0.14, 'icon-allow-overlap': true }
+        });
+
+        map.addLayer({
+          id: `layer-${cat.id}-hover`,
+          type: 'symbol',
+          source: `src-${cat.id}`,
+          filter: ['==', ['id'], ''],
+          layout: { 'icon-image': cat.iconHover, 'icon-size': 0.15, 'icon-allow-overlap': true }
+        });
+      }
+
+      const { data: allSpots } = await supabase
+        .from('spots')
+        .select('name, suburb, lat, lng, has_wifi, has_outlets, has_toilets, hours, summary, reviews, rating, rating_count');
+        
+      setSpots(allSpots.map(row => ({
+        type: 'Feature',
+        geometry: { type: 'Point', coordinates: [row.lng, row.lat] },
+        properties: row
+      })));
+      
+      // potentially remove
+      const elapsed = Date.now() - start;
+      const minDelay = 1000;
+      const remainder = Math.max(0, minDelay - elapsed);
+
+      setTimeout(() => {
+        setIsLoading(false);
+      }, remainder);
+
+      let justClickedFeature = false;
+
+      for (const cat of categories) {
+        map.on('click', `layer-${cat.id}`, (e) => {
+          justClickedFeature = true;
+          const feature    = e.features[0];
+          const properties = feature.properties;
+
+          // clear previous hover layer if different category
+          if (selectedRef.current && selectedRef.current.hoverLayer !== `layer-${cat.id}-hover`) {
+            map.setFilter(selectedRef.current.hoverLayer, ['==', ['id'], '']);
+          }
+
+          selectedRef.current = {
+            id: feature.id,
             source: `src-${cat.id}`,
-            layout: { 'icon-image': cat.icon, 'icon-size': 0.14, 'icon-allow-overlap': true }
+            hoverLayer: `layer-${cat.id}-hover`
+          };
+
+          map.setFilter(`layer-${cat.id}-hover`, ['==', ['id'], feature.id]);
+          map.setFeatureState(
+            { source: `src-${cat.id}`, id: feature.id },
+            { selected: true }
+          );
+
+          setBoxOpen(false);
+
+          setSelected({
+            name:     properties.name,
+            suburb:   properties.suburb || 'Sydney, NSW',
+            category: cat.id,
+            outlets:  properties['has-outlets'] || '',
+            wifi:     properties['has-wifi']    || '',
+            toilets:  properties['has-toilets'] || '',
+            hours:    parseHours(properties.hours),
+            summary:  properties.summary || '',
+            rating:   properties.rating,
+            rating_count: properties.rating_count,
           });
 
-          map.addLayer({
-            id: `layer-${cat.id}-hover`,
-            type: 'symbol',
-            source: `src-${cat.id}`,
-            filter: ['==', ['id'], ''],
-            layout: { 'icon-image': cat.iconHover, 'icon-size': 0.15, 'icon-allow-overlap': true }
-          });
-        }
-        const elapsed = Date.now() - start;
-        const minDelay = 1000;
-        const remainder = Math.max(0, minDelay - elapsed);
-
-        setTimeout(() => {
-          setIsLoading(false);
-        }, remainder);
-
-        // load spots for search
-        Promise.all(
-          categories.map(cat =>
-            fetch(cat.file).then(r => r.json()).then(d => d.features)
-          )
-        ).then(allFeatures => setSpots(allFeatures.flat()));
-
-        let justClickedFeature = false;
-
-        for (const cat of categories) {
-          map.on('click', `layer-${cat.id}`, (e) => {
-            justClickedFeature = true;
-            const feature    = e.features[0];
-            const properties = feature.properties;
-
-            // clear previous hover layer if different category
-            if (selectedRef.current && selectedRef.current.hoverLayer !== `layer-${cat.id}-hover`) {
-              map.setFilter(selectedRef.current.hoverLayer, ['==', ['id'], '']);
-            }
-
-            selectedRef.current = {
-              id: feature.id,
-              source: `src-${cat.id}`,
-              hoverLayer: `layer-${cat.id}-hover`
-            };
-
-            map.setFilter(`layer-${cat.id}-hover`, ['==', ['id'], feature.id]);
-            map.setFeatureState(
-              { source: `src-${cat.id}`, id: feature.id },
-              { selected: true }
-            );
-
-            setBoxOpen(false);
-
-            setSelected({
-              name:     properties.name,
-              suburb:   properties.suburb || 'Sydney, NSW',
-              category: cat.id,
-              outlets:  properties['has-outlets'] || '',
-              wifi:     properties['has-wifi']    || '',
-              toilets:  properties['has-toilets'] || '',
-              hours:    parseHours(properties.hours),
-              summary:  properties.summary || '',
-              rating:   properties.rating,
-              rating_count: properties.rating_count,
-            });
-
-            map.flyTo({ center: feature.geometry.coordinates, zoom: 15 });
-          });
+          map.flyTo({ center: feature.geometry.coordinates, zoom: 15 });
+        });
 
           map.on('mousemove', `layer-${cat.id}`, (e) => {
             if (!e.features?.length) return;
@@ -192,18 +250,46 @@ const Map = () => {
           }
           map.easeTo({ zoom: 12 });
         });
-
       } catch (err) {
         console.error("Error loading icons:", err);
         setIsLoading(false); 
       }
-
     });
 
     return () => map.remove();
   }, []);
   
-   const parseHours = (hours) => {
+  useEffect(() => {
+    if (!mapRef.current || isLoading || spots.length === 0) return;
+    if (location.state?.initialSpot) {
+      const initSpot = location.state.initialSpot;
+      onSpotSelect(initSpot);
+      window.history.replaceState({}, document.title);
+    }
+  }, [isLoading, spots, location.state]);
+
+  const onSpotSelect = (spot) => {
+    mapRef.current.flyTo({ 
+      center: spot.geometry.coordinates,
+      zoom: 15
+    });
+
+    setSelected({
+      name:            spot.properties.name,
+      suburb:          spot.properties.suburb || 'Sydney, NSW',
+      rating:          spot.properties.rating,
+      rating_count:    spot.properties.rating_count,
+      hours:           parseHours(spot.properties.hours), 
+      reviews:         spot.properties.reviews,
+      outlets:         spot.properties['has-outlets'] || 'Unknown',
+      wifi:            spot.properties['has-wifi']    || 'Unknown',
+      toilets:         spot.properties['has-toilets'] || 'Unknown',
+    });
+
+    setBoxOpen(false);
+  };
+
+  const parseHours = (hours) => {
     if (!hours) {
       return {};
     } 
@@ -255,29 +341,6 @@ const Map = () => {
   }
 }, [activeFilters, activeCategory]);
 
- 
-  const onSpotSelect = (spot) => {
-    mapRef.current.flyTo({ 
-      center: spot.geometry.coordinates,
-      zoom: 15
-    });
-    
-    setSelected({
-      name:            spot.properties.name,
-      suburb:          spot.properties.suburb || 'Sydney, NSW',
-      rating:          spot.properties.rating,
-      rating_count:    spot.properties.rating_count,
-      hours:           parseHours(spot.properties.hours), 
-      reviews:         spot.properties.reviews,
-      outlets:         spot.properties['has-outlets'] || 'Unknown',
-      wifi:            spot.properties['has-wifi']    || 'Unknown',
-      toilets:         spot.properties['has-toilets'] || 'Unknown',
-    });
-
-    setBoxOpen(false);
-    
-  };
-
   const zoomIn = () => {
     const map = mapRef.current;
     if (map) {
@@ -302,7 +365,6 @@ const Map = () => {
       center: [151.11913782513034, -33.86578478609183],
 			zoom: 9.75,
 			essential: true,
-      // maxBounds: bounds
 		});
 
     for (const cat of categories) {

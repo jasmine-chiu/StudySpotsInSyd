@@ -1,14 +1,22 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { IoMdSearch  } from 'react-icons/io';
-import placeholder from "./assets/placeholder.png"
-import logo from "./assets/logo.png"
-import chat from "./assets/chat.png"
-import chatting from "./assets/chatting.png"
+import { supabase } from "./Client";
 
-const Header = ({ isCompact, onChatToggle, isChatOpen }) => {
+const Header = ({ isCompact, onChatToggle, isChatOpen, spots }) => {
+
+  const getAssetUrl = (fileName) => {
+    const { data } = supabase.storage.from("spots-icons").getPublicUrl(fileName);
+    return data.publicUrl;
+  };
+
+  const assets = {
+    logo: getAssetUrl("logo.png"),
+    chat: getAssetUrl("chat.png"),
+    chatting: getAssetUrl("chatting.png"),
+  };
+
   const [isNavOpen, setIsNavOpen] = useState(false);
-  
+ 
   if (isCompact) {
     return (
       <div className="header-compact">
@@ -16,7 +24,7 @@ const Header = ({ isCompact, onChatToggle, isChatOpen }) => {
           className={`header-toggle ${isNavOpen ? 'open' : ''}`} 
           onClick={() => setIsNavOpen(!isNavOpen)}
         >
-          <img src={logo} className="icon-img" title={isNavOpen ? "close nav bar" : "open nav bar"} />
+          <img src={assets.logo} className="icon-img" title={isNavOpen ? "close nav bar" : "open nav bar"} />
         </button>
 
         <button 
@@ -24,15 +32,15 @@ const Header = ({ isCompact, onChatToggle, isChatOpen }) => {
           onClick={onChatToggle}
         >
           {isChatOpen ? (
-            <img src={chatting} className="icon-img" title="close chat" />
+            <img src={assets.chatting} className="icon-img" title="close chat" />
           ) : (
-            <img src={chat} alt="open chat" className="icon-img" />
+            <img src={assets.chat} alt="open chat" className="icon-img" />
           )}
         </button>
 
         {isNavOpen && (
           <nav className="compact-nav">
-            <Link className="nav-btn" to="/about">About</Link>
+            <Link className="nav-btn" to="/">About</Link>
             <Link className="nav-btn" to="/map">Map</Link>
           </nav>
         )}
@@ -45,14 +53,18 @@ const Header = ({ isCompact, onChatToggle, isChatOpen }) => {
 			<header className="nav">
 				<div className="nav-bar">
 					<div className="nav-left">
-						<a href="/"><img id="logo" src={logo}/></a>
+						<a href="/"><img id="logo" src={assets.logo}/></a>
 						<Link className="nav-btn" to="/map">Map</Link>
 						<Link className="nav-btn" to="/about">About</Link>
 					</div>
-					<div className="search">
-						<input id="nav-bar" className="search-bar" type="text" placeholder="search for a spot ..." />
-						<button className="search-btn"><IoMdSearch className="search-icon" /></button>
-					</div>
+					{/* <div className="search">
+						<Search 
+                id="nav-bar"
+                spots={spots} 
+                onSpotSelect={onSpotSelect} 
+                onSearchExecuted={() => setSelected(null)}
+              />
+					</div> */}
 				</div>
 			</header>
 		</>

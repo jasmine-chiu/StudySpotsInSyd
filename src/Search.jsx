@@ -22,7 +22,6 @@ const Search = ({ spots, onSpotSelect, onSearchExecuted }) => {
     if (onSearchExecuted) {
       onSearchExecuted();
     }
-
   };
 
   return (
@@ -47,7 +46,11 @@ const Search = ({ spots, onSpotSelect, onSearchExecuted }) => {
         <ul className="search-suggestions">
             {suggestions.length > 0 ? (
             suggestions.map((spot, i) => (
-							<li className="suggestion" key={i} onMouseDown={() => handleSelect(spot)}>
+							<li
+                className="suggestion"
+                key={i}
+                onMouseDown={() => handleSelect(spot)
+              }>
 							<b>{spot.properties.name}</b>
 							<span> — {spot.properties.suburb}</span>
 							</li>
