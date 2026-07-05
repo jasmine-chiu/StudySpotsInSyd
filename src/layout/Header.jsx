@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { supabase } from "./Client";
+import { supabase } from "../Client";
 
 const Header = ({ isCompact, onChatToggle, isChatOpen, spots }) => {
 

@@ -2,7 +2,6 @@ import { useState } from 'react';
 import { IoMdSearch } from 'react-icons/io';
 import 'mapbox-gl/dist/mapbox-gl.css';
 
-
 const Search = ({ spots, onSpotSelect, onSearchExecuted }) => {
   const [query, setQuery] = useState("");
   const [showSuggestions, setShowSuggestions] = useState(false);

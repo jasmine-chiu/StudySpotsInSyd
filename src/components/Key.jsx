@@ -10,10 +10,10 @@ const Key = ({boxOpen, setBoxOpen, onFilterChange, onCategoryChange, onClearSele
 	const [showSuggestions, setShowSuggestions] = useState(false);
 
 	const filterOptions = [
-    { label: 'wi-fi available', value: 'has-wifi' },
-    { label: 'power outlets', value: 'has-outlets' },
-		{ label: 'toilets nearby', value: 'has-toilets' },
-		// { label: "Open Now", value: {checkOpen}}
+    { label: 'wi-fi available', value: 'has_wifi' },
+    { label: 'power outlets', value: 'has_outlets' },
+	{ label: 'toilets nearby', value: 'has_toilets' },
+	// { label: "Open Now", value: {checkOpen}}
 	];
 
 	const toggleFilter = (val) => {

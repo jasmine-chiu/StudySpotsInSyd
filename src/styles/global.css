@@ -30,6 +30,7 @@ html, body {
   display: flex;
   flex-direction: column;
   flex: 1;
+  min-width: 757px;
 }
 
 html {
@@ -1027,21 +1028,8 @@ ul {
     margin-top: 0;
   }
 
-
-  /* .scroll-to-see {
-      display: flex;
-      justify-content: center;
-      background-color: orange;
-      height: 30px;
-      text-align: center;
-      padding: 12px;
-      margin-bottom: 25px;
-  } */
-
-  .funcs {
-      flex-direction: column;
-      flex: 1;
-      align-items: center;
+  .page-top {
+	  justify-content: center
   }
 
   .block {
@@ -1073,7 +1061,7 @@ ul {
 
   .chat-panel {
     top: 87px;
-  }
+  } 
 
-    
+  /* FIX THE HEADER TOGGLES SPACING */
 }

@@ -2,20 +2,17 @@ import { useState, useEffect } from "react";
 import { useNavigate } from 'react-router-dom';
 
 import "./styles/global.css"
-import Header from "./Header.jsx"
+import Header from "./layout/Header.jsx"
 
-import { loadData } from "./Helper.jsx"
-import { IoIosArrowDropright } from "react-icons/io";
-
-
+// import { loadData } from "./Helper.jsx"
 
 const Dash = () => {
 	const [spots, setSpots] = useState([]);
 	const navigate = useNavigate();
 
-	useEffect(() => {
-		loadData(setSpots); 
-	}, []);
+	// useEffect(() => {
+	// 	loadData(setSpots); 
+	// }, []);
 
 	const goToPage = () => {
 		navigate("/map")
