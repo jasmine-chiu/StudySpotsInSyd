@@ -40,8 +40,8 @@ const Header = ({ isCompact, onChatToggle, isChatOpen, spots }) => {
 
         {isNavOpen && (
           <nav className="compact-nav">
-            <Link className="nav-btn" to="/">About</Link>
             <Link className="nav-btn" to="/map">Map</Link>
+            {/* <Link className="nav-btn" to="/">About</Link> */}
           </nav>
         )}
       </div>
@@ -55,7 +55,7 @@ const Header = ({ isCompact, onChatToggle, isChatOpen, spots }) => {
 					<div className="nav-left">
 						<a href="/"><img id="logo" src={assets.logo}/></a>
 						<Link className="nav-btn" to="/map">Map</Link>
-						<Link className="nav-btn" to="/about">About</Link>
+						{/* <Link className="nav-btn" to="/about">About</Link> */}
 					</div>
 					{/* <div className="search">
 						<Search 

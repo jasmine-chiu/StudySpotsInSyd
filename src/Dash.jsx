@@ -5,6 +5,7 @@ import "./styles/global.css"
 import Header from "./Header.jsx"
 
 import { loadData } from "./Helper.jsx"
+import { IoIosArrowDropright } from "react-icons/io";
 
 
 
@@ -29,17 +30,17 @@ const Dash = () => {
 				/>
 			</div>
 				<div className="page-title">
-						<h1 className="page-heading">
+						<h1 className="page-heading" id="dash-heading">
 								welcome to STUDY IN SYD.
 						</h1>
 				</div>		
 				<div className="page-content">
-						<div className="page-txt">
-							<p>use this site to find your next spot to study at.</p>
-							<p>with an expansive range of cafés and libraries across sydney, find out what's open near you!</p>
+						<div className="dash-page-txt">
+							<p><i>use this site to find your next spot to study at.</i></p>
+							<p><i>with an expansive range of cafés and libraries across sydney, find out what's open near you!</i></p>
 						</div>
-						<div className="click-to-see">
-							<button onClick={goToPage}>GO TO MAP</button>
+						<div className="dash-click">
+							<button className="dash-btn" onClick={goToPage}>FIND YOUR SPOT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➤</button>
 						</div>
 			</div>
 		</div>

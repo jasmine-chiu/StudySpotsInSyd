@@ -63,8 +63,8 @@ const Map = () => {
       style: 'mapbox://styles/mapbox/light-v11',
       center: [151.11913782513034, -33.86578478609183],
 			zoom: 9.75,
-      // maxBounds: bounds,
-      minZoom: 9.25,
+      maxBounds: bounds,
+      // minZoom: 8,
       maxZoom: 15,
     }));
 
