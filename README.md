@@ -2,7 +2,7 @@
 
 An interactive, map-based web application for discovering locations to study at across Sydney — cafés, libraries, and chain coffee spots, including filtering by amenities, search by name or suburb, and a chatbot for personalised recommendations.
 
-**[Live Site →](https://your-site-url.com)**
+**[Live Site →](https://jas-chiu.github.io/studyspotsinsyd)**
 
 ---
 
