@@ -1,15 +1,14 @@
-import Header from "./Header"
-import Key from "./Key";
-import Overlay from "./Overlay";
-import Chat from "./Chat";
-import Search from "./Search"
+import Header from "./layout/Header"
+import Key from "./components/Key";
+import Overlay from "./components/Overlay";
+import Chat from "./components/Chat";
+import Search from "./components/Search"
 
 import { useLocation, useNavigate } from 'react-router-dom';
 import { useEffect, useRef, useState } from 'react';
 import mapboxgl from 'mapbox-gl';
 import { IoIosRefreshCircle } from 'react-icons/io';
 import 'mapbox-gl/dist/mapbox-gl.css';
-import { loadData } from "./Helper";
 import { supabase } from "./Client";
 
 const categories = [
@@ -45,9 +44,9 @@ const Map = () => {
     });
   };
 
-  useEffect(() => {
-    loadData(setSpots); 
-  }, []);
+  // useEffect(() => {
+  //   loadData(setSpots); 
+  // }, []);
 
   useEffect(() => {
     const MB_TOKEN = 'pk.eyJ1IjoianFzbWluYyIsImEiOiJjbW44bGF3MmcwYndvMnJwejI1ejd4NndqIn0.ts5PTb2BHeScF9oA3SSkfQ';
@@ -63,8 +62,8 @@ const Map = () => {
       style: 'mapbox://styles/mapbox/light-v11',
       center: [151.11913782513034, -33.86578478609183],
 			zoom: 9.75,
-      // maxBounds: bounds,
-      minZoom: 9.25,
+      maxBounds: bounds,
+      // minZoom: 8,
       maxZoom: 15,
     }));
 
@@ -281,9 +280,9 @@ const Map = () => {
       rating_count:    spot.properties.rating_count,
       hours:           parseHours(spot.properties.hours), 
       reviews:         spot.properties.reviews,
-      outlets:         spot.properties['has-outlets'] || 'Unknown',
-      wifi:            spot.properties['has-wifi']    || 'Unknown',
-      toilets:         spot.properties['has-toilets'] || 'Unknown',
+      outlets:         spot.properties['has_outlets'] || 'Unknown',
+      wifi:            spot.properties['has_wifi']    || 'Unknown',
+      toilets:         spot.properties['has_toilets'] || 'Unknown',
     });
 
     setBoxOpen(false);
