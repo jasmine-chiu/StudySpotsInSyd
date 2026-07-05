@@ -1,0 +1,2466 @@
+[
+  {
+    "place_id": "ChIJOXb02ECuEmsR_UWvHCtCG-Q",
+    "name": "Starbucks York Street",
+    "address": "Shop 1/11-31 York St, Sydney NSW 2000, Australia",
+    "lat": -33.8651398,
+    "lng": 151.2054744,
+    "editorial_summary": {
+      "language": "en",
+      "overview": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries."
+    },
+    "formatted_address": "Shop 1/11-31 York St, Sydney NSW 2000, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.8651398,
+        "lng": 151.2054744
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.8637353697085,
+          "lng": 151.2069170802915
+        },
+        "southwest": {
+          "lat": -33.8664333302915,
+          "lng": 151.2042191197085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1930"
+          },
+          "open": {
+            "day": 1,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1930"
+          },
+          "open": {
+            "day": 2,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1930"
+          },
+          "open": {
+            "day": 3,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1930"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
+        "Tuesday: 5:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
+        "Wednesday: 5:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
+        "Thursday: 5:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Friday: 5:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Saturday: 6:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
+        "Sunday: 6:30\u202fAM\u2009\u2013\u20097:00\u202fPM"
+      ]
+    },
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Sunny",
+        "author_url": "https://www.google.com/maps/contrib/103707790557464889634/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIs_0tRqkFir-_I_nju4OKt9d42ClHtOniyLJ5m4OXw5Iy2CA=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "3 months ago",
+        "text": "I visited this branch to try the Matcha Misu, but the experience was disappointing. The staff member who took my order was very unwelcoming and didn't seem to care; they even got my name wrong despite me telling them clearly. To make it worse, the drink I received looked awful\u2014almost like someone else\u2019s leftovers. I\u2019ve had much better experiences at other branches, so I won't be coming back to this one.",
+        "time": 1772245136,
+        "translated": false
+      },
+      {
+        "author_name": "Fadi Kotob",
+        "author_url": "https://www.google.com/maps/contrib/117174022246067147671/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIr77w31l5uBveyvdFTfiVJuBSxV445GSdPAgqkkyUK8TZqqQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "4 months ago",
+        "text": "When we buy a drink, we should receive what we have paid for instead of giving us ice. I communicated the issue and received a poor response. Unprofessional theft!",
+        "time": 1767935822,
+        "translated": false
+      },
+      {
+        "author_name": "Honest reviews Syd",
+        "author_url": "https://www.google.com/maps/contrib/118253125455633119573/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXimuPVm5DBniDjJRus_1mrXii1X8tfFUkKfj9GIp7V4mUa-dW3=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "4 months ago",
+        "text": "Starbucks did a decent ice matcha  latte, get it without sugar as it\u2019s quite sweet already.\n\nPlenty of seating inside with aircon and free wifi.",
+        "time": 1769831566,
+        "translated": false
+      },
+      {
+        "author_name": "Aaron Dioshua Sangcap",
+        "author_url": "https://www.google.com/maps/contrib/103577686928330021350/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsiSEN_USNWgLkphpBcVKy1UJvx5MFzNbG6bTvuyKoJ4Ml838=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "Mark\u2019s always on point. Friendly without overdoing it, quick with orders, and actually makes the coffee taste how it should. Knows how to keep things moving but still makes you feel like a regular. Solid service every time.",
+        "time": 1755159442,
+        "translated": false
+      },
+      {
+        "author_name": "Raden Bima",
+        "author_url": "https://www.google.com/maps/contrib/104311793135373246593/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDaqJ4KQtqCKGDVqlHTEPsc8kC6TZ1mbbX4WrVwJvTAQwQEmQm=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "Such a lovely experience at this Starbucks!\nThe service was quick and efficient, and all the staff were super friendly. Special thanks to Rio for the sweet compliment on my nail art\u2026it was a small gesture but truly made my day.\n\nThe positive vibes and warm energy here made my quick coffee stop even more enjoyable. Definitely one of the nicest Starbucks branches I\u2019ve visited.",
+        "time": 1751624316,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1172
+  },
+  {
+    "place_id": "ChIJcawkWTyuEmsRG56o5LAc0LQ",
+    "name": "Starbucks George Street",
+    "address": "2/525 George St, Sydney NSW 2000, Australia",
+    "lat": -33.8750988,
+    "lng": 151.2059788,
+    "editorial_summary": {
+      "language": "en",
+      "overview": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries."
+    },
+    "formatted_address": "2/525 George St, Sydney NSW 2000, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.8750988,
+        "lng": 151.2059788
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.8740012697085,
+          "lng": 151.2076689802915
+        },
+        "southwest": {
+          "lat": -33.87669923029149,
+          "lng": 151.2049710197085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Tuesday: 7:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Wednesday: 7:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Thursday: 7:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Friday: 7:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Saturday: 7:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Sunday: 7:00\u202fAM\u2009\u2013\u20099:30\u202fPM"
+      ]
+    },
+    "rating": 3.7,
+    "reviews": [
+      {
+        "author_name": "A Player",
+        "author_url": "https://www.google.com/maps/contrib/102637502780435368506/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1aCou4rPsATTpAn_EWY8LdZWt4k56mxtk3yAJZcWnqR1iRjga=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "5 months ago",
+        "text": "Seems like a very popular place to stop off for a catch up or a caffeine fix. The team were friendly and it didn't take long to get our coffees. Good range if you are looking for a quick bite as well. Lots of seating, it was good to sit outside and watch the world go by while sipping on a good cup.",
+        "time": 1767224891,
+        "translated": false
+      },
+      {
+        "author_name": "Ian Gao",
+        "author_url": "https://www.google.com/maps/contrib/105023910383533537099/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXW7fstvk7c9YoLp2l3Toj-9Hm2YuegsfcXgWz3cXGNBWBWFfU=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "4 months ago",
+        "text": "ordered the matcha coffee, but unfortunately, it wasn't blended properly and stayed at the bottom of the cup. It didn't match the advertisement at all. It\u2019s the most disappointing drink I've purchased here",
+        "time": 1768610908,
+        "translated": false
+      },
+      {
+        "author_name": "Moises Garcia jr",
+        "author_url": "https://www.google.com/maps/contrib/101085231328978412191/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocILmmFy4c6DH22wQiVdoPvOZOyedaee21f7zcUHhpUrr7Tp3Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "4 months ago",
+        "text": "Bought drinks here several times but every time that the Asst Manager is in the cashier, she has been grumpy and quite rude not only to me but what I heard towards to the other customers and to her other staff when I am in the line. Unfortunately this is not only one time but two or three times. I understand the rush and busyness of the store but I think it\u2019s a perfect time to show more of good customer service. But maybe she\u2019s tired or she has been in rough times. On the other hand, other staff are friendly and drinks are nicer than the other branches.",
+        "time": 1768710736,
+        "translated": false
+      },
+      {
+        "author_name": "Paula Costa P\u00e9rez",
+        "author_url": "https://www.google.com/maps/contrib/106656367300768998114/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJGPdCg_eMEyH-l6yzOhhSPBziah9kce9H5PPywnDcFwPODQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 months ago",
+        "text": "Rude staff\n\nI ordered an iced matcha with oat milk and vanilla. The guy at the register told me that vanilla was included and asked if I wanted extra. I said no.\nBefore the person making the drinks started preparing it, I went over to ask if it did include vanilla, because I know the Starbucks recipe has sugar but not vanilla. The girl, named Margarita, told me no, that vanilla was an extra and had to be paid for. I told her I had no problem paying for it, but that the guy at the register had told me something different. She then started saying it was my mistake and began to argue, even though I repeatedly told her that I didn\u2019t mind paying for it, but that he was the one who had made the mistake on my order.\nI also ordered an egg roll and wanted the first one that was displayed in the case, because the one behind it looked like the cheese was very dry, probably from having been out for too many hours. She told me she couldn\u2019t give it to me because it was the new one. In the end, she did give me the one I wanted.\nAt no point did they apologize or respond in a polite manner.\nVery unpleasant treatment towards the customer, and I would never return to this establishment.",
+        "time": 1769129126,
+        "translated": false
+      },
+      {
+        "author_name": "Tina",
+        "author_url": "https://www.google.com/maps/contrib/117513922456250677166/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqSJZ3qMWzq7h4ZgOsLJ559Ly8u0SxQQ7gNbzfccD8zrNNgA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Every time I come to Sydney, I visit this Starbucks because one of your team members, I believe his name is Samuel, is always incredibly friendly and welcoming. Out of all the staff I\u2019ve been served by, he consistently has the most positive demeanour. I just wanted to recognise his excellent customer service, he truly makes the experience better. \ud83d\ude0a",
+        "time": 1771389772,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1457
+  },
+  {
+    "place_id": "ChIJpy2q3g2vEmsRfVFv4TGBajY",
+    "name": "Starbucks Parkline Place",
+    "address": "Shop G 01.02/252 Pitt St, Sydney NSW 2000, Australia",
+    "lat": -33.8730865,
+    "lng": 151.209129,
+    "editorial_summary": {
+      "language": "en",
+      "overview": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries."
+    },
+    "formatted_address": "Shop G 01.02/252 Pitt St, Sydney NSW 2000, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.8730865,
+        "lng": 151.209129
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.8717402197085,
+          "lng": 151.2105141802915
+        },
+        "southwest": {
+          "lat": -33.8744381802915,
+          "lng": 151.2078162197085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1930"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1930"
+          },
+          "open": {
+            "day": 1,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1930"
+          },
+          "open": {
+            "day": 2,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1930"
+          },
+          "open": {
+            "day": 3,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1930"
+          },
+          "open": {
+            "day": 4,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1930"
+          },
+          "open": {
+            "day": 5,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1930"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
+        "Tuesday: 5:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
+        "Wednesday: 5:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
+        "Thursday: 5:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
+        "Friday: 5:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u20097:30\u202fPM"
+      ]
+    },
+    "rating": 2.8,
+    "reviews": [
+      {
+        "author_name": "G X",
+        "author_url": "https://www.google.com/maps/contrib/107515874240500445565/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLP4WlMdPuMyg94x8pMTfQuvEqYg2xJVzXrQnvlzKElqcW9kw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 months ago",
+        "text": "I visited Starbucks today and used my birthday reward to order a venti matcha latte with no ice. However, the drink I received was only about half a cup as you can see in the picture. When I asked about it, the male staff told me it was because I ordered the drink with no ice.\n\nThis was quite disappointing and ridiculous, especially since it was my birthday reward. At other cafes, when customers request no ice, the cup is usually filled with milk so the drink is still a full serving. I\u2019ve always enjoyed Starbucks, which is why this experience was particularly disappointing.\n\nReceiving only half a cup made me feel like my birthday reward was essentially wasted. If this is Starbucks policy, I believe customers should be informed in advance before ordering.\n\nI\u2019ve always enjoyed Starbucks since I was a child, which is why this experience was particularly disappointing. I hope Starbucks can clarify this policy. I have already contacted by sending email to your customer service and hopefully this issue can be solved soon.",
+        "time": 1772863185,
+        "translated": false
+      },
+      {
+        "author_name": "Widia Agustine",
+        "author_url": "https://www.google.com/maps/contrib/101833844223641351560/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQ-sUY1Jr3zxpOjlKWcAQEf-a5GZcHHBXGXWA-tegorMax8CM=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 1,
+        "relative_time_description": "11 months ago",
+        "text": "The worst Starbucks I\u2019ve ever been to.\nFirst, they missed my drink, and I had to wait quite a while. I only got it after I asked the staff finally, my drink came.\nI ordered a green tea latte, like I always do, and even told the staff twice.\nGuess what? They still wrote iced latte \ud83e\udd23\nFirst and last visit to this Starbucks.\n\nI\u2019m disappointed. You can check my member history . I order a green tea latte every day.\nI can\u2019t have coffee because it gives me side effects.\nThanks, Starbucks\u2026 another complaint from me.",
+        "time": 1750644134,
+        "translated": false
+      },
+      {
+        "author_name": "Pranon Panchana",
+        "author_url": "https://www.google.com/maps/contrib/117953133490979470870/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUj1wNk9WP1qyFcZJPSlGqvq1iccDA_VojfZE01KOputdfrWxNV=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "On 25 December 2025 at approximately 12:10 PM, I visited your store and was served by a barista wearing a black uniform, who was the only staff member on duty at that time.\n\nI regret to inform you that this staff member displayed extremely unprofessional behavior and a complete lack of service mindset, which is entirely unacceptable for a customer-facing role.\n\nI politely requested a cup holder, using a calm and respectful tone and without any sense of urgency, fully understanding that the staff member was busy. However, I was met with visible irritation and negative facial expressions throughout the interaction. The staff member then slid the cup holder across the counter in a dismissive and disrespectful manner, clearly expressing dissatisfaction.\n\nWhen I verbally expressed my disappointment by saying \u201cso bad\u201d, the male staff member immediately responded with rude and inappropriate remarks, demonstrating behavior that I find highly offensive and unacceptable in any service environment.\n\nSuch conduct raises serious concerns regarding your organization\u2019s employee screening, training, and service quality standards, which, in this instance, appeared to be alarmingly low. I must also emphasize that this is not the first time I have experienced poor service of this nature at your store.\n\nAs a globally recognized brand, this level of service is far below acceptable standards and deeply disappointing. I would like to be informed of the concrete and sustainable measures your organization intends to implement to prevent such incidents from recurring. Failing a clear and satisfactory response, I will have no choice but to escalate this matter to your head office for further review.\n\nI look forward to your formal response.",
+        "time": 1767128955,
+        "translated": false
+      },
+      {
+        "author_name": "Sasilak",
+        "author_url": "https://www.google.com/maps/contrib/110562818609721864851/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrxE01OBLCH6l4P_dRuz03ezg-8v7y90viGC1vZu0RTuqUw0s=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "4 months ago",
+        "text": "Dear Starbucks Team,\n\nI placed a mobile order at 8:45 AM today and went to the store to pick it up. The store was very busy, and I waited about 10 minutes, but my order was still not ready. I had to be at work at 9:00 AM.\n\nI noticed that customers who arrived after me received their orders first. Unfortunately, I had to leave without my order due to time constraints.\n\nI wanted to share this experience, as mobile ordering is usually very convenient.\n\nThank you for your time.",
+        "time": 1769643107,
+        "translated": false
+      },
+      {
+        "author_name": "\uc815\uc11c\uc601(Melanie)",
+        "author_url": "https://www.google.com/maps/contrib/118170856744603888157/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0l7u5NCOu8mChRmP82G9QttLL35GO__0pzd-d54leVDJvxoo=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 months ago",
+        "text": "It was a very disrespectful experience. The staff missed my mobile order and didn\u2019t apologise or explain what had happened. They simply asked me to repeat my order and made the coffee, but I ended up waiting more than 25 minutes after placing it.\n\nWhen the barista asked what milk I had ordered, she looked visibly annoyed, which made the situation even more uncomfortable. I understand it was crowded and mistakes can happen, but the way it was handled was unprofessional and not how customers should be treated.",
+        "time": 1767497479,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 88
+  },
+  {
+    "place_id": "ChIJT4no_vCvEmsRqPd1Ip2iZlk",
+    "name": "Starbucks Darling Square",
+    "address": "Shop NE07, 35 Tumbalong Boulevard, Darling Dr, Haymarket NSW 2000, Australia",
+    "lat": -33.8778366,
+    "lng": 151.2024832,
+    "editorial_summary": {
+      "language": "en",
+      "overview": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries."
+    },
+    "formatted_address": "Shop NE07, 35 Tumbalong Boulevard, Darling Dr, Haymarket NSW 2000, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.8778366,
+        "lng": 151.2024832
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.8763869697085,
+          "lng": 151.2037804302915
+        },
+        "southwest": {
+          "lat": -33.8790849302915,
+          "lng": 151.2010824697085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1930"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1930"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1930"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
+        "Tuesday: 6:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
+        "Wednesday: 6:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
+        "Thursday: 6:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Friday: 6:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Saturday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Sunday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      ]
+    },
+    "rating": 3.4,
+    "reviews": [
+      {
+        "author_name": "Kavya",
+        "author_url": "https://www.google.com/maps/contrib/106911719520474488080/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAjB_jNlJaTk2-qwG5Oes0xHcXT614BxzzenPSZSomjX8pSmImTw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "The pistachio and raspberry croissant has no pistachio, just green colouring that tastes like marzipan. I love an almond croissant, can\u2019t stand marzipan. I complained and was told to review online as they get the pastries delivered, no offer of exchange or refund.",
+        "time": 1765843729,
+        "translated": false
+      },
+      {
+        "author_name": "Erunchan",
+        "author_url": "https://www.google.com/maps/contrib/104333688540152873450/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVerUffbNE-RGmR8W36r738aZsfKHuxX1A7y0_5XHv-GYgCP7PK=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Very clean and friendly Starbucks with friendly staff. Setup well for people to study/work. There are several power boards available inside, along with outdoor seating that has umbrellas. Staff here we're particularly great in helping with products and flavours, really patient and helpful.",
+        "time": 1650939244,
+        "translated": false
+      },
+      {
+        "author_name": "Jay Estrada",
+        "author_url": "https://www.google.com/maps/contrib/117973593075315308801/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUnp12bKd6jlri9uaCiD-DjPBE745pJXenI3nchKiLUCRGniecCg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 years ago",
+        "text": "I had a rather unsettling encounter at a particular Starbucks branch on 07/02/23 at 5:14 PM. It all began when I shared a moment with my boyfriend by exchanging a kiss, and to my surprise, the cashier made a derogatory comment in Korean. The situation took a more uncomfortable turn when the manager began staring at me incessantly. When I inquired about the issue, the manager's gaze intensified, and he disapprovingly shook his head before whispering something to his colleagues. This experience left me feeling intimidated and uneasy, making it the most distressing encounter I've had at any Starbucks location. I couldn't comprehend why we deserved such treatment. Although the manager eventually retreated indoors, his intense glare continued to follow me. Upon discussing the situation with my boyfriend, he confirmed that the worker's gaze was directed solely at me and not at him. Strangely, the manager reemerged when we decided to leave.\n\nSubsequently, I approached another barista to inquire if the aforementioned worker had an issue with us or had any intentions to express something. Shockingly, she mentioned that this behavior was typical of him. I implore Starbucks to address this matter promptly. It is essential to condemn and rectify such conduct, particularly within a customer-oriented industry. After further inquiry, I discovered that the manager in question is named David, and his managerial position adds greater urgency to the situation.\n\nEdit\n\nUpon thorough examination of previous reviews, it has become evident that the issues related to this individual are not isolated incidents. The continuous stream of complaints spanning over a year indicates a concerning lack of action on the management's part, as this person still maintains the same disrespectful demeanor. It is truly perplexing that he believes he can mistreat customers with impunity, despite the management's awareness of the numerous complaints lodged against him.\n\nThe behavior displayed by the cashier today further highlights the problematic nature of this particular branch. It is apparent that the management disregards customer feedback and permits their staff to engage in unwarranted rudeness and intimidation. I intend to escalate this matter to the headquarters and insist on a thorough review of the CCTV footage. Such footage would provide concrete evidence of the extent to which I was subjected to the unsettling experience of being intensely stared down by this individual, almost as if he intended to pursue physical harm. This behavior is entirely unhinged and unacceptable.",
+        "time": 1688319347,
+        "translated": false
+      },
+      {
+        "author_name": "marta falc\u00f3n",
+        "author_url": "https://www.google.com/maps/contrib/112452335681718344482/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuo0CuwJTDlHRyb-97ZXk-t7JI8uHc_VX2LpIqPKNcH6P15LDs=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I\u2019ve going for the past two weeks and the staff is very nice and makes the experience even better. I\u2019ve tried different Starbucks and this one is the best one as it has a great terrace and free WiFi.",
+        "time": 1731115285,
+        "translated": false
+      },
+      {
+        "author_name": "Penny",
+        "author_url": "https://www.google.com/maps/contrib/109884079057570372582/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXShI0ds29TJ57oVxpINl2_KscLvuhw-k7W_Hm8jvt3_ppvoXY=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "The staff here went out of their way to help and provide me with a delicious beverage to my taste. The place itself was super clean and provided the full range of drinks, snacks and collectables that you would expect from Starbucks. Conveniently located not far from ICC but tucked away near a park giving it a relaxed feel.",
+        "time": 1652344345,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 407
+  },
+  {
+    "place_id": "ChIJfbX2aiOuEmsRS3rtwHGqAaI",
+    "name": "Starbucks Haymarket",
+    "address": "Capitol Square, g01, 730-742 George St, Haymarket NSW 2000, Australia",
+    "lat": -33.8791877,
+    "lng": 151.2056571,
+    "editorial_summary": {
+      "language": "en",
+      "overview": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries."
+    },
+    "formatted_address": "Capitol Square, g01, 730-742 George St, Haymarket NSW 2000, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.8791877,
+        "lng": 151.2056571
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.8777911197085,
+          "lng": 151.2069843802915
+        },
+        "southwest": {
+          "lat": -33.8804890802915,
+          "lng": 151.2042864197085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Tuesday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Wednesday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Thursday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Friday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Saturday: 7:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Sunday: 7:00\u202fAM\u2009\u2013\u20098:30\u202fPM"
+      ]
+    },
+    "rating": 3.7,
+    "reviews": [
+      {
+        "author_name": "Anton Khomyakov",
+        "author_url": "https://www.google.com/maps/contrib/114618567260817965802/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9ktxJL3w2HUjXTiKr2hN4gcXnvWNQkFe8zP0XYrye537w9Noc=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "You can say Starbucks has terrible coffee, and l'll say: try the Blonde roast and enjoy the amazing atmosphere. It's one of the best places to sit down, get some work done, and actually enjoy it. Free Wi-Fi included!",
+        "time": 1770436944,
+        "translated": false
+      },
+      {
+        "author_name": "Tristan Miao",
+        "author_url": "https://www.google.com/maps/contrib/100822907897460383198/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUeCQDDCB72XtADZ2gPgRK6WHYhsC1Xy9UCkW2BvV-so7q4O07u=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 months ago",
+        "text": "This happened on September 17, 2025.\nMy friend's aunt ordered a drink here and later asked my friend to get a cup of hot water. The staff member shown in this photo was the one who served my friend.\nMy friend's English is not perfect, but her pronunciation was clear. However, the staff said they couldn't understand her, which made my friend feel there might be some discrimination, or maybe they thought she hadn't purchased anything.\nAlthough the staff eventually provided the hot water, I think this situation deserves attention. Whether a customer has made a purchase or not should never be a reason for different treatment.\n\nI also need to mention that this was an Asian woman wearing a hijab. I've noticed many comments mentioning her rudeness and unprofessionalism, and I hope you will pay attention to this matter.",
+        "time": 1762682532,
+        "translated": false
+      },
+      {
+        "author_name": "Raman Monfaredpour",
+        "author_url": "https://www.google.com/maps/contrib/100410432304764170348/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxA2n6qa7OCiRdg8d30RZXRrSzbgyN_mGZrqy9AX8jZWrdTw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "The most horrible coffee I could imagine ,\nI got long black with zero crema with zero effort from barista . I make that at home way better . Two small coffee and banana bread cost me 20$\nThey couldn\u2019t even talk English\nDid want to go back for refund but will never go there again",
+        "time": 1766646798,
+        "translated": false
+      },
+      {
+        "author_name": "Monica Yong",
+        "author_url": "https://www.google.com/maps/contrib/112815751949318384138/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTYAHhalEEJLySIVoHTI7UtXj5zqZ3EeFiz-ReePVbReRsWA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 2,
+        "relative_time_description": "2 months ago",
+        "text": "I visited on Saturday, 7 March at around 4:57 PM and unfortunately had a disappointing experience. The lady taking our order was quite rude and didn\u2019t seem to listen to what we were trying to order. We had to repeat ourselves several times, and it felt like she wasn\u2019t interested in helping or understanding our request. Customer service is really important, and I hope the staff can be more attentive and polite to customers in the future.",
+        "time": 1772863061,
+        "translated": false
+      },
+      {
+        "author_name": "Toffee",
+        "author_url": "https://www.google.com/maps/contrib/101548609844247725072/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV51UGE1AWUkJidmQI2cH9SEnkpF3Q-lJAeoTWS4sSgL-UTZRdX=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I recently tried the Iced Long Black at Starbucks, and it was a solid choice for a refreshing caffeine boost.\n\nMade by pouring espresso shots over cold water and ice, this drink delivers a bold, robust coffee flavor without being too heavy. The espresso shines through with its rich aroma and slightly bitter edge, but the cold water smooths it out, making it clean, crisp, and easy to drink.\n\nIt\u2019s a great option for coffee lovers who enjoy strong flavors without added milk or sweetness. Perfect for hot days or as a midday pick-me-up when you need something light but energizing.\n\nIf you like your coffee straightforward and refreshing, the Starbucks Iced Long Black won\u2019t disappoint.",
+        "time": 1747718706,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 810
+  },
+  {
+    "place_id": "ChIJH4-m9D6uEmsRy7hgF2btwT0",
+    "name": "Starbucks QVB",
+    "address": "LG1, Queen Victoria Building, 69/455 George St, Sydney NSW 2000, Australia",
+    "lat": -33.8723561,
+    "lng": 151.2067464,
+    "editorial_summary": {
+      "language": "en",
+      "overview": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries."
+    },
+    "formatted_address": "LG1, Queen Victoria Building, 69/455 George St, Sydney NSW 2000, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.8723561,
+        "lng": 151.2067464
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.8707126697085,
+          "lng": 151.2079585302915
+        },
+        "southwest": {
+          "lat": -33.8734106302915,
+          "lng": 151.2052605697085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+      ]
+    },
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Manpreet Kour",
+        "author_url": "https://www.google.com/maps/contrib/113458298770396575035/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXYsOLE4d9AdbSfEW2ah7jqmR0j_zXtATB6LzwEoqBcb1MX-yKf=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Great coffee and a really good experience at Starbucks Town Hall. The coffee was nicely made, fresh, and exactly what I needed. The staff were friendly and quick, and the overall vibe was pleasant despite the busy location. A reliable spot for quality coffee and a smooth experience. Would definitely visit again.",
+        "time": 1768295090,
+        "translated": false
+      },
+      {
+        "author_name": "Widia Agustine",
+        "author_url": "https://www.google.com/maps/contrib/101833844223641351560/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQ-sUY1Jr3zxpOjlKWcAQEf-a5GZcHHBXGXWA-tegorMax8CM=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 2,
+        "relative_time_description": "3 months ago",
+        "text": "Review \u2013 Starbucks $10 Pastry + Coffee Combo\n\nI\u2019ve purchased the $10 pastry + coffee combo three times. On two previous visits, different baristas told me the promo applied to any size, so I ordered a venti and it was served without any issues. I thought it was a really good deal.\n\nHowever, today another barista said the $10 price couldn\u2019t possibly apply to a large size. I was confused because my previous experiences were different. This isn\u2019t the first time I\u2019ve received inconsistent information like this.\n\nI think Starbucks should ensure all staff are given the same, clear information about promotions so customers don\u2019t feel confused or treated differently. The promo is great, but consistency in service is just as important.",
+        "time": 1771538493,
+        "translated": false
+      },
+      {
+        "author_name": "Izzie Thomas",
+        "author_url": "https://www.google.com/maps/contrib/106911679335058111933/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJl8Tn9-stojEsgv4ozlTYoh8E2Zyoe1DIwPaKiUgn4VK3n8Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 months ago",
+        "text": "My order was iced matcha latte but with no ice. I\u2019ve been ordering like this in many other Starbucks in Syd including this shop, but this was the first time I got my drink back like that. It was not full (event counting the foam on top). I asked the staff and he ensured that this was how the drink should be. Pretty disappointed.\nP.s the cup was purchased on 25/11.",
+        "time": 1767855305,
+        "translated": false
+      },
+      {
+        "author_name": "tianna jan",
+        "author_url": "https://www.google.com/maps/contrib/115513007763916951220/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJp_Rkvyxz-vsVsnlF5T2ZjBvftXW7Xkh0Q0l3KqLq-B_gLJA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "I had a horrible experience at this Starbucks on the 27th of December. The server deliberately overcharged me on their new holiday drink when I queried the price. She then smirked\nas she knowingly overcharged me.\n\nwhat happened was I went to the counter and I ordered the brown sugar cookie latte and then the person serving put it all through singularly. I queried the price and pointed at the other holiday drink and said \u201cshouldn\u2019t it be $7.80\u201d she said \u201coh that\u2019s just the price for that drink\u201d and I thought that\u2019s weird but I paid. I then stepped away from the counter and the sign for the brown sugar cookie latte was there and I said \u201cit says $7.80\u201d and the person who served me smirked and said \u201cyou need to say it that way\u201d and I said \u201cit was very obvious that I was ordering the holiday drink\u201d and she kept smirking as she refunded the difference.\n\nWho trained this mean lady? Why would she do this to customers? There was no apology for the confusion. I won\u2019t go here again. This interaction completely ruined my morning when all I wanted was a holiday drink and to listen to Christmas music.",
+        "time": 1767211152,
+        "translated": false
+      },
+      {
+        "author_name": "natchanan b",
+        "author_url": "https://www.google.com/maps/contrib/117568905129980705457/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkQKtcOd_SPzWa1U9C1vGv5llpZ2VPGgfuFQt9-wEB0DCtqQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "I ordered a caramel frappe, and it tasted terrible. It was like ice blended with water; there was no caramel or coffee flavor. I order from this branch regularly, but today it was different. The staff should be trained to make it taste consistent.",
+        "time": 1771457752,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 768
+  },
+  {
+    "place_id": "ChIJ95VUNg-vEmsRoa86hUkT7Do",
+    "name": "Starbucks Central Park",
+    "address": "38 Broadway, Chippendale NSW 2008, Australia",
+    "lat": -33.8844049,
+    "lng": 151.1994627,
+    "editorial_summary": {
+      "language": "en",
+      "overview": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries."
+    },
+    "formatted_address": "38 Broadway, Chippendale NSW 2008, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.8844049,
+        "lng": 151.1994627
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.8829971697085,
+          "lng": 151.2008703802915
+        },
+        "southwest": {
+          "lat": -33.8856951302915,
+          "lng": 151.1981724197085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Tuesday: 6:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Wednesday: 6:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Thursday: 6:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Friday: 6:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Saturday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Sunday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+      ]
+    },
+    "rating": 3.7,
+    "reviews": [
+      {
+        "author_name": "Leon Barnfield",
+        "author_url": "https://www.google.com/maps/contrib/100950677426599810881/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTz_EyDFCJmkEmiLo9BKrljIowQBSKwLmeqM9sju_QD6s4dW5p=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "This was an absolutely wonderful Starbucks. The stuff were so friendly and helped me to pick my drink when I couldn't decide which one to have. Also, they cook the vegan food separately which I am a fan of",
+        "time": 1767140562,
+        "translated": false
+      },
+      {
+        "author_name": "Kero Chan",
+        "author_url": "https://www.google.com/maps/contrib/114575475993419387137/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHAGegwoNXKjTit918lBORrh7j-yJ3qk4-SZuuPqqioykhdcq2=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 4,
+        "relative_time_description": "3 months ago",
+        "text": "Grabbed a muffin as breakfast and it was heated very nicely by staff.",
+        "time": 1770367315,
+        "translated": false
+      },
+      {
+        "author_name": "Paul Smith",
+        "author_url": "https://www.google.com/maps/contrib/115918378312907613101/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIprHB33JwVzASoYQPDL_kQt5bSHYaI40eT3gEpGThe_V09Qg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "20/12/2025\nDuring my visit, the staff\u2019s attitude felt unprofessional and unwelcoming. I understand hospitality work can be demanding, but basic courtesy is still important. The interaction made the experience uncomfortable, and I hope the management can address this.",
+        "time": 1766410164,
+        "translated": false
+      },
+      {
+        "author_name": "Bethan Hannah",
+        "author_url": "https://www.google.com/maps/contrib/115838181974631302812/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURhKVWPNrB1GBGqecCWf_KdhoMkC6TxbdXzA88CV-JMlWmS3JF=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 years ago",
+        "text": "Came here after 2 days of flying from the UK\n\nVery chill atmosphere at 10:00am on a Friday.\n\nNice girls behind the counter, 3 of them very relaxed but quick service.\n\nBoth drinks were nice and well prepared.\n\nRange of sweet and savoury food.\n\nComfortable seating no",
+        "time": 1686977834,
+        "translated": false
+      },
+      {
+        "author_name": "Elaine Sun",
+        "author_url": "https://www.google.com/maps/contrib/106405473175544722903/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEHxfUViibEb_aVTX7Gb1loCf5JEkrZ1ABOHqnQsh_omYjs0lA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 years ago",
+        "text": "The place was nice. They have free WiFi there, and you can bring your laptop. You can stay there for the whole afternoon.\nI tried the new drink, iced tiramisu latte with less ice. The taste of tiramisu was strong but not too sweet. That was really nice. I would recommend to try it!",
+        "time": 1706170628,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 470
+  },
+  {
+    "place_id": "ChIJS1hJqa-vEmsRosxiZ9qX69I",
+    "name": "Starbucks Broadway",
+    "address": "Shop K230 Level 2, Broadway Shopping Centre, 1 Bay St, Glebe NSW 2037, Australia",
+    "lat": -33.8837013,
+    "lng": 151.1943992,
+    "editorial_summary": {
+      "language": "en",
+      "overview": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries."
+    },
+    "formatted_address": "Shop K230 Level 2, Broadway Shopping Centre, 1 Bay St, Glebe NSW 2037, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.8837013,
+        "lng": 151.1943992
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.8823302697085,
+          "lng": 151.1959764802915
+        },
+        "southwest": {
+          "lat": -33.8850282302915,
+          "lng": 151.1932785197085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1830"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1830"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1830"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1830"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1930"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1830"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1830"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00\u202fAM\u2009\u2013\u20096:30\u202fPM",
+        "Tuesday: 8:00\u202fAM\u2009\u2013\u20096:30\u202fPM",
+        "Wednesday: 8:00\u202fAM\u2009\u2013\u20096:30\u202fPM",
+        "Thursday: 8:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
+        "Friday: 8:00\u202fAM\u2009\u2013\u20096:30\u202fPM",
+        "Saturday: 8:00\u202fAM\u2009\u2013\u20096:30\u202fPM",
+        "Sunday: 8:00\u202fAM\u2009\u2013\u20096:30\u202fPM"
+      ]
+    },
+    "rating": 3.1,
+    "reviews": [
+      {
+        "author_name": "Claire Gillis",
+        "author_url": "https://www.google.com/maps/contrib/116125634614418652045/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLjrVtxQK0DkDQd0lG05zePPFSUc3QY7ru56wFnWt5hgvjYNA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "This Starbucks is the best one in the world and this is not an exaggeration!  The service is incredible.  Nala, ishika and  AJ are friendly, helpful and professional.  They go above and beyond on service, are extremely knowledgeable about the products and treat everyone with the upmost respect and dignity.  Every Starbucks should have staff like this.  They have made Starbucks feel like our local, unique coffee shop!",
+        "time": 1768712419,
+        "translated": false
+      },
+      {
+        "author_name": "QingYi Chen",
+        "author_url": "https://www.google.com/maps/contrib/112719562876899394539/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIsODaJTIkCI0Y55KtHX47ocZbDJCGhrl4anRm1AkfkvGo14A=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "3 months ago",
+        "text": "I want hot machamisu and turns out to be cold with no foam or even a taste of tiramisu. Please hire someone who can communicate with English at least.",
+        "time": 1771721644,
+        "translated": false
+      },
+      {
+        "author_name": "Isabella S",
+        "author_url": "https://www.google.com/maps/contrib/102384711971720007363/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNeVIxXoYpSg_PliwERpLYFdeQeqS8c_0L4T_paxYsGX3qWCI=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Great new Starbucks inside Broadway Shopping Centre. Consistent customer service, and drinks and food from what you expect from Starbucks whether you\u2019re in Sydney, New York or London! Loved the Christmas flavoured nutty Frappuccino and turkey and cranberry toasted sandwiches! The donuts were \u2018okay\u2019 they are very pretty to look at but they don\u2019t taste fresh (probably 1-3 days refrigerated). Overall, love Starbucks!",
+        "time": 1702003921,
+        "translated": false
+      },
+      {
+        "author_name": "Niki Vasiliadis",
+        "author_url": "https://www.google.com/maps/contrib/102486132156754116764/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIoDzqnYnWE4Q0nBG7xeqB_obRNLdRAd3cXUgXZXHFnHacEQMF=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "The coffee frappuccino was the perfect drink for the hot temperatures we are experiencing in Sydney at the moment. I have mine with almond milk, any option milk is available as it\u2019s not pre-blended which is awesome. Staff were friendly and efficient, coffee made super quick. Good options for food and baked goods. Dedicated seating for Starbucks customers as well. It\u2019s located in the food court across from the Nike store.",
+        "time": 1694859659,
+        "translated": false
+      },
+      {
+        "author_name": "Eduardo Guzm\u00e1n Pineda",
+        "author_url": "https://www.google.com/maps/contrib/111372103166833679101/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_5nyPm4u5O5ZECdt4P1hcjchQPELSUDwW3nlBST9RlTy2fMdt=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "4 months ago",
+        "text": "I had been waiting in line for a couple minutes until one customer skipped it. One of the employees served him and when I told her \u201cI was waiting in line\u201d she just laughed. It\u2019s not the first time employees here act as if customers are doing them a favour.",
+        "time": 1767407522,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 92
+  },
+  {
+    "place_id": "ChIJEWSDRI-vEmsR8psnD9luiv4",
+    "name": "Starbucks The Rocks",
+    "address": "135 George St, The Rocks NSW 2000, Australia",
+    "lat": -33.8602957,
+    "lng": 151.2083863,
+    "editorial_summary": {
+      "language": "en",
+      "overview": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries."
+    },
+    "formatted_address": "135 George St, The Rocks NSW 2000, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.8602957,
+        "lng": 151.2083863
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.8589693697085,
+          "lng": 151.2098485802915
+        },
+        "southwest": {
+          "lat": -33.8616673302915,
+          "lng": 151.2071506197085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Tuesday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Wednesday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Thursday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Friday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Saturday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Sunday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+      ]
+    },
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Christian A",
+        "author_url": "https://www.google.com/maps/contrib/103489873106643710253/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfL4l8tg_5ZkHUmCdUw_yw2cPTIuyJWUn0C7-D4rmr-Iqsrw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "strawberry a\u00e7ai with coconut water or milk idk I forgot lol, but a very aesthetic place, lovely resting spot for my writing and research activities :) hope to come back.",
+        "time": 1767512913,
+        "translated": false
+      },
+      {
+        "author_name": "Toffee",
+        "author_url": "https://www.google.com/maps/contrib/101548609844247725072/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV51UGE1AWUkJidmQI2cH9SEnkpF3Q-lJAeoTWS4sSgL-UTZRdX=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "Starbucks is one of my go-to places when I\u2019m craving a good cup of coffee or a refreshing green tea. Their coffee is consistently smooth and well-balanced, whether I\u2019m having a hot latte or a cold brew. It always gives me that perfect energy boost to start the day.\n\nI\u2019m also a big fan of their matcha drinks. The Iced Matcha Latte is creamy, slightly sweet, and just the right amount of earthy flavor. It\u2019s one of the best matcha options I\u2019ve found in a big coffee chain.\n\nThe staff are usually friendly and quick, and the atmosphere is cozy enough for both relaxing or working on my laptop. It\u2019s a reliable spot that I keep coming back to!",
+        "time": 1749275567,
+        "translated": false
+      },
+      {
+        "author_name": "Scott Gardner",
+        "author_url": "https://www.google.com/maps/contrib/115650111550905290171/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVAtcJicC0R9IQuYc_EQKkOcP-sHAeMKi4grD7YdbfSUxo3AB8k=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Starbucks in Australia offers a slightly different service experience compared to its locations in other countries, yet the staff maintain the same friendly and welcoming demeanor. One notable difference is that brewed coffee, such as the Pike Place roast, may not always be readily available, as the focus in many Australian locations is more on espresso-based drinks. However, if you request a specific brewed coffee like Pike Place, the staff are often more than happy to accommodate by brewing a fresh pot for you. This demonstrates their commitment to customer satisfaction and their willingness to provide personalized service. Overall, the experience combines the global Starbucks charm with a touch of local service nuances.",
+        "time": 1736045094,
+        "translated": false
+      },
+      {
+        "author_name": "Grace Riley-Stiff",
+        "author_url": "https://www.google.com/maps/contrib/107501715657712035514/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCiXXGgoKGQBYYMLTsoqI4oJO5AgLitDn45OWQCq4gdHJwRhn-=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Inuk served me (I think that\u2019s his name), but he is the sweetest person ever. He always remembers me when I come in and asks how I am. I am always happy to see him. Also the other guy from the UK with the beard, I always see them super super early on a Saturday morning and they always have smiles on their faces.",
+        "time": 1771724956,
+        "translated": false
+      },
+      {
+        "author_name": "Kay Kim",
+        "author_url": "https://www.google.com/maps/contrib/111192011816613790404/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOTbQKisfD6mHHyVmDrTbQq_y_5hK7CvWHxB0omHEso2b6wiT_=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "today\u2019s experience with this lady was shockingly unprofessional and disrespectful.\n\nHer named as \u201cMagnolia\u201d as in the picture rudely refused my coffee order as i wanna add orange juice in coffee and willing to pay. When I politely explained that I\u2019ve ordered it before, she became argumentative and dismissive.\n\nWorse, another staff member stood behind the counter rolling her eyes and pouting at me in an openly mocking way.\n\nThe cashier even sarcastically said, \u201cI\u2019ll tell my manager and let\u2019s see if i can add it for you or not\u201d I was shocked at how hostile and arrogant she was over such a simple request.\n\nThis is not the level of customer service one expects from Starbucks, especially toward regular customers. I hope management addresses this seriously, because this kind of treatment makes me and potentially my whole office reconsider where we buy our daily coffee.\n\nI hope her life is not as rough as her teeth",
+        "time": 1765819381,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 566
+  },
+  {
+    "place_id": "ChIJ0W6D_N2jEmsRUIZkQYH_DJ8",
+    "name": "Starbucks Auburn",
+    "address": "311/315 Parramatta Rd, Auburn NSW 2144, Australia",
+    "lat": -33.8361563,
+    "lng": 151.0243743,
+    "editorial_summary": {
+      "language": "en",
+      "overview": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries."
+    },
+    "formatted_address": "311/315 Parramatta Rd, Auburn NSW 2144, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.8361563,
+        "lng": 151.0243743
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.8347131197085,
+          "lng": 151.0257038802915
+        },
+        "southwest": {
+          "lat": -33.8374110802915,
+          "lng": 151.0230059197085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Tuesday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Wednesday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Saturday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Sunday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      ]
+    },
+    "rating": 3.4,
+    "reviews": [
+      {
+        "author_name": "maria sandy mangila",
+        "author_url": "https://www.google.com/maps/contrib/117513295546599071464/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLEpKlL5k94vfM5WrSLL7hSReRlJyxgNBzUmedA624thExSHw=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "3 months ago",
+        "text": "This branch is by far the most chill branch i have ever visited among all their branches in Sydney. Or probably just because its a weekday.\n\nThe staff was amazing, Jay was looking after us during our visit. I ordered 3 drinks.\nVenti - mocha frappe\nVenti - caramel frappe\nGrande - vanilla frappe\n\nBut two of these drinks doesn\u2019t have taste at all. (Jay wasnt the one making the drinks) As a frequent starbucks customer I know the drinks i ordered by heart.\n\nI was apologetic if i needed to have the drinks rectified. My husband\u2019s vanilla frappe taste like water. Jay made him another drink. I was also told by a friend, that his drink wasnt normal.\n\nApart from that, the service led by Jay was amazing. Actually, she made our stay extra special aside from the faulty drinks.",
+        "time": 1772201337,
+        "translated": false
+      },
+      {
+        "author_name": "Omar Alnajjar",
+        "author_url": "https://www.google.com/maps/contrib/102258718242246792234/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKi_tVbhWDUM812D9VvDYDwX2nD1gKpeO7naUB1bx6yOxpLMQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "It has been a great experience visiting Starbucks.\nUnlike most of other similar places, I loved their coffee, as its taste is so nice.\nWith a variety of drinks, snacks and food, this place is a good choice at anytime in the day from early morning till evening time . This is really good!\nThe staff are really friendly and I loved the level of service.\nFinally, I was surprised when I saw that the prices are reasonable and competitive with other cafes around Sydney.\nI am sure I will visit here again for many times. Starbucks is truly an excellent choice to have your coffee and food \ud83e\udd70",
+        "time": 1765527764,
+        "translated": false
+      },
+      {
+        "author_name": "harmandeep singh",
+        "author_url": "https://www.google.com/maps/contrib/110665010670621254500/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLy7GTS6Te0DL3W9lVPBLwvl-EeClFuK_D9feCTUQUUwBYJUQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "I recently visited the new Starbucks caf\u00e9 in our neighborhood, and I was impressed! The warm atmosphere and friendly staff (Nandy)made me feel right at home. The seating is comfy and inviting, great for relaxing or getting some work done. Overall, it's a wonderful addition to the community. I highly recommend checking it out!",
+        "time": 1758761509,
+        "translated": false
+      },
+      {
+        "author_name": "Anas Awais",
+        "author_url": "https://www.google.com/maps/contrib/108173986965073775302/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9fbfCTaN0U7oJCAvHqzcaP0mn3IrDYBNKaW6sImBMGcKadqDW1w=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "7 months ago",
+        "text": "Well... for starters, what's the point of the drive-thru if you are going to take plenty of time to prepare the order? Wait in the line and then wait in the waiting bay just for a coffee. There goes the first impression out of the window.\nSecondly, kindly provide better headsets to the staff taking orders; they are struggling while taking orders. Although the staff is friendly, it still won't matter if wait-time is heaps.\nI heard there's a 4-minute rule set by the CEO, but they can't seem to manage it for now.\nAnyways, good luck. Hope it improves some day.",
+        "time": 1759648823,
+        "translated": false
+      },
+      {
+        "author_name": "Hanisa Hilole",
+        "author_url": "https://www.google.com/maps/contrib/113544428388487979810/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmaDTOU1Mtki3nO2YPY2fTyBVcKXDBTpLkJhfBPn2gApJII0y5=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "This is the closest drive-through Starbucks to me. I love the Christmas menu and had an amazing experience here. Service is good and it\u2019s a good study spot if you don\u2019t mind driving.\n\nLove this place and will continue to try more drinks from the xmas menu.",
+        "time": 1763202524,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 134
+  },
+  {
+    "place_id": "ChIJ-5eobw-rEmsRQyYWJ0Whxa0",
+    "name": "Starbucks Manly",
+    "address": "110-112 The Corso, Manly NSW 2095, Australia",
+    "lat": -33.7972795,
+    "lng": 151.2880683,
+    "editorial_summary": {
+      "language": "en",
+      "overview": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries."
+    },
+    "formatted_address": "110-112 The Corso, Manly NSW 2095, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.7972795,
+        "lng": 151.2880683
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.7959199197085,
+          "lng": 151.2894584802915
+        },
+        "southwest": {
+          "lat": -33.7986178802915,
+          "lng": 151.2867605197085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1930"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1930"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Tuesday: 7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Wednesday: 7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Thursday: 7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Friday: 7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Saturday: 7:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
+        "Sunday: 7:30\u202fAM\u2009\u2013\u20097:30\u202fPM"
+      ]
+    },
+    "rating": 3.6,
+    "reviews": [
+      {
+        "author_name": "Jack",
+        "author_url": "https://www.google.com/maps/contrib/105271557136921129477/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDuxIFeeJUArUHumVctFT1EXv4SYSPzyfOok0mPuHZLRc_FExI=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "This has to be one of the nicest Starbucks locations.\n\nI brought my Snoopy doll here for a photo and the backdrop was perfect\u2014coffee in hand with the beautiful Manly Beach in the background.\n\nIt\u2019s such a relaxing spot to sit and watch the ocean.\nGreat coffee, great views, and great lighting for photos!",
+        "time": 1766355902,
+        "translated": false
+      },
+      {
+        "author_name": "Lindsay Mulligan",
+        "author_url": "https://www.google.com/maps/contrib/110803416481680512782/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxASL20XU6xpgTja7zejEfQlCeWwsQLFpxcrNoDSa745L0vw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Gee. I really want to like this place, but, really, it's filthy. The floor looks like it is mopped once a month, at best, the tables are left uncleared for hours after a customer has finished, too lazy to use the bins, which are invariably overfull anyway, all of which probably explains the swarms of tiny insects which buzz around you as you try to enjoy you coffee etc. Sorry. It could be so nice. Thurs 5th Mar - had coffee today. Chalk and cheese. The place was clean and fresh. So happy. Thank you.",
+        "time": 1772672463,
+        "translated": false
+      },
+      {
+        "author_name": "\u6afb\u6843\u5b50Chris",
+        "author_url": "https://www.google.com/maps/contrib/108667430340033501055/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjViI7XV8cYosM_kzvch5jBEd0tfsZBZxWcUDxLggmoultjhzx5P=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "4 months ago",
+        "text": "I always love Starbuck\u2019s matcha latte, but this time I order venti size, and this is what I get, only half liquid inside.\nThe bubble was half on the top.\nI\u2019m not sure is this normal?",
+        "time": 1768439208,
+        "translated": false
+      },
+      {
+        "author_name": "Jane D",
+        "author_url": "https://www.google.com/maps/contrib/102122756540151984590/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJb82aIWV_TqWZjmqpgvA1NZUPIH-bTuM3jh-AnHD_YSfIlsQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 2,
+        "relative_time_description": "4 months ago",
+        "text": "Minimal seating. The tables need a clean. Couldn\u2019t even hear our name getting called for drinks. Not sure I\u2019d want to come here for drinks again.",
+        "time": 1769495557,
+        "translated": false
+      },
+      {
+        "author_name": "Juancho",
+        "author_url": "https://www.google.com/maps/contrib/105850321096039699520/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgrXBJjzz8OLJvILDgGZp41X7FsgLOHDCoFCZDgCJYluRnD7YS=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "Made my order wrong and didnt call out my name or even just the order itself. This made me wait longer thus melting my frappucino. I sat on the  tables behind the handoff area so there is no way I just didnt hear it. It is my fault for thinking they'd call out my name and not just leave my drink on the handoff station. Nice location though so 5 stars on that",
+        "time": 1771735570,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 882
+  },
+  {
+    "place_id": "ChIJl7yJJWWxEmsRMI35ERbm8ig",
+    "name": "Starbucks Eastgardens",
+    "address": "Shop 267,/152 Bunnerong Rd, Eastgardens NSW 2036, Australia",
+    "lat": -33.9448566,
+    "lng": 151.223507,
+    "editorial_summary": {
+      "language": "en",
+      "overview": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries."
+    },
+    "formatted_address": "Shop 267,/152 Bunnerong Rd, Eastgardens NSW 2036, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.9448566,
+        "lng": 151.223507
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.9434710197085,
+          "lng": 151.2247881302915
+        },
+        "southwest": {
+          "lat": -33.9461689802915,
+          "lng": 151.2220901697085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1830"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1830"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1830"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1830"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1830"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1830"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
+        "Tuesday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
+        "Wednesday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
+        "Thursday: 7:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Friday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
+        "Saturday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
+        "Sunday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM"
+      ]
+    },
+    "rating": 3.8,
+    "reviews": [
+      {
+        "author_name": "Eva Minah",
+        "author_url": "https://www.google.com/maps/contrib/104457256441712200507/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIgD4JvNG4xdd5y2xjRZnVpg1GCM4BSBh3nVK6QqTrsxJqqmA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Good environment. Lucky not crowded yesterday (25/10/25) at 1.41 pm afternoon. I accompanied my elderly mate for hang out for refreshment. But I do not like to use the paper plate and wooden cutlery when you dine in. Hard to cut the bread with it, it moves and unstable will cause incident. I hope it will change.",
+        "time": 1761432531,
+        "translated": false
+      },
+      {
+        "author_name": "Prs888",
+        "author_url": "https://www.google.com/maps/contrib/108664910395722722134/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_WppB-i_hA8W9x7X4ccNysggN_dSZbMQKTrySpWI9H7Lopy8=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "5 months ago",
+        "text": "I ordered a cold brew today , and it had a weird taste\u2014like tap water mixed with fridge odor. Normally it tastes fine and is really smooth and enjoyable. This one was so off that I ended up throwing it away\u2026Especially in the summer, please be extra careful with how the cold brew is stored.",
+        "time": 1765192295,
+        "translated": false
+      },
+      {
+        "author_name": "Avocadolover",
+        "author_url": "https://www.google.com/maps/contrib/117510985233887138756/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLonFIZOmaL61ouFvQolwJE-NwPKN2gKrVLtmOekdFLj6_2Sg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "I ordered cold brew coffee with cloud toffee crunch toppings. They had no toppings (despite they were advertising for this, they never had it including my previous visit 2 weeks ago).\n\nThis is how they were going to serve it.\n\nI also saw them pour the cold brew and top up with TAP WATER.\n\nSo if you order the large size, they just top up with water.",
+        "time": 1765939955,
+        "translated": false
+      },
+      {
+        "author_name": "Thanos 15",
+        "author_url": "https://www.google.com/maps/contrib/102056979557529878246/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhqmmiMY1bQbxQ_y0XBdui-VDv9JEa7BLZFqj7S6BEHnvepGLi=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "I had a terrible experience, so I came to the store to get my free birthday beverages from the apps. And this guy with the glasses told me that the system is down, but after a while I saw him serve other customers and then scan a member into the system.",
+        "time": 1766132377,
+        "translated": false
+      },
+      {
+        "author_name": "Helen T",
+        "author_url": "https://www.google.com/maps/contrib/105180395279171765928/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLIyTHRgUd3_BHvIUcJ6-om_rEVa18sVIukjRDhwJ18u82jZg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "6 months ago",
+        "text": "I go to this Starbucks on a weekly basis but today had a terrible experience (Friday morning). I approached the checkout to order and the female staff member ignored me. I was with my child who waited patiently with me. The lady was busy clicking something on the till but never once acknowledged I was there or apologised for the wait. We waited about 3-4 minutes before I just decided to leave and go to another cafe. Staff used to be friendly here and now I won't be returning.",
+        "time": 1763076727,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 460
+  },
+  {
+    "place_id": "ChIJg4lRDu-nEmsRnAs0Tm7ywvk",
+    "name": "Starbucks Macquarie Centre",
+    "address": "Macquarie Centre, Shop 3404A Herring Road &, Waterloo Rd, North Ryde NSW 2113, Australia",
+    "lat": -33.776416,
+    "lng": 151.1197469,
+    "editorial_summary": {
+      "language": "en",
+      "overview": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries."
+    },
+    "formatted_address": "Macquarie Centre, Shop 3404A Herring Road &, Waterloo Rd, North Ryde NSW 2113, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.776416,
+        "lng": 151.1197469
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.7748083697085,
+          "lng": 151.1212960302915
+        },
+        "southwest": {
+          "lat": -33.77750633029149,
+          "lng": 151.1185980697086
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1830"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Tuesday: 6:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Wednesday: 6:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Thursday: 6:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Friday: 6:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Saturday: 7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Sunday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM"
+      ]
+    },
+    "rating": 3.3,
+    "reviews": [
+      {
+        "author_name": "Tseborushka Tsebo",
+        "author_url": "https://www.google.com/maps/contrib/111739187925628283797/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZ_EsiCrTntDoUMjiBrWKbfeeNbU3yfElf92nKxP7VtvBNE7bREw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "I used to love Starbucks everywhere because it keeps very good standart always, but this time, this place might be owned by Korean lady, when she serves, she was really rude because i ordered Cold brew and i did not wanted too much ice that\u2019s why i asked them for seperate ice, but she just said sorry we have short on cups! hahah, What kinda pathetic Starbucks branch is that! Again one day, I had a starbucks app from US and had some\nbucks on it then i kindly asked them if i can use my US app, and the cashier was like trying to make fun of me! hahah, it is enough, i believe her business won\u2019t succed if this place keeps running like that! I would never spend 9$ for a coffee and baaad baad attitude, bad service again! Just don\u2019t buy anything from\nthis Starbucks! ( You guys can keep your cups )",
+        "time": 1766544090,
+        "translated": false
+      },
+      {
+        "author_name": "Jenny",
+        "author_url": "https://www.google.com/maps/contrib/111849476036398382966/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDtcwLtxp2v9918hfUPs_QMiBqSSCrocFvjHeCvgDWaFc07A=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "The staff here, Dan and his colleagues, were incredibly kind and helpful. I placed an order through the app, but the usual strawberry drink I always get wasn't available, so I ordered the new strawberry drink instead. However, it tasted very different. After my daughter tried the new one, she didn't want to drink it, and I thought I had wasted my money.\n\nThen we saw someone else drinking the original strawberry drink, so I asked Dan about it, and he said it was still available for purchase. It wasn\u2019t on the app, so I couldn\u2019t order it, and I didn\u2019t want to spend more money.\n\nDan and his team kindly made a new drink for me, even though it was my mistake for ordering the wrong one. My daughter was so happy, and I\u2019m really grateful to the staff here.",
+        "time": 1727501683,
+        "translated": false
+      },
+      {
+        "author_name": "Belinda Jones",
+        "author_url": "https://www.google.com/maps/contrib/105601544663839025784/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGSgk3ZOXr3IYUdrCVvY-C2XNFG1LdDjG_OhcGgFO6LM2Bog=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 months ago",
+        "text": "The manager is disgustingly rude i watched her yell at 2 teenage girls after one of the girls informed staff about them having her order incorrect. The store manager was getting up in their faces screaming at them refusing to assist in fixing the girls drink. Absolutely disgusting and unacceptable. My heart goes out to those poor girls who just wanted their starbucks and got yelled at.",
+        "time": 1768812319,
+        "translated": false
+      },
+      {
+        "author_name": "Uy\u00ean B\u00f9i",
+        "author_url": "https://www.google.com/maps/contrib/113739211756443981368/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0V9UlVNKPKv3NMWdSHgC1BQ_GPHqfUq-sEIEZw9BWx8eyjA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "8 months ago",
+        "text": "I ordered a venti drink, but it was filled with so much foam that when the foam settled, the cup was only half full even though I hadn\u2019t even started drinking it. Very disappointing preparation and not worth the price.",
+        "time": 1757639425,
+        "translated": false
+      },
+      {
+        "author_name": "Jin",
+        "author_url": "https://www.google.com/maps/contrib/112693485466472521139/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhuWq0GRMl0bvCGnxihMsKLPGVqCsi2YSNEoQqaId75xD15lT_=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Variety of delicious drinks at Starbucks made very well. Fast service, friendly staff and nice presentation. I tried the Sakura frappe, has a nice strawberry flavour and looks very pretty. The coffee frappe tasted very nice too, with a good amount of sweetness. Only negative is the paper straws which are at all Starbucks, but it is so difficult to use as the paper goes all soggy, and I have to replace with more straws at least 2 times, so I recommend to bring your own straw. But the drinks are very yummy and service is great, I highly recommend.",
+        "time": 1622947356,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 452
+  },
+  {
+    "place_id": "ChIJ1ffoQiCjEmsRNVwSOxTMpUc",
+    "name": "Starbucks Parramatta",
+    "address": "Shop 2174, Level 2, Westfield Parramatta, 159-175 Church St, Parramatta NSW 2150, Australia",
+    "lat": -33.8177149,
+    "lng": 151.0027826,
+    "editorial_summary": {
+      "language": "en",
+      "overview": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries."
+    },
+    "formatted_address": "Shop 2174, Level 2, Westfield Parramatta, 159-175 Church St, Parramatta NSW 2150, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.8177149,
+        "lng": 151.0027826
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.81639226970849,
+          "lng": 151.0041747802915
+        },
+        "southwest": {
+          "lat": -33.81909023029149,
+          "lng": 151.0014768197085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Tuesday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Wednesday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Thursday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Saturday: 7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Sunday: 7:30\u202fAM\u2009\u2013\u20097:00\u202fPM"
+      ]
+    },
+    "rating": 3.8,
+    "reviews": [
+      {
+        "author_name": "Krystle Crouch",
+        "author_url": "https://www.google.com/maps/contrib/102331953318338876563/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUO1wTayv8GBlnrjMIYjv1N9RUcLt3BEdhQvi8pRpJuqNm3CYA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 2,
+        "relative_time_description": "3 months ago",
+        "text": "Ordered a iced white choc mocha frappacino. I initially received a drink without whipped cream on top so I checked. The worker who was being trained and corrected by another staff didn't seem happy I'd clarified and popped a small amount of cream and shoved the flat lid to squish it then shoved it over to me. It seemed like a quick fix and I didn't mind... but the attitiude was unpleasant and issue not fully resolved. \ud83e\udd72",
+        "time": 1771628720,
+        "translated": false
+      },
+      {
+        "author_name": "Amir",
+        "author_url": "https://www.google.com/maps/contrib/111705875900661472801/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI77jXycwbaOaA_qLYRV_ruvMt1wsu4yNoGeOvi9otrp7umIrb9=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "6 months ago",
+        "text": "Ordered via the Starbucks app at Westfield Parramatta and had a really disappointing experience.\n\nI placed my order and sat in the store for about 15\u201320 minutes with no progress showing in the app. When I went to check, I saw a paper sign at the counter saying \u201cMobile ordering is currently unavailable\u201d. No one had mentioned this when I came in, and the app still happily took my order and payment.\n\nI then had to wait in line, explain the situation, show the app and the confirmation email, and wait another 10\u201315 minutes before I finally got my drink \u2013 which was a poorly extracted espresso and not worth the hassle at all. Overall it felt like my time just wasn\u2019t respected.\n\nI understand it was Black Sunday (30/11) and probably a busy day, but this is exactly why communication matters. If mobile orders are down, the app and/or an email should tell customers before they pay, not after they\u2019ve been sitting there waiting.",
+        "time": 1764477433,
+        "translated": false
+      },
+      {
+        "author_name": "Gigi Liu",
+        "author_url": "https://www.google.com/maps/contrib/101849946229354578419/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJO2ZGrZWlXBoNlmxAYgsqDnR-Nz8_xq3evBbWl2rQnxuYymw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 months ago",
+        "text": "Coffee was good, but service needs some improvement. One girl was working hard making all the coffees while another was chatting loudly behind the counter. It didn\u2019t give the best impression of teamwork or professionalism.",
+        "time": 1762122149,
+        "translated": false
+      },
+      {
+        "author_name": "Alfred Tao",
+        "author_url": "https://www.google.com/maps/contrib/100172196397058408544/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWd_vvnDORbKKpC0Keujd5bu5YZDtaJRV3l6u5kM8hr3gMmYzMaZA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I\u2019ve been coming here regularly for a while now and thought I would leave this place a review. It\u2019s a pretty stock standard Starbucks experience, it\u2019s usually an average of 10-15 minutes from waiting in line to order and getting my drink. I usually get a green tea latte and it tastes great and is consistent all of the time. So I\u2019m pretty happy they do discounts on the food towards the end of the day. The staff are friendly and there\u2019s a fair number of tables and chairs",
+        "time": 1722392400,
+        "translated": false
+      },
+      {
+        "author_name": "Anne Nicole Gacusan",
+        "author_url": "https://www.google.com/maps/contrib/102623678275591149525/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIC35yRhsXxwZDhk7a7BPABAPIHETEaSG0UaFH49OOgHy_7w-0=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Vanessa was absolutely amazing! She was so helpful and kind from start to finish, making sure everything went smoothly. I really appreciate how cheerful and accommodating she was \u2014 she had such a positive attitude that made the whole experience enjoyable and stress-free. It\u2019s rare to meet someone who genuinely cares and goes the extra mile to help, but Vanessa definitely did. Thank you so much for your kindness and great service",
+        "time": 1760399346,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1212
+  }
+]
