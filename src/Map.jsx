@@ -10,6 +10,7 @@ import mapboxgl from 'mapbox-gl';
 import { IoIosRefreshCircle } from 'react-icons/io';
 import 'mapbox-gl/dist/mapbox-gl.css';
 import { supabase } from "./Client";
+import logo from "./assets/logo.png";
 
 const categories = [
   { id: 'misc',          file: './data/miscSpots.geojson',         icon: 'misc-icon', iconHover: 'misc-icon-hover' },
@@ -387,7 +388,7 @@ const Map = () => {
         <div className="loading-spinner" />
         <img
           className="loading-img"
-          src="/assets/logo.png"
+          src={logo}
           alt="Loading"
         />
         <p><i>loading study spots...</i></p>

@@ -1,27 +1,24 @@
 import { IoIosArrowRoundForward } from 'react-icons/io';
 
+import outletsTrue from '../../public/icons/outlets-true.png';
+import outletsFalse from '../../public/icons/outlets-false.png';
+import wifiTrue from '../../public/icons/wifi-true.png';
+import wifiFalse from '../../public/icons/wifi-false.png';
+import toiletsTrue from '../../public/icons/toilets-true.png';
+import toiletsFalse from '../../public/icons/toilets-false.png';
+import lateTrue from '../../public/icons/late-true.png';
+import lateFalse from '../../public/icons/late-false.png';
+
 const DAY_NAMES = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 
 const Overlay = ({ isCompact, selected }) => {
   if (!selected) return null;
 
   const iconMap = {
-    outlets: {
-      true:  '/icons/outlets-true.png',
-      false: '/icons/outlets-false.png'
-    },
-    wifi: {
-      true:  '/icons/wifi-true.png',
-      false: '/icons/wifi-false.png'
-    },
-    toilets: {
-      true:  '/icons/toilets-true.png',
-      false: '/icons/toilets-false.png'
-    },
-    late: {
-      true:  '/icons/late-true.png',
-      false: '/icons/late-false.png'
-    }
+    outlets: { true: outletsTrue,  false: outletsFalse },
+    wifi:    { true: wifiTrue,     false: wifiFalse    },
+    toilets: { true: toiletsTrue,  false: toiletsFalse },
+    late:    { true: lateTrue,     false: lateFalse    }
   };
 
   // open past 8pm
