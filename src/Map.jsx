@@ -387,7 +387,7 @@ const Map = () => {
         <div className="loading-spinner" />
         <img
           className="loading-img"
-          src="/icons/logo.png"
+          src="/assets/logo.png"
           alt="Loading"
         />
         <p><i>loading study spots...</i></p>

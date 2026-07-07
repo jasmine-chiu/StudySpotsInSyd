@@ -3,16 +3,18 @@ import { useNavigate } from 'react-router-dom';
 
 import "./styles/global.css"
 import Header from "./layout/Header.jsx"
+import logo from './assets/logo.png';
 
 // import { loadData } from "./Helper.jsx"
 
 const Dash = () => {
 	const [spots, setSpots] = useState([]);
+	const [isLoading, setIsLoading] = useState(true);
 	const navigate = useNavigate();
 
-	// useEffect(() => {
-	// 	loadData(setSpots); 
-	// }, []);
+	useEffect(() => {
+    	setIsLoading(false);
+  	}, []);
 
 	const goToPage = () => {
 		navigate("/map")
@@ -20,7 +22,16 @@ const Dash = () => {
 
 	return (
 		<>
-		<div className="page">
+			<div className="page">
+				<div className={`loading-overlay ${!isLoading ? 'hidden' : ''}`}>
+				<div className="loading-spinner" />
+				<img
+					className="loading-img"
+					src={logo}
+					alt="Loading"
+				/>
+				<p><i>loading study spots...</i></p>
+				</div>
 			<div className="page-top">
 				<Header 
 					spots={spots}

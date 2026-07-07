@@ -14,8 +14,8 @@ const Pages = () => {
     return (
         <>
             <Routes>
-                <Route path="/map" element={<Map />} />
                 <Route path="/" element={<Dash />} />
+                <Route path="/map" element={<Map />} />
                 {/* <Route path="/about" element={<About />} /> */}
             </Routes> 
         </>
