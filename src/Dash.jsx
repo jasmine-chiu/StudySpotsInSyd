@@ -1,74 +1,48 @@
-// import { useNavigate } from "react-router-dom";
-import { useNavigate } from "react-router-dom";
+import { useState, useEffect } from "react";
+import { useNavigate } from 'react-router-dom';
 
 import "./styles/global.css"
-import Shuttle from "./Shuttle"
-import Header from "./Header.jsx"
+import Header from "./layout/Header.jsx"
+
+// import { loadData } from "./Helper.jsx"
 
 const Dash = () => {
-    const navigate = useNavigate();
+	const [spots, setSpots] = useState([]);
+	const navigate = useNavigate();
 
-    return (
-        <>
-        <Header />
-            <div className="page">
-                <div className="page-top">
-                    <div className="page-title">
-                        <h1>
-                            Welcome
-                            {/* Welcome <!-- to UNSWTimes --> */}
-                        </h1>
-                    </div>
-                    <div className="page-content">
-                        <p>
-                            insert text here insert text here insert text here insert text here 
-                            insert text here insert text here insert text here insert text here 
-                            insert text here insert text here insert text here insert text here 
-                            insert text here insert text here insert text here insert text here 
-                            insert text here insert text here insert text here insert text here 
-                            insert text here insert text here insert text here insert text here 
-                            {/* <!-- Find out the opening hours for UNSW's buildings and facilities here! --> */}
-                        </p>
-                        <p>
-                            For more resources,
-                            [INSERT LINKS]
-                        </p>
-                        <div className="scroll-to-see">
-                            Scroll to explore!
-                            &#8595;
-                        </div>
-                    </div>
-                </div>
-                <div class="page-bot">
-                  <div className="funcs">
-                      <div className="block-container">
-                          <div className="block">
-                              1
-                              
-                              {/* UNSW MAIN MAP */}
-                              
-                              {/* have buttons be hover-over images w/ clear bg, w/ slight fade & shift animation --> */}
-                          </div>
-                      </div>
-                      <div className="block-container">
-                          <div className="block">
-                              2
-                              
-                              {/* PADDINGTON MAP ------------- */}
-                          </div>
-                      </div>
-                      <div className="block-container">
-                          <div className="block">
-                              3
-                              
-                              {/* SHUTTLE BUS ------------- (mobile && desktop) */}
-                          </div>
-                      </div>
-                  </div>
-                </div>
-            </div>
-        </>
-    )
+	// useEffect(() => {
+	// 	loadData(setSpots); 
+	// }, []);
+
+	const goToPage = () => {
+		navigate("/map")
+	}
+
+	return (
+		<>
+		<div className="page">
+			<div className="page-top">
+				<Header 
+					spots={spots}
+				/>
+			</div>
+				<div className="page-title">
+						<h1 className="page-heading" id="dash-heading">
+								welcome to STUDY IN SYD.
+						</h1>
+				</div>		
+				<div className="page-content">
+						<div className="dash-page-txt">
+							<p><i>use this site to find your next spot to study at.</i></p>
+							<p><i>with an expansive range of cafés and libraries across sydney, find out what's open near you!</i></p>
+						</div>
+						<div className="dash-click">
+							<button className="dash-btn" onClick={goToPage}>FIND YOUR SPOT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➤</button>
+						</div>
+			</div>
+		</div>
+		</>
+	)
 }
 
 export default Dash
