@@ -13,7 +13,7 @@ An interactive, map-based web application for discovering locations to study at 
 - **Amenity filtering** — filter by Wi-Fi, power outlets, and nearby toilets
 - **Search** — live search-as-you-type by name or suburb with dropdown suggestions
 - **Spot overlay** — click any marker to see opening hours (today's), rating, amenities, and reviews
-- **Chatbot** — conversational recommendations via the Anthropic API
+- **Chatbot** — conversational recommendations
 - **Responsive** — mobile and desktop layouts
 
 ---
@@ -25,8 +25,7 @@ An interactive, map-based web application for discovering locations to study at 
 | Frontend | React, Mapbox GL JS, HTML/CSS |
 | Database | Supabase (PostgreSQL) |
 | Data pipeline | Python, Google Places API |
-| Chatbot | Anthropic API |
-| Deployment | Vercel / Railway |
+| Deployment | GitHub Pages |
 
 ---
 
