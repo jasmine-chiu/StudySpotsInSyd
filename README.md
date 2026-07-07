@@ -85,7 +85,6 @@ study-spots-sydney/
 - A [Mapbox](https://mapbox.com) account (free tier)
 - A [Supabase](https://supabase.com) project
 - A [Google Cloud](https://console.cloud.google.com) project with Places API enabled
-- An [Anthropic](https://console.anthropic.com) API key
 
 ### Installation
 
@@ -101,7 +100,6 @@ Create a `.env` file:
 VITE_MAPBOX_TOKEN=your_mapbox_token
 VITE_SUPABASE_URL=https://your-project.supabase.co
 VITE_SUPABASE_ANON_KEY=your_anon_key
-VITE_ANTHROPIC_API_KEY=your_anthropic_key
 ```
 
 ```bash
@@ -165,7 +163,6 @@ python3 scripts/removeSpot.py starbucksSpots.geojson Westmead
 | `VITE_MAPBOX_TOKEN` | Mapbox public token |
 | `VITE_SUPABASE_URL` | Supabase project URL |
 | `VITE_SUPABASE_ANON_KEY` | Supabase anon/public key |
-| `VITE_ANTHROPIC_API_KEY` | Anthropic API key for chatbot |
 
 ---
 
