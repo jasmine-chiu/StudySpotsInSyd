@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/StudySpotsInSyd/">
         <Pages/>
       </BrowserRouter>
     </>
