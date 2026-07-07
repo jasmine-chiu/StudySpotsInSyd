@@ -40,8 +40,8 @@ const Header = ({ isCompact, onChatToggle, isChatOpen, spots }) => {
 
         {isNavOpen && (
           <nav className="compact-nav">
+            <Link className="nav-btn" to="/">About</Link>
             <Link className="nav-btn" to="/map">Map</Link>
-            {/* <Link className="nav-btn" to="/">About</Link> */}
           </nav>
         )}
       </div>
