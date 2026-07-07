@@ -44,8 +44,17 @@ const Map = () => {
     });
   };
 
+<<<<<<< HEAD
   useEffect(() => {
     const MB_TOKEN = import.meta.env.VITE_MB_TOKEN;
+=======
+  // useEffect(() => {
+  //   loadData(setSpots); 
+  // }, []);
+
+  useEffect(() => {
+    const MB_TOKEN = 'pk.eyJ1IjoianFzbWluYyIsImEiOiJjbW44bGF3MmcwYndvMnJwejI1ejd4NndqIn0.ts5PTb2BHeScF9oA3SSkfQ';
+>>>>>>> aa95e8f0540d5b6a0c494c24a3a7f514d7935074
     mapboxgl.accessToken = MB_TOKEN;
 
     const bounds = [

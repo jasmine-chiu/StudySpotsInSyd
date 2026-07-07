@@ -1,4 +1,8 @@
 .env
+<<<<<<< HEAD
 .env.local
 dist/
 node_modules/
+=======
+.env.local
+>>>>>>> aa95e8f0540d5b6a0c494c24a3a7f514d7935074
