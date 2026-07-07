@@ -1,0 +1,1937 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2022124,
+          -33.8779498
+        ]
+      },
+      "properties": {
+        "name": "Darling Square Library",
+        "place_id": "ChIJJ13t8C-vEmsRIpUAxmSQJRc",
+        "address": "The Exchange, levels 1 and 2, 1 Little Pier St, Haymarket NSW 2000, Australia",
+        "suburb": "Haymarket",
+        "rating": 3.5,
+        "rating_count": 216,
+        "hours": {
+          "Monday": "10:00 AM – 6:00 PM",
+          "Tuesday": "10:00 AM – 6:00 PM",
+          "Wednesday": "10:00 AM – 6:00 PM",
+          "Thursday": "10:00 AM – 6:00 PM",
+          "Friday": "10:00 AM – 6:00 PM",
+          "Saturday": "10:00 AM – 4:00 PM",
+          "Sunday": "10:00 AM – 4:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "ReviewedCompared Com",
+            "rating": 5,
+            "text": "A clean and popular library not far from Paddy's Market Light Rail Stop.\n\nThe library is on Level 1 and Level 2, via lift.\n\nThe 2 levels have staff assistance desk on each level. Free to join library membership.\n\nA range of seating configurations for reading, studying and laptop use.\n\nOutdoor terrace available for users to duck out to take a phone call or have a sandwich.\n\nToilet and general environment is clean.\n\nPhotocopying, printing and scanning are available. Scanning to USB is free. Refer to photo for printing and copying costs.\n\nWater cooler is available to top up your water bottle.\n\nRecycle chutes available for recycling batteries, blister packs, electronics and light bulbs."
+          },
+          {
+            "author": "Robert Bui",
+            "rating": 5,
+            "text": "Great place to work/study. Two levels means plenty of desks available. Easy to get to via public transport. Plenty of eating places close-by. Plenty of current magazines to catch up on the gossips. Clean. The free Wi-Fi is good speed to work/study. The limited amount of data is reasonable. I love it the power available at each desk. Would be nicer if there are some pot plants outside the balcony to feel less sterile."
+          },
+          {
+            "author": "Leah M",
+            "rating": 5,
+            "text": "As someone who had to wait for almost 12 hours until they could check in to their hotel, this library was a godsend. Spacious, had lots of quiet little corners to tuck yourself away, plug points to charge, clean of course books to help pass the time. There's lots of books in different languages too. Toilets were nice and clean, it could be more quiet but some people's children don't know how to behave in public and that's not the library's fault. It was air conditioned too! I really appreciate free public spaces like this; I was very relieved to be somewhere that didn't require you to spend money or be outside in the humid heat. Very easy to get to, maybe a bit confusing to find since you'll need to find the elevator to go up."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2053833,
+          -33.872879
+        ]
+      },
+      "properties": {
+        "name": "Town Hall Library Express",
+        "place_id": "ChIJncbhbSOuEmsRMUXksbF59j0",
+        "address": "Town Hall House, Level 1/456 Kent St, Sydney NSW 2001, Australia",
+        "suburb": "Sydney",
+        "rating": 3.4,
+        "rating_count": 55,
+        "hours": {
+          "Monday": "8:00 AM – 6:00 PM",
+          "Tuesday": "8:00 AM – 6:00 PM",
+          "Wednesday": "8:00 AM – 6:00 PM",
+          "Thursday": "8:00 AM – 6:00 PM",
+          "Friday": "8:00 AM – 6:00 PM",
+          "Saturday": "Closed",
+          "Sunday": "Closed"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "James",
+            "rating": 1,
+            "text": "Doesn't even have a printer. I feel it really needs to be renamed from a library"
+          },
+          {
+            "author": "Bo S",
+            "rating": 2,
+            "text": "It’s quite a small place, and for a library, there are only two large tables. Whenever someone writes at these tables, there’s always a self-proclaimed “justice warrior” who jumps in to tell them not to write too loudly. But honestly, the issue lies with the table itself—not the people using it. It’s unfair to blame others for a structural problem.\n\nAlso, the signage is really unclear. It’s very difficult to find where this place actually is, which makes the experience even more confusing for first-time visitors."
+          },
+          {
+            "author": "A K",
+            "rating": 4,
+            "text": "It's not a real library. It's just a corner under the Town Hall building where there are some books you can borrow. There are two tables you can use your laptops on and read books. It's next to a Cafe with no door in between, so it's noisy most of the time. There are toilets here too. A good spot to have some rest nonetheless."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2108579,
+          -33.8619695
+        ]
+      },
+      "properties": {
+        "name": "Customs House Library",
+        "place_id": "ChIJCZ5rATyuEmsRODtVekV-KYc",
+        "address": "31 Alfred St, Sydney NSW 2000, Australia",
+        "suburb": "Sydney",
+        "rating": 4.6,
+        "rating_count": 115,
+        "hours": {
+          "Monday": "10:00 AM – 6:00 PM",
+          "Tuesday": "10:00 AM – 6:00 PM",
+          "Wednesday": "10:00 AM – 6:00 PM",
+          "Thursday": "10:00 AM – 6:00 PM",
+          "Friday": "10:00 AM – 6:00 PM",
+          "Saturday": "10:00 AM – 4:00 PM",
+          "Sunday": "10:00 AM – 4:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Hong Nguyen",
+            "rating": 5,
+            "text": "A lovely library right in the heart of the city. It’s modern, clean, and has spots to sit read or study. The staff are friendly and willing to help, and there’s a good selection of books and resources, for children as well. A sweet little girl, about 4-5 years old, even brought me a book from her tiny hands the first time we saw each other.  Such a heart-warming moment... A welcoming place, perfect for a quiet break from the busy city outside."
+          },
+          {
+            "author": "Eric Metenier",
+            "rating": 5,
+            "text": "A handsome heritage building beautifully restored with inside a modern public space for art, library facilities and a rooftop restaurant. Right in front of Sydney Harbour with the Opera House, ferries and excellent transport links."
+          },
+          {
+            "author": "Lil Aussie Traveller",
+            "rating": 4,
+            "text": "Small library but has a charming reading room. There’s a room with CDs, sheet music and other audio/music-related materials, which is worth browsing. Visited towards closing hours on a Sunday and it was pretty quiet. A good place to rest and get away from the noise of touristy Circular Quay."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2143939,
+          -33.8635345
+        ]
+      },
+      "properties": {
+        "name": "Conservatorium Library - The University of Sydney Library",
+        "place_id": "ChIJ90XGMGauEmsRx3_piT0QSws",
+        "address": "1 Conservatorium Rd, Sydney NSW 2000, Australia",
+        "suburb": "Sydney",
+        "rating": 4.9,
+        "rating_count": 7,
+        "hours": {
+          "Monday": "9:00 AM – 8:00 PM",
+          "Tuesday": "9:00 AM – 8:00 PM",
+          "Wednesday": "9:00 AM – 8:00 PM",
+          "Thursday": "9:00 AM – 8:00 PM",
+          "Friday": "9:00 AM – 8:00 PM",
+          "Saturday": "10:00 AM – 2:00 PM",
+          "Sunday": "Closed"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "W G",
+            "rating": 5,
+            "text": "The best branch of the USYD library and the best library in Sydney. The librarians are always super friendly."
+          },
+          {
+            "author": "Luis Fernando Madrid",
+            "rating": 5,
+            "text": "Nice and quiet"
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.223458,
+          -33.874025
+        ]
+      },
+      "properties": {
+        "name": "Kings Cross Library",
+        "place_id": "ChIJ772-Ew2uEmsRS6yLhDyjmCE",
+        "address": "1/50-52 Darlinghurst Rd, Potts Point NSW 2011, Australia",
+        "suburb": "Potts Point",
+        "rating": 4.2,
+        "rating_count": 86,
+        "hours": {
+          "Monday": "10:00 AM – 6:00 PM",
+          "Tuesday": "10:00 AM – 6:00 PM",
+          "Wednesday": "10:00 AM – 6:00 PM",
+          "Thursday": "10:00 AM – 6:00 PM",
+          "Friday": "10:00 AM – 6:00 PM",
+          "Saturday": "10:00 AM – 4:00 PM",
+          "Sunday": "10:00 AM – 4:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Ihkeset eeietos",
+            "rating": 4,
+            "text": "A great place to study. Not too crowded and well maintained. They don’t like people playing with their jigsaw puzzle though. If they saw one, they will later take the chair away."
+          },
+          {
+            "author": "Mr. M",
+            "rating": 5,
+            "text": "Generally love it here, friendly and helpful staff, reasonable prices for printing, pleasant selection of books. The only thing is the kids section has moved and seemed to have shrunk, which is a pity. Still overall 5 stars for being just great!"
+          },
+          {
+            "author": "Since",
+            "rating": 1,
+            "text": "How does opening library at 10am makes any sense?\nImo. Library should be open from 8am to 10pm\nUsers that provide benefits to society, & whose tax $ pays library bills need the service before or after work - in our techie world anything helping startups or promotes digital innovation should be encouraged.\n\nWhat’s the point of opening it during office hours, unless it’s catering to boomers and students exclusively.\n\nI get staff is lazy but the service is not meant for staff, it’s meant for the public.. it’s easy to employ better staff."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2092035,
+          -33.8757124
+        ]
+      },
+      "properties": {
+        "name": "Navitas Library",
+        "place_id": "ChIJEbnHkD2uEmsRbSxs4yfjeWo",
+        "address": "level 8/255 Elizabeth St, Sydney NSW 2000, Australia",
+        "suburb": "Sydney",
+        "rating": 3.9,
+        "rating_count": 7,
+        "hours": {
+          "Monday": "8:30 AM – 8:00 PM",
+          "Tuesday": "8:30 AM – 8:00 PM",
+          "Wednesday": "8:30 AM – 8:00 PM",
+          "Thursday": "8:30 AM – 8:00 PM",
+          "Friday": "8:30 AM – 8:00 PM",
+          "Saturday": "Closed",
+          "Sunday": "Closed"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "C G",
+            "rating": 1,
+            "text": "Very small library. Also you can't lock your computer so if you've got hours of research or any confidential documents up you'll have to close it all just to use the bathroom. The only options allowed is to log off completely or shut down the computer. And finally, the library isn't open on weekends. It's best to go elsewhere."
+          },
+          {
+            "author": "Rohit K",
+            "rating": 4,
+            "text": "Wish it would stay open for longer hours and during weekends!"
+          },
+          {
+            "author": "Mafuzur Rahaman",
+            "rating": 5,
+            "text": "Excellent quiet place and best for study."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2127485,
+          -33.8689869
+        ]
+      },
+      "properties": {
+        "name": "Caroline Simpson Library & Research Collection",
+        "place_id": "ChIJ6VOq0GquEmsR7MS8_BLv5jg",
+        "address": "Level 1/10 Macquarie St, Sydney NSW 2000, Australia",
+        "suburb": "Sydney",
+        "rating": 4.6,
+        "rating_count": 12,
+        "hours": {
+          "Monday": "Closed",
+          "Tuesday": "10:00 AM – 4:00 PM",
+          "Wednesday": "10:00 AM – 4:00 PM",
+          "Thursday": "10:00 AM – 4:00 PM",
+          "Friday": "10:00 AM – 4:00 PM",
+          "Saturday": "Closed",
+          "Sunday": "Closed"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Georges Younes",
+            "rating": 5,
+            "text": "The Caroline Simpson Library & Research Collection is housed in one of the oldest surviving public buildings in Sydney. The renovation of the site was beautifully designed and carried out. Drop in for a short visit, even if you're not a researcher. Wander quietly around the building if only to soak in the work that went into the renovation."
+          },
+          {
+            "author": "Heather Feather",
+            "rating": 5,
+            "text": "I love this library. Lovely ambience to do your research. As long as you're patient and methodical, you will find something...even if you didn't know you were looking for it! And when you're stuck, the staff are amazingly resourceful and helpful. I shall return!"
+          },
+          {
+            "author": "jen",
+            "rating": 5,
+            "text": "Treasure trove of beauty and interesting stories, it’s wonderful. Staffed by people who care and are very welcoming. Outside there’s a gorgeous courtyard garden.\n\nThis library and museum is a national treasure in my view."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2137234,
+          -33.8859862
+        ]
+      },
+      "properties": {
+        "name": "Surry Hills Library",
+        "place_id": "ChIJPQB_2h6uEmsRlgS_RDbDGX8",
+        "address": "405 Crown St, Surry Hills NSW 2010, Australia",
+        "suburb": "Surry Hills",
+        "rating": 3.7,
+        "rating_count": 156,
+        "hours": {
+          "Monday": "10:00 AM – 6:00 PM",
+          "Tuesday": "10:00 AM – 6:00 PM",
+          "Wednesday": "10:00 AM – 6:00 PM",
+          "Thursday": "10:00 AM – 6:00 PM",
+          "Friday": "10:00 AM – 6:00 PM",
+          "Saturday": "10:00 AM – 4:00 PM",
+          "Sunday": "10:00 AM – 4:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Lucy Hawkins.",
+            "rating": 2,
+            "text": "I try and study here and have the same problems as everyone else - people should be quiet in a library and there should not be a kids area if the design of the building magnifies any noise from this area and parents don't keep their kids quiet. It would be great if you could repurpose the kids space as study space is so severely lacking, but reviews from many years ago call for the same thing and clearly nothing has been done. Staff are lovely, building looks idyllic from the outside."
+          },
+          {
+            "author": "Sarah Thomson",
+            "rating": 4,
+            "text": "A great spot for those that enjoy studying while people watching!\nHowever, I'd recommend against coming if you prefer quiet study spot or are planning to study for extended periods of time.\n\nMake sure to get there when they open as seating is highly limited."
+          },
+          {
+            "author": "Nancici",
+            "rating": 5,
+            "text": "Bloody good place to go! 🌸\nKate’s super beautiful 💕🌟 & sooo nice 🥰\nSuper supportive and helpful 🙌✨\nShe really helped me out heaps 🙏💛\nBig big thanks to Kate! 🫶😘💌✨\n\n#SweetService #LovelyKate #GratefulHeart #BloodyGood #FeelGoodVibes"
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.176828,
+          -33.8564119
+        ]
+      },
+      "properties": {
+        "name": "Balmain Library",
+        "place_id": "ChIJOeugOLevEmsRxwIuZ-WyGu8",
+        "address": "Rear of/370 Darling St, Balmain NSW 2041, Australia",
+        "suburb": "Balmain",
+        "rating": 4.3,
+        "rating_count": 55,
+        "hours": {
+          "Monday": "9:00 AM – 7:30 PM",
+          "Tuesday": "9:00 AM – 7:30 PM",
+          "Wednesday": "9:00 AM – 7:30 PM",
+          "Thursday": "9:00 AM – 7:30 PM",
+          "Friday": "9:00 AM – 5:30 PM",
+          "Saturday": "10:00 AM – 5:00 PM",
+          "Sunday": "10:00 AM – 5:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Eliya Cooper",
+            "rating": 3,
+            "text": "The library has a good range of books and a nice children’s section, but it can get quite noisy and crowded at times, which makes it hard to focus. It’s still a useful community space, but not always the best spot if you’re looking for quiet reading or study."
+          },
+          {
+            "author": "Joanna Sosa-Garcia",
+            "rating": 5,
+            "text": "Friendly staff and quiet library for study. Great range of books."
+          },
+          {
+            "author": "Hannah Wellington",
+            "rating": 5,
+            "text": "Well presented and functional library. Great staff and spaces for study"
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1997569,
+          -33.8817774
+        ]
+      },
+      "properties": {
+        "name": "TAFE Ultimo Library",
+        "place_id": "ChIJE4iGCSauEmsRVBq5sQzgggk",
+        "address": "Mary Ann St, Ultimo NSW 2007, Australia",
+        "suburb": "Ultimo",
+        "rating": 4.7,
+        "rating_count": 26,
+        "hours": {
+          "Monday": "8:30 AM – 8:00 PM",
+          "Tuesday": "8:30 AM – 8:00 PM",
+          "Wednesday": "8:30 AM – 8:00 PM",
+          "Thursday": "8:30 AM – 8:00 PM",
+          "Friday": "8:30 AM – 6:00 PM",
+          "Saturday": "12:00 – 4:00 PM",
+          "Sunday": "Closed"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Lindy Romano",
+            "rating": 5,
+            "text": "The TAFE library is such a welcoming and inviting space. The staff are always friendly and happy to help, and the environment makes it easy to focus and get work done. There are plenty of computers available, which is super convenient, especially during busy times. It’s a great place to study or just take a quiet break between classes."
+          },
+          {
+            "author": "L N",
+            "rating": 5,
+            "text": "Susan was amazing helping me with my issues. Everything worked great!"
+          },
+          {
+            "author": "Fateme Malek",
+            "rating": 5,
+            "text": "Great librarians, I wish students would also keep the break room/lounge clean."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1977558,
+          -33.8780011
+        ]
+      },
+      "properties": {
+        "name": "Ultimo Library",
+        "place_id": "ChIJY7-Dmi-uEmsRf3HgocvRH3U",
+        "address": "Level 1, Ultimo Community Centre, 40 William Henry St, Ultimo NSW 2007, Australia",
+        "suburb": "Ultimo",
+        "rating": 4.1,
+        "rating_count": 28,
+        "hours": {
+          "Monday": "10:00 AM – 6:00 PM",
+          "Tuesday": "10:00 AM – 6:00 PM",
+          "Wednesday": "10:00 AM – 6:00 PM",
+          "Thursday": "10:00 AM – 6:00 PM",
+          "Friday": "10:00 AM – 6:00 PM",
+          "Saturday": "Closed",
+          "Sunday": "Closed"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Jarod Croft",
+            "rating": 5,
+            "text": "Very comfortable library, I am an odd looking fella and maybe coz of that I've been snubbed by some staff at other libraries, well the Ultimo Library Staff have been so friendly and welcoming I was surprised how friendly they are. I don't normally leave reviews especially positive ones, this positive review was much deserved ☯️"
+          },
+          {
+            "author": "Charlotte May",
+            "rating": 5,
+            "text": "Big shout out to Mia at Ultimo and Darling Square libraries! She really went above and beyond to introduce us to all the services that the library has to offer that I otherwise would never have known about. Her positive and friendly attitude made us feel so welcome. Thank you Mia for making our day, you’re a gem! ⭐️"
+          },
+          {
+            "author": "哈哈哈哈",
+            "rating": 5,
+            "text": "So good place to do my assessments"
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1920284,
+          -33.8679008
+        ]
+      },
+      "properties": {
+        "name": "Pyrmont Library Link",
+        "place_id": "ChIJpec3IzSuEmsRXaPzcnDEq4M",
+        "address": "79A John St, Pyrmont NSW 2009, Australia",
+        "suburb": "Pyrmont",
+        "rating": 4.9,
+        "rating_count": 7,
+        "hours": {
+          "Monday": "9:00 AM – 9:00 PM",
+          "Tuesday": "9:00 AM – 9:00 PM",
+          "Wednesday": "9:00 AM – 9:00 PM",
+          "Thursday": "9:00 AM – 9:00 PM",
+          "Friday": "9:00 AM – 6:00 PM",
+          "Saturday": "10:00 AM – 4:00 PM",
+          "Sunday": "10:00 AM – 4:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Susan Barnes",
+            "rating": 5,
+            "text": "This library link is not staffed, but you can pick up reserves and return books here, as well as sit in the couches and read, or borrow from the free community book shelves"
+          },
+          {
+            "author": "EDUARDO OSAKI",
+            "rating": 5,
+            "text": "Great environment! Really helpful"
+          },
+          {
+            "author": "석선미",
+            "rating": 5,
+            "text": "I went to the library, which was very close to where I live. It was small, but the person there was very friendly. He also showed me a space where I could get a free book, tea, or coffee. I told him I wanted an Australian novel for my daughter, something about overcoming adversity or a mystery novel. He hesitated for a while and then asked for 15 copies. Fifteen minutes later, I was impressed. On a piece of A4 paper, the front side was written in English about overcoming adversity, with the mystery novel's translation in Korean underneath. Another piece of A4 paper had the name and address of a nearby bookstore. I was so grateful that I offered him some Korean candy I had in my bag, along with a chewy fruit candy from Korea. I was so grateful. While the library seems like a place to pick up and return books, it was a great place to stop by, with comfortable sofas and warm coffee and tea. The only thing I wish there were was two desks and two chairs. I wanted to go there to study."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1840871,
+          -33.7958721
+        ]
+      },
+      "properties": {
+        "name": "Chatswood Library",
+        "place_id": "ChIJD1Vh1dWoEmsReFfNWna6wpA",
+        "address": "Lower Ground, The Concourse Chatswood, 409 Victoria Ave, Chatswood NSW 2067, Australia",
+        "suburb": "",
+        "rating": 4.1,
+        "rating_count": 394,
+        "hours": {
+          "Monday": "9:00 AM – 9:00 PM",
+          "Tuesday": "9:00 AM – 9:00 PM",
+          "Wednesday": "9:00 AM – 9:00 PM",
+          "Thursday": "9:00 AM – 9:00 PM",
+          "Friday": "9:00 AM – 6:00 PM",
+          "Saturday": "9:30 AM – 5:00 PM",
+          "Sunday": "9:30 AM – 5:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "c “hec” k",
+            "rating": 5,
+            "text": "Is humongous the right word to describe the sheer size of this library?  The amenities are great with a variety of seating spaces and configurations at different areas of the library.  They have various small conference and study rooms available for hire or special complimentary use, plus regular workshops on a variety of topics and genre.  I’ve attended quite a number like art and craft, group activities and talks.  I organised a small successful art exhibition in one of the rooms.  Most of the staff are friendly and helpful.  Really good for study, research and just relaxed reading, although some young groups couldn’t keep their voices down.  Hopefully the staff would remind them it’s still a library and not a chat room."
+          },
+          {
+            "author": "N N (Pom)",
+            "rating": 5,
+            "text": "It appears that half of the library building extends below ground level."
+          },
+          {
+            "author": "Syd Rev",
+            "rating": 5,
+            "text": "One of the best libraries in Sydney. The architect did a great job bringing in the natural light to the library in the basement level and added the water feature to soften the concrete modern building. In the evening the library was full of high school students studying and there was some photography lighting class going on. This library looked like it is being used to its fullest potential when others are closing down in this time and age of digital era."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0667066,
+          -33.8686417
+        ]
+      },
+      "properties": {
+        "name": "Ocean Life Street Library",
+        "place_id": "ChIJQ2YFLwC7EmsR0gARKNcsl2Y",
+        "address": "Active Kids Homebush, 40 Hornsey Rd, Homebush West NSW 2140, Australia",
+        "suburb": "Homebush",
+        "rating": 4.3,
+        "rating_count": 3,
+        "hours": {
+          "Monday": "Open 24 hours",
+          "Tuesday": "Open 24 hours",
+          "Wednesday": "Open 24 hours",
+          "Thursday": "Open 24 hours",
+          "Friday": "Open 24 hours",
+          "Saturday": "Open 24 hours",
+          "Sunday": "Open 24 hours"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Young",
+            "rating": 3,
+            "text": "This is not a library. But a small local street self bookshelf. Will attach a photo, didn't have to travel 15minutes by drive."
+          },
+          {
+            "author": "Hasith Jayasinghe",
+            "rating": 5,
+            "text": "Street Library managed by Strathfield Council library services.."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0431593,
+          -33.863761
+        ]
+      },
+      "properties": {
+        "name": "Lidcombe Library",
+        "place_id": "ChIJpZfAFqG8EmsRVwqSONlPtZY",
+        "address": "3 Bridge St, Lidcombe NSW 2141, Australia",
+        "suburb": "Lidcombe",
+        "rating": 4,
+        "rating_count": 45,
+        "hours": {
+          "Monday": "9:30 AM – 5:30 PM",
+          "Tuesday": "9:30 AM – 5:30 PM",
+          "Wednesday": "9:30 AM – 5:30 PM",
+          "Thursday": "9:30 AM – 5:30 PM",
+          "Friday": "9:30 AM – 5:30 PM",
+          "Saturday": "9:30 AM – 12:00 PM",
+          "Sunday": "Closed"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Rohan Smith",
+            "rating": 5,
+            "text": "Don't let the outside put you off, a lovely open space inside. Some individual study spots, and some spots for group discussion too (I asked if I could work on something with a friend here and they said that's totally fine, as long as we weren't too loud)\n\nVery friendly librarians too."
+          },
+          {
+            "author": "Avery Im",
+            "rating": 5,
+            "text": "Really nice library, just wish it had extended hours offered"
+          },
+          {
+            "author": "8 2",
+            "rating": 2,
+            "text": "Doesn’t have a wide selection of books but the librarians are nice enough.Air in the library smells musty and like a dump.Maybe it was just when I went but  I’m informing you in advance.Isn’t very loud unlike some libraries but the opening times are not very long."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0836223,
+          -33.869039
+        ]
+      },
+      "properties": {
+        "name": "Strathfield Council Library & Innovation Hub",
+        "place_id": "ChIJAQBAFiW7EmsRV_Wvy92m0JA",
+        "address": "65-67 Rochester St, Homebush NSW 2140, Australia",
+        "suburb": "Homebush",
+        "rating": 4.3,
+        "rating_count": 238,
+        "hours": {
+          "Monday": "9:30 AM – 6:30 PM",
+          "Tuesday": "9:30 AM – 6:30 PM",
+          "Wednesday": "9:30 AM – 6:30 PM",
+          "Thursday": "9:30 AM – 6:30 PM",
+          "Friday": "9:30 AM – 6:30 PM",
+          "Saturday": "9:00 AM – 1:00 PM",
+          "Sunday": "9:00 AM – 1:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Sh M",
+            "rating": 5,
+            "text": "Pros:\nBig library. Staffs are supportive & well informed. Well organised library. Prints and book leading facilities are automated and easy. Location is very close to Homebush station which is really nice. Excellent collection of books for people of all ages.\n\nCons:\nNothing"
+          },
+          {
+            "author": "Noobie",
+            "rating": 5,
+            "text": "I come here often. The staff are amazing, the extended hours are amazing, the low cost vending machine is amazing, the community who visit are amazing and the actual space and building and layout and the fact that this is nestled in the middle of a (mostly) low density residential suburb makes this one of the best libraries in all of Sydney for me."
+          },
+          {
+            "author": "Frunk Yogaba",
+            "rating": 1,
+            "text": "Place is clean but very loud. It's not random people, it's not angry baby. It's the librarians. Yup the very people who are suppose to be the one telling you off are speaking in high volumes as if I am forced to hear their conversation. Also there's someone who types on the keyboard at the computer area at 2nd floor really loud. He types like as if he is stress testing the product. This place can get wild."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.100378,
+          -33.877666
+        ]
+      },
+      "properties": {
+        "name": "Burwood Library",
+        "place_id": "ChIJvVBHtsS6EmsR83j-DDZh5ck",
+        "address": "2 Conder St, Burwood NSW 2134, Australia",
+        "suburb": "Burwood",
+        "rating": 3.7,
+        "rating_count": 291,
+        "hours": {
+          "Monday": "9:30 AM – 5:00 PM",
+          "Tuesday": "9:30 AM – 8:00 PM",
+          "Wednesday": "9:30 AM – 6:00 PM",
+          "Thursday": "9:30 AM – 8:00 PM",
+          "Friday": "9:30 AM – 5:00 PM",
+          "Saturday": "11:00 AM – 4:00 PM",
+          "Sunday": "12:00 – 4:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Danny Fan",
+            "rating": 4,
+            "text": "The burwood  library was my very first time there, even though I was having a good shady relaxing time, having morning tea outside the library. The inside part was very air conditioning with people reading their books whilst I read a Marvel book for a minimum time. They were toilets upstairs and downstairs as well, which only one person could go inside downstairs. It was very satisfying that there was a fill-up water bottle, too. The best library with not a lot of chairs thought. I really enjoyed my time with a friend of mine."
+          },
+          {
+            "author": "Moon shine",
+            "rating": 1,
+            "text": "Asian lady by name of Sabrina absolutely disgusting service. check revies of reference to \"Asian lady\" shor back hair approximately 160cm tall. She was extremely rude and aggresive trying to kick me out of the library at 3.50pm when it closes at 4pm. She stood not far away from me watching me then started to tell and harrass me to pack up and leave now because then the door eill be locked and I wouldnt be let out. it eas still only 3.55\nI told her to stop that I was aware of the tume and eill leave before 4 but she continued like some sort of police officer!!!  this is a COMMUNITY LIBRARY and she should not be working in such a place if she cannot be respectful and kind of others. i was simply trying to finsg something and I was still out the door before 4pm. Absolutely disgusting and I seee many many complaints about her inclsuing her beinh racist which makes me question if she was being racists towards me and hence the hostile treatmne.t i will be making a foemal complaint about her. the rest of the staff are always nice and understanding even the security guard (which she seems to have some confusion that is what she is) made some nice suggestions about using the litbary wifi outside the library so I could continue my work. she simply was determind to kick me out like I was an animal..absolute disgraceful!!"
+          },
+          {
+            "author": "N",
+            "rating": 5,
+            "text": "I was able to start my paper work and concentrate because of the very nice ambience in Burwood Library. 5 stars as it's the best library I have ever been to. Very clean toilet and comfy lounge areas. You can have your own peaceful space. Few good things here is that they have USB ports to charge your gadgets, and you can print documents. You're gonna need a card though--not sure yet how to get it. I will definitely go back to this library. I hope they can extend until 6pm."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0755707,
+          -33.8759604
+        ]
+      },
+      "properties": {
+        "name": "ACU Strathfield Library",
+        "place_id": "ChIJ3wsJ-hW7EmsR_C_TCXDM4kY",
+        "address": "25A Barker Rd, Strathfield NSW 2135, Australia",
+        "suburb": "Strathfield",
+        "rating": 4.7,
+        "rating_count": 19,
+        "hours": {
+          "Monday": "7:00 AM – 10:00 PM",
+          "Tuesday": "7:00 AM – 10:00 PM",
+          "Wednesday": "7:00 AM – 10:00 PM",
+          "Thursday": "7:00 AM – 10:00 PM",
+          "Friday": "7:00 AM – 10:00 PM",
+          "Saturday": "9:00 AM – 5:00 PM",
+          "Sunday": "9:00 AM – 5:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "James Nguyen",
+            "rating": 5,
+            "text": "Very helpful IT staff but the it would be better if staff worked earlier hours."
+          },
+          {
+            "author": "Artin Shahbandegan",
+            "rating": 5,
+            "text": "Friendly staff members of ACU when I came today for a trip from Glenwood High School. 👍"
+          },
+          {
+            "author": "Natalia Gubbay",
+            "rating": 5,
+            "text": "Great location, soccer fields are well kept, one  grass field and one turf."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0246787,
+          -33.8832944
+        ]
+      },
+      "properties": {
+        "name": "Regents Park Library",
+        "place_id": "ChIJUYegHGC8EmsRlEFOUB0l_-4",
+        "address": "1 Amy St, Regents Park NSW 2143, Australia",
+        "suburb": "Regents Park",
+        "rating": 3.3,
+        "rating_count": 33,
+        "hours": {
+          "Monday": "9:30 AM – 5:30 PM",
+          "Tuesday": "9:30 AM – 5:30 PM",
+          "Wednesday": "9:30 AM – 5:30 PM",
+          "Thursday": "9:30 AM – 5:30 PM",
+          "Friday": "9:30 AM – 5:30 PM",
+          "Saturday": "9:30 AM – 12:00 PM",
+          "Sunday": "Closed"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Alex Wang",
+            "rating": 3,
+            "text": "Nice little place for some reading/study. However the single toilet doesn’t have any toilet paper. Also some people inside the library are loud/on the phone and library staff don’t seem to care. Would be really nice if the librarian could enforce a no-phone or no-noise policy so others can enjoy the facilities in peace"
+          },
+          {
+            "author": "Samuel Hao",
+            "rating": 5,
+            "text": "The librarians are okay but the library itself is amazing. It has a multitude of books to choose from and provides services such as internet, printers, devices and programs. The library also provides access to a few private rooms and access to be able to reserve books from other Cumberland Council libraries.\nNote: You might catch the librarians on a bad day."
+          },
+          {
+            "author": "Saf DZ",
+            "rating": 1,
+            "text": "Overall a very poor experience at this library. There are no power-points anyone can use to charge their devices or laptops while studying (except behind the couches), so you are 'required to come to the library with fully charged laptops' if you wish to use them for any work. Most librarians don't make any attempt to help you and make you feel as though you are unwanted in the library. The library was not designed for students or for the 21st century and is in dire need of some attention."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0832795,
+          -33.8734106
+        ]
+      },
+      "properties": {
+        "name": "Veech Library",
+        "place_id": "ChIJ8w6DQCO7EmsROmFo14raNjI",
+        "address": "99 Albert Rd, Strathfield NSW 2135, Australia",
+        "suburb": "Strathfield",
+        "rating": 3.4,
+        "rating_count": 5,
+        "hours": {
+          "Monday": "9:00 AM – 7:30 PM",
+          "Tuesday": "9:00 AM – 7:30 PM",
+          "Wednesday": "9:00 AM – 7:30 PM",
+          "Thursday": "9:00 AM – 5:00 PM",
+          "Friday": "9:00 AM – 5:00 PM",
+          "Saturday": "Closed",
+          "Sunday": "Closed"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Prabeen Official",
+            "rating": 1,
+            "text": "Why not for public"
+          },
+          {
+            "author": "Amy Ng",
+            "rating": 3,
+            "text": "Private access only. Not open for public 😅"
+          },
+          {
+            "author": "Jean Seah",
+            "rating": 5,
+            "text": "Excellent range of books."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0782837,
+          -33.8256018
+        ]
+      },
+      "properties": {
+        "name": "Wentworth Point Community Centre and Library",
+        "place_id": "ChIJi9RZcTelEmsRER1QE7ahSKY",
+        "address": "10 Footbridge Bvd, Wentworth Point NSW 2127, Australia",
+        "suburb": "Wentworth Point",
+        "rating": 4.1,
+        "rating_count": 190,
+        "hours": {
+          "Monday": "9:30 AM – 5:00 PM",
+          "Tuesday": "9:30 AM – 8:00 PM",
+          "Wednesday": "9:30 AM – 8:00 PM",
+          "Thursday": "9:30 AM – 8:00 PM",
+          "Friday": "9:30 AM – 5:00 PM",
+          "Saturday": "9:30 AM – 5:00 PM",
+          "Sunday": "2:00 – 5:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "JINWOO PARK",
+            "rating": 1,
+            "text": "I had a disappointing customer service experience at Wentworth Point Library. I asked a staff member whether my library card had expired because I couldn’t access after-hours. Instead of explaining clearly, she told me to scan a QR code to book an induction session and “read about it”  - and the QR code she directed me to appeared to be the wrong one. When I asked what the induction session is and how often it needs renewal (as I could access last year), she didn’t provide a clear answer and seemed more focused on her screen than helping.\n\nAnother staff member assisted me shortly after and resolved it quickly and kindly, which highlighted the difference in service.\n\nNicole also overheard my conversation with the other staff member and said she had “already explained,” but it wasn’t clear to me. When I said there shouldn’t be an issue with repeating information if a customer doesn’t understand, she replied that I “could have asked” her to repeat it - I felt I was asking for clarification.\n\nOverall, the attitude felt dismissive and unhelpful. I hope the library provides staff coaching around clearer communication and respectful service. I even emailed this in January but didn’t still hear back."
+          },
+          {
+            "author": "Emmen Saeed",
+            "rating": 5,
+            "text": "The staff is very friendly and helpful. The weekly yoga and painting classes have been amazing for me. They are great value for money, help make good friends and really great to help with creating a good headspace after a rough week at work. Look forward to rejoining them next semester! Keep up the good work!"
+          },
+          {
+            "author": "John Barrero",
+            "rating": 5,
+            "text": "I think it is one of the best libraries and community centers I have ever been in Sydney. The after hours section is quite convenient. It has a friendly staff and it is a great place for everyone. Thanks for your hard work."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2866034,
+          -33.7517003
+        ]
+      },
+      "properties": {
+        "name": "Dee Why Library",
+        "place_id": "ChIJy6TCQYSqEmsRMmnBDM5ASBI",
+        "address": "725 Pittwater Rd, Dee Why NSW 2099, Australia",
+        "suburb": "Dee Why",
+        "rating": 4.3,
+        "rating_count": 108,
+        "hours": {
+          "Monday": "9:00 AM – 8:00 PM",
+          "Tuesday": "9:00 AM – 7:00 PM",
+          "Wednesday": "9:00 AM – 8:00 PM",
+          "Thursday": "9:00 AM – 8:00 PM",
+          "Friday": "9:00 AM – 5:00 PM",
+          "Saturday": "10:00 AM – 4:00 PM",
+          "Sunday": "1:00 – 4:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Raghavendra Chaturvedi",
+            "rating": 5,
+            "text": "The book chat sessions are lovely led by wonderful Ms. Sarah. Amazing little community of book chatters held every month first Friday 2-3pm. The library is neat and clean with cute green flowing plants. The only off putting thing is noise level sometimes which are due to ill mannered children and school teens  who are super loud and interfere with the focus."
+          },
+          {
+            "author": "Priya Betala",
+            "rating": 4,
+            "text": "The books are in an awesome condition. Library is clean and staff is very friendly.\nI love spending my time here. Thanks to sarah who takes the book chat sessions - my reading has become 10x.\nI have deducted 1 star for noise - adults are having telephone video calls ( a woman is always there on her fixed spot) and children are recklessly shouting all over without any parent’s intervention."
+          },
+          {
+            "author": "Michelle",
+            "rating": 5,
+            "text": "Marcus was very supportive with superb customer service skills."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9985617,
+          -33.9560115
+        ]
+      },
+      "properties": {
+        "name": "Panania Library and Knowledge Centre",
+        "place_id": "ChIJX7kLG1W-EmsRp9kQG7E8V_o",
+        "address": "Cnr Tower Street &, Anderson Ave, Panania NSW 2213, Australia",
+        "suburb": "Panania",
+        "rating": 4.5,
+        "rating_count": 50,
+        "hours": {
+          "Monday": "9:30 AM – 8:00 PM",
+          "Tuesday": "9:30 AM – 8:00 PM",
+          "Wednesday": "9:30 AM – 5:00 PM",
+          "Thursday": "9:30 AM – 8:00 PM",
+          "Friday": "9:30 AM – 5:00 PM",
+          "Saturday": "10:00 AM – 1:00 PM",
+          "Sunday": "Closed"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Jarod Croft",
+            "rating": 5,
+            "text": "Lovely little library, kind hearted staff, I'm a funny looking fellow and sometimes I get snobbed or slightly mistreated simply because of my looks, but the Panania Library staff have made me feel very welcome. Very professional and overall good atmosphere relaxing library ☯️"
+          },
+          {
+            "author": "Going Social",
+            "rating": 5,
+            "text": "⭐️⭐️⭐️⭐️⭐️\nPanania Library is such a helpful and well-equipped community space. Most of the facilities are on self-service scan mode, which makes things quick and easy. I needed a couple of items printed, and the lady at the counter was so kind and assisted me on two occasions — really appreciated her help! A great local library with friendly staff and excellent facilities. 📚🖨️✨"
+          },
+          {
+            "author": "aashna",
+            "rating": 5,
+            "text": "I've been coming to this library since I was 5, and it has always been an amazing experience. The library is always clean and peaceful, and the librarians (especially Veronica) have been nothing but kind and extremely helpful, always going out of their way for the customers. Thank you so much for everything!!"
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.285855,
+          -33.7976398
+        ]
+      },
+      "properties": {
+        "name": "Manly Library",
+        "place_id": "ChIJ9xolywirEmsRfX3Ip2j0Pkc",
+        "address": "1 Market Ln, Manly NSW 2095, Australia",
+        "suburb": "Manly",
+        "rating": 4.5,
+        "rating_count": 108,
+        "hours": {
+          "Monday": "9:00 AM – 6:00 PM",
+          "Tuesday": "9:00 AM – 6:00 PM",
+          "Wednesday": "9:00 AM – 6:00 PM",
+          "Thursday": "9:00 AM – 6:00 PM",
+          "Friday": "9:00 AM – 5:00 PM",
+          "Saturday": "10:00 AM – 4:00 PM",
+          "Sunday": "11:00 AM – 4:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Valerie Jacquard",
+            "rating": 5,
+            "text": "A free service provided by the council which is awesome. The staff is very nice. Many services are offered. The app is very useful and makes your life easier to renew, pre book or find a book. You can find books but also magazines, audio book, CD and DVD.\nNew books are quite sparse and not many best sellers."
+          },
+          {
+            "author": "Serafim Zharkov",
+            "rating": 5,
+            "text": "This is the great, place I were. You have books for learning and something non fiction for fun. Well some books weren't there. But still. This library is the best."
+          },
+          {
+            "author": "Jose Agustin Orlando",
+            "rating": 5,
+            "text": "Well located, small and friendly. A worthwhile place if you're also visiting the Manly market, a few meters away."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2837045,
+          -33.7786196
+        ]
+      },
+      "properties": {
+        "name": "Harbord Literary Institute",
+        "place_id": "ChIJUQOaGfmqEmsR4UmaUsDT8II",
+        "address": "31 Lawrence St, Freshwater NSW 2096, Australia",
+        "suburb": "Freshwater",
+        "rating": 3.7,
+        "rating_count": 23,
+        "hours": {
+          "Monday": "9:00 – 11:00 AM",
+          "Tuesday": "3:00 – 5:00 PM",
+          "Wednesday": "9:00 – 11:00 AM",
+          "Thursday": "3:00 – 5:00 PM",
+          "Friday": "10:00 AM – 12:00 PM",
+          "Saturday": "10:00 AM – 12:00 PM",
+          "Sunday": "Closed"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Lizzie Foster",
+            "rating": 4,
+            "text": "Had my daughters 1st birthday here. The park area out the back is quite good"
+          },
+          {
+            "author": "Petra Stuart",
+            "rating": 4,
+            "text": "The smallest library but priceless to locally borrow a book to read for adults and children. Plenty of picture books for children."
+          },
+          {
+            "author": "Dylan Sharp",
+            "rating": 4,
+            "text": "Phony scandals and Machiavellian plots aplenty at monthly Harbord ALP branch meeting. Join today!"
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1286246,
+          -33.8680187
+        ]
+      },
+      "properties": {
+        "name": "Five Dock Library",
+        "place_id": "ChIJnwTSV02lEmsRzogwv2jcR8E",
+        "address": "Level 1/4/12 Garfield St, Five Dock NSW 2046, Australia",
+        "suburb": "Five Dock",
+        "rating": 4.1,
+        "rating_count": 62,
+        "hours": {
+          "Monday": "9:30 AM – 7:30 PM",
+          "Tuesday": "9:30 AM – 7:30 PM",
+          "Wednesday": "9:30 AM – 7:30 PM",
+          "Thursday": "9:30 AM – 7:30 PM",
+          "Friday": "9:30 AM – 5:00 PM",
+          "Saturday": "9:30 AM – 4:00 PM",
+          "Sunday": "1:00 – 5:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Kim",
+            "rating": 5,
+            "text": "Very quiet being school holidays & was a very relaxing and very cool air conditioned place to be on this hot day. And the Librarian was a lovely, very friendly & approachable woman.\nAs it was quiet  she even quickly vacuumed - the other older staff could learn a thing or two from her."
+          },
+          {
+            "author": "shirin khashei",
+            "rating": 2,
+            "text": "I visited the library to study, but there was continuous repetitive noise from a child in the main area, which made it very hard to concentrate.\nI understand children are welcome, but there should be clearer quiet zones or better noise management for people who come here to work or study. Unfortunately, this disrupted my visit. I hope this can be improved."
+          },
+          {
+            "author": "David Seelaus",
+            "rating": 5,
+            "text": "Great selection of current and classic books for adults and children, PRC books, Book reservations are filled quickly and even extended if you can’t pick them up within a week from the order shelf.\nFor a workspace:\nquiet work area with WiFi and plugs, printer, helpful staff.\nBathroom facilities have been repaired after request.\nWiFi sometimes unstable, so bring a phone to hotspot from.\nYou can get lunch from nearby Coles or Restaurants."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1827781,
+          -33.8953388
+        ]
+      },
+      "properties": {
+        "name": "Newtown Library",
+        "place_id": "ChIJu4UTtTOwEmsRcld5yMZxPgM",
+        "address": "8-10 Brown St, Newtown NSW 2042, Australia",
+        "suburb": "Newtown",
+        "rating": 4,
+        "rating_count": 70,
+        "hours": {
+          "Monday": "10:00 AM – 6:00 PM",
+          "Tuesday": "10:00 AM – 6:00 PM",
+          "Wednesday": "10:00 AM – 6:00 PM",
+          "Thursday": "10:00 AM – 6:00 PM",
+          "Friday": "10:00 AM – 6:00 PM",
+          "Saturday": "10:00 AM – 4:00 PM",
+          "Sunday": "10:00 AM – 4:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Lauren Pierce",
+            "rating": 5,
+            "text": "Long time Newtown local, went for the first time today because I don’t have Microsoft apps on my computer (the programs are hundreds of dollars to buy, and I only needed them for a specific project!). The library is a beautiful space, open air, AC, surrounded by books, quiet, and respectful people! Used the computers (for free) that I needed, they had plenty so multiple were open. BEST part:\ntoday at the front they put on a free beading station! They welcomed everyone!!! So you could take a break from working (as I did), do some crafts (which let’s be honest, working adults hardly get to do), and end up with an awesome self made project !! All organised and put on by people who are super happy for you to be there and want you to interact  or do\nSomething non-stressful. 10/10 great workspace, great space to be i, and 12/10 librarians who really make an effort for community! Def will be visiting to support more!"
+          },
+          {
+            "author": "L",
+            "rating": 4,
+            "text": "Letro local small library in Newtown!\nYou can bring electric recycles too(bulbs, cables - only small size as the photo)"
+          },
+          {
+            "author": "Mo Alfares",
+            "rating": 5,
+            "text": "Great library with a wide selection of books and a quiet, cozy atmosphere. The staff is friendly and always ready to help. Perfect spot for reading or studying!"
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1651266,
+          -33.8938653
+        ]
+      },
+      "properties": {
+        "name": "Stanmore Library",
+        "place_id": "ChIJkY9KDT6wEmsRvORNUbRbbpw",
+        "address": "Douglas St, Stanmore NSW 2048, Australia",
+        "suburb": "Stanmore",
+        "rating": 4.6,
+        "rating_count": 25,
+        "hours": {
+          "Monday": "10:00 AM – 5:30 PM",
+          "Tuesday": "10:00 AM – 5:30 PM",
+          "Wednesday": "10:00 AM – 5:30 PM",
+          "Thursday": "12:00 – 7:30 PM",
+          "Friday": "10:00 AM – 5:30 PM",
+          "Saturday": "10:00 AM – 4:00 PM",
+          "Sunday": "Closed"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Tim Hanrahan",
+            "rating": 4,
+            "text": "Beautiful little nook that’s just around the corner from the station (but still quiet). Nice chairs to read, tables to study and the kids corner looks fun!"
+          },
+          {
+            "author": "Marina Younger",
+            "rating": 5,
+            "text": "Rediscovering the library was one of the best things, and this is a gorgeous one. It’s amazing how you can order your books online and are delivered from all the inner west library’s to pick up when they are ready in your queue. It has really got me back into reading and so grateful to be offered this brilliant resource of wonderful books.\n\nIt is a super convenient location surrounded by cute little coffee shops and right near the train station too.\n\nThe librarians are so lovely, it’s a real treasure in the heart of Stanmore. Highly recommend."
+          },
+          {
+            "author": "Natalie Hitoun",
+            "rating": 5,
+            "text": "Lovely local library with super helpful staff. A book  club meets there once a month."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1911436,
+          -33.8893511
+        ]
+      },
+      "properties": {
+        "name": "SciTech Library",
+        "place_id": "ChIJyTrrDNSxEmsRJIB-7YUYK9A",
+        "address": "Jane Foss Russell Building, 160 City Rd, Darlington NSW 2008, Australia",
+        "suburb": "Darlington",
+        "rating": 4,
+        "rating_count": 47,
+        "hours": {
+          "Monday": "9:00 AM – 9:00 PM",
+          "Tuesday": "9:00 AM – 9:00 PM",
+          "Wednesday": "9:00 AM – 9:00 PM",
+          "Thursday": "9:00 AM – 9:00 PM",
+          "Friday": "9:00 AM – 9:00 PM",
+          "Saturday": "10:00 AM – 2:00 PM",
+          "Sunday": "10:00 AM – 2:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "王建策",
+            "rating": 5,
+            "text": "The SciTech Library at the University of Sydney is one of my favourite places on campus. It provides a comfortable and modern study environment for students in science and technology disciplines. One of its most unique features is the sleep pods, which allow students to take short breaks or naps during long study sessions—a perfect spot to recharge before continuing work. Just upstairs, there is a Subway restaurant, making it easy to grab a quick meal or coffee without leaving the building.\n\nThe library is also well-equipped with printers and photocopiers, making document preparation and submission convenient. However, the computers can be a bit slow sometimes—it took nearly a full minute for me to log in during my last visit. Despite that minor inconvenience, the overall atmosphere is excellent: bright, quiet, and surrounded by large windows with views of the green campus outside.\n\nMany students gather here to collaborate or study independently, and the space feels both professional and welcoming. With its combination of study facilities, food options, and resting areas, the SciTech Library is truly an ideal place for learning, relaxing, and connecting with the university community."
+          },
+          {
+            "author": "WhiteWingsnBlueSkys",
+            "rating": 1,
+            "text": "Toilets are disgusting, NEVER clean, broken pipes/flushing, full of dirty stickers and graffiti, old sinks that look like for kindergarteners, UGLY colours, DEFINITELY not enough tables and seats, AND NOT enough outlets, terrible opening hours, this library should be 24hrs for students and its not because clearly staff and admin cant be bothered :/  hardly any books have been put online, the catelogue system is bad if you search for a chem textbook it gives you literally NOT what you want then they blame you for not being able to research when UNSW clearly doesn't have this problem and is able to show very clearly textbooks for course units or recommended texts. USYD is really failing its students, particularly its science, engineering, med, architecture, computer science... how can you have a library with all the important books be closed on weekends when people study AND  not open 24hrs."
+          },
+          {
+            "author": "Mark Richards",
+            "rating": 5,
+            "text": "Nice place to study for USYD and other students. Short walk from Redfern Station. More an Undergraduate students library compared to the Fisher. Can find space to chat, or space to study. Can occasionally be loud. Can get packed during exam period. Cool modern style to the interior. Spare rooms for different needs. You can book a desk, though usually people don’t bother, they just sit wherever. My second home"
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1784058,
+          -33.8887176
+        ]
+      },
+      "properties": {
+        "name": "Buddhist Library",
+        "place_id": "ChIJg8fe_S6wEmsRrlnw0axv3Zk",
+        "address": "90-92 Church St, Camperdown NSW 2050, Australia",
+        "suburb": "Camperdown",
+        "rating": 4.5,
+        "rating_count": 15,
+        "hours": {
+          "Monday": "Closed",
+          "Tuesday": "10:30 AM – 7:00 PM",
+          "Wednesday": "10:30 AM – 4:00 PM",
+          "Thursday": "10:30 AM – 4:00 PM",
+          "Friday": "Closed",
+          "Saturday": "Closed",
+          "Sunday": "Closed"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "stopp sumred",
+            "rating": 5,
+            "text": "Good place 😁 😃"
+          },
+          {
+            "author": "Baris Eroksuz",
+            "rating": 5,
+            "text": "Hi! I just saw your response to my review which appears to have been done 3 months ago where I gave 3 stars. Complete typo!! I love this place!\nI’ve been attending yoga on Saturdays and sanga on Wednesday nights. Couldn’t be happier. Glad I found this place!"
+          },
+          {
+            "author": "Mark Butler",
+            "rating": 5,
+            "text": "Great resource for the Buddhist community and also a decent venue to hire for community events. I did mindfulness course there and have since visited to browse the books. Friendly staff."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1828876,
+          -33.8953136
+        ]
+      },
+      "properties": {
+        "name": "The Women's Library",
+        "place_id": "ChIJu4UTtTOwEmsRXa2FzNBw8jw",
+        "address": "8-10 Brown St, Newtown NSW 2042, Australia",
+        "suburb": "Newtown",
+        "rating": 4.6,
+        "rating_count": 29,
+        "hours": {
+          "Monday": "Closed",
+          "Tuesday": "11:00 AM – 3:00 PM",
+          "Wednesday": "11:00 AM – 3:00 PM",
+          "Thursday": "11:00 AM – 3:00 PM",
+          "Friday": "Closed",
+          "Saturday": "12:00 – 4:00 PM",
+          "Sunday": "12:00 – 4:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "galina t",
+            "rating": 5,
+            "text": "What a gorgeous spot. I loved browsing through the collection of books and also the events calendar looks robust- looking fwd to trying out a book club w the library :) well done!!"
+          },
+          {
+            "author": "JSo Sydney Australia",
+            "rating": 5,
+            "text": "This is a really excellent resource. It’s a lovely space that is used by various women’s groups as well as a quiet place to read or study. The volunteers are lovely too!"
+          },
+          {
+            "author": "Sonia Tsai",
+            "rating": 5,
+            "text": "What a great spot! Highly recommend if youre in newtown. Staff is friendly and they had a good range of books."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.174004,
+          -33.8986678
+        ]
+      },
+      "properties": {
+        "name": "Street library",
+        "place_id": "ChIJR1Mx1mGxEmsRMGpf47KxxF4",
+        "address": "Phillip St, Newtown NSW 2042, Australia",
+        "suburb": "Newtown",
+        "rating": 3.5,
+        "rating_count": 4,
+        "hours": {},
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Dai Sabrina",
+            "rating": 1,
+            "text": "It’s just a box with lots of books, you can’t really sit down like real library, I guess that’s why it’s called street library, it’s more like street box with books"
+          },
+          {
+            "author": "Nika Desai",
+            "rating": 5,
+            "text": "wonderous place, filled with magic. I expereinse great joy when take books from it. I never give anyrhing back. I found a book about cat yoga there and my life has changed for the better. lots of love. i am literater."
+          },
+          {
+            "author": "Peter Mansfield",
+            "rating": 5,
+            "text": "A bit run down box but one of the most active street library's I've seen.  Always a good selection of classics, literary and popular fiction. If it's empty just cone back later and it won't be."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.185016,
+          -33.878038
+        ]
+      },
+      "properties": {
+        "name": "Glebe Library",
+        "place_id": "ChIJmea_ndSvEmsR6XLQ6Q7Bt6Q",
+        "address": "186 Glebe Point Rd, Glebe NSW 2037, Australia",
+        "suburb": "Glebe",
+        "rating": 4.3,
+        "rating_count": 91,
+        "hours": {
+          "Monday": "10:00 AM – 6:00 PM",
+          "Tuesday": "10:00 AM – 6:00 PM",
+          "Wednesday": "10:00 AM – 6:00 PM",
+          "Thursday": "10:00 AM – 6:00 PM",
+          "Friday": "10:00 AM – 6:00 PM",
+          "Saturday": "10:00 AM – 4:00 PM",
+          "Sunday": "10:00 AM – 4:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Vera",
+            "rating": 5,
+            "text": "The librarians there are really kind and friendly. The building may not be as modern or glamorous as its counterparts, but the people and atmosphere make it the best library to hang out and borrow books.\n\nShout out to the librarians on duty today!"
+          },
+          {
+            "author": "Georges Younes",
+            "rating": 5,
+            "text": "Libraries are an integral part of any and every community and neighborhood in all Sydney suburbs. Some libraries are nothing more than an afterthought, but not the Glebe Library. Its location in the centre of Glebe makes it a natural magnet for people who live in the area. It doesn't just have books, but also computers, copiers and a range of services for those who need to borrow a book or work on a document. The Glebe Library is also situated in a beautiful and leafy property that add to the charm of Glebe."
+          },
+          {
+            "author": "Souzan Aoun",
+            "rating": 5,
+            "text": "Glebe Library is such a peaceful and welcoming place. The staff are always friendly, helpful, and genuinely love what they do. The space is bright, quiet, and beautifully organized — perfect for reading, studying, or just relaxing with a good book."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.190693,
+          -33.88735
+        ]
+      },
+      "properties": {
+        "name": "Herbert Smith Freehills Law Library - The University of Sydney Library",
+        "place_id": "ChIJ223TUtSxEmsRRKB1OXiegsc",
+        "address": "Sydney Law School Eastern Avenue Camperdown NSW, Australia, Sydney NSW 2050, Australia",
+        "suburb": "Camperdown",
+        "rating": 4.3,
+        "rating_count": 21,
+        "hours": {
+          "Monday": "9:00 AM – 8:00 PM",
+          "Tuesday": "9:00 AM – 8:00 PM",
+          "Wednesday": "9:00 AM – 8:00 PM",
+          "Thursday": "9:00 AM – 8:00 PM",
+          "Friday": "9:00 AM – 8:00 PM",
+          "Saturday": "10:00 AM – 2:00 PM",
+          "Sunday": "10:00 AM – 2:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Kimberly Zhang",
+            "rating": 1,
+            "text": "Poorly managed. Bathrooms are always messy and disgusting. Staff (white/female) will take photos of random students studying in the library. Not enough seating to accomodate students"
+          },
+          {
+            "author": "Scarlett Zou",
+            "rating": 5,
+            "text": "One of my favourite libraries to study at. And opens 24 hours perfect for exam time!"
+          },
+          {
+            "author": "Nima Sotoudeh",
+            "rating": 5,
+            "text": "One of USYD's best libraries. Clean, spacious, quiet and a beautiful setting."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1671255,
+          -33.868522
+        ]
+      },
+      "properties": {
+        "name": "Street Library",
+        "place_id": "ChIJmVNaegCvEmsRb4Sjn8oQQ4E",
+        "address": "9 Cecily St, Lilyfield NSW 2040, Australia",
+        "suburb": "Lilyfield",
+        "rating": 5,
+        "rating_count": 1,
+        "hours": {},
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Laura Sharpe",
+            "rating": 5,
+            "text": "Nice full street library"
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1391824,
+          -33.8795886
+        ]
+      },
+      "properties": {
+        "name": "Haberfield Library",
+        "place_id": "ChIJg_fjOai6EmsRhvhq9Zj5Rio",
+        "address": "78 Dalhousie St, Haberfield NSW 2045, Australia",
+        "suburb": "Haberfield",
+        "rating": 4.4,
+        "rating_count": 21,
+        "hours": {
+          "Monday": "10:00 AM – 5:30 PM",
+          "Tuesday": "10:00 AM – 5:30 PM",
+          "Wednesday": "10:00 AM – 5:30 PM",
+          "Thursday": "12:00 – 7:30 PM",
+          "Friday": "10:00 AM – 5:30 PM",
+          "Saturday": "10:00 AM – 4:00 PM",
+          "Sunday": "Closed"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Sydney Playscapes",
+            "rating": 5,
+            "text": "We've had the pleasure of bringing our softplay setup and balloon backdrop on various occasions to the Community Center (Michael Maher room) which is directly connected to the library.\n\nThe space is beautiful and intimate, but I'd only call out the extreme parking challenges - there's absolutely no parking nearby unless you're lucky, so it was a bit of a mission for us to unload, set up, and load back at the end of the party.\n\nNevertheless, venue itself is nice and spacing is perfect for an intimate party or celebration!"
+          },
+          {
+            "author": "justyn conti",
+            "rating": 5,
+            "text": "Thanks to Kim and all the guys at haberfield library. They are all efficient knowlegable and professional in the way they handle customers and all friendly to boot. If your after a quiet relaxed afternoon this is the place to be. Thanks again  Justyn"
+          },
+          {
+            "author": "Kim Apted",
+            "rating": 5,
+            "text": "I visited with my 3 year old for Storytime. We sang songs and read books in a group. The kids had a good time! The library itself is small but very neat and tidy and quite spacious, with a nice little patch of grass for reading outdoors."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0998004,
+          -33.7032113
+        ]
+      },
+      "properties": {
+        "name": "Hornsby Central Library & Hornsby Shire Council Customer Service",
+        "place_id": "ChIJHV-DqoanEmsRSvKuAsKzfMs",
+        "address": "28-44 George St, Hornsby NSW 2077, Australia",
+        "suburb": "Hornsby",
+        "rating": 4.3,
+        "rating_count": 253,
+        "hours": {
+          "Monday": "10:00 AM – 9:00 PM",
+          "Tuesday": "10:00 AM – 9:00 PM",
+          "Wednesday": "10:00 AM – 9:00 PM",
+          "Thursday": "10:00 AM – 9:00 PM",
+          "Friday": "10:00 AM – 7:00 PM",
+          "Saturday": "9:30 AM – 5:00 PM",
+          "Sunday": "2:00 – 5:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "smitha ramchandran",
+            "rating": 1,
+            "text": "I’d like to give some feedback about my experience using the Justice of Peace service at Hornsby Library today.\n\nThis was our first time having a trust document certified. When we were called, we had not signed anything yet, as we were under the impression that only the four trust pages needed to be witnessed in front of the Justice of the Peace. However, we were informed that all pages needed to be certified.\n\nWhen asked for the original documents, we explained that the documents were from our account and that we had electronic copies and supporting emails as proof. We understood that electronic documents may not be accepted as valid originals, so we agreed to complete a statutory declaration instead.\n\nThe Justice of the Peace asked us to step outside the room to fill out the statutory declaration form so she could assist the two other people waiting. We complied and completed the form as requested.\n\nWhen we were called back in, the Justice of the Peace said, “Oh no.” I asked what had happened, and she responded that we had already signed the statutory declaration. What we fail to understand is that we still had additional documents to sign in her presence so she could properly witness each of us signing our respective forms, along with other documents that required her witnessing. Despite this, she informed us that she was unable to proceed.\n\nThis was very disappointing, particularly as we had been asked to leave the room to complete the form. If it was essential that the statutory declaration be signed strictly in her presence, it would have been helpful for this to be clearly communicated before we were asked to step outside.\n\nWe felt confused and discouraged by the experience and would appreciate clarification to help avoid similar situations in the future."
+          },
+          {
+            "author": "F",
+            "rating": 2,
+            "text": "Our local library closes at 5pm on Fridays. I came to this one afterwards. It had a big space and nice settings. Unfortunately, it was way too noisy. People were chatting in the library naturally without feeling any embarrassment. It’s a shame that such a nice library is ruined by people who use it. Somebody should teach those school kids manners in a public library. I love my local library, very quiet and cozy. I probably won’t come here again."
+          },
+          {
+            "author": "Charlie Adams",
+            "rating": 1,
+            "text": "I attended Hornsby Library on 1 February 2026 around 4:00 pm to use the Justice of the Peace (JP) service for an affidavit and annexure cover pages. Although the overall bundle was larger, only 15 pages required witnessing, which was within the stated 20-page limit. This related to my court matter against the NSW State: Charlie Armstrong Adams v State of New South Wales (2024/00399218).\n\nAfter initially being number 5, I was asked to step aside to accommodate others and waited as number 17. While waiting, a library staff member named Rhonda repeatedly discouraged me from remaining in the queue, citing the 20-page limit, despite not being a JP and not understanding that only annexure cover pages required certification.\n\nWhen number 17 was called, the JP declined to witness my documents, saying her service time had ended, even though other patrons were still waiting, there was no announcement that the JP service had finished, and the JP remained on site and appeared ready to continue assisting others. At that point, Rhonda again intervened, told the JP that I had “asked my question,” and urged me to leave, despite the fact that my documents had not been witnessed and I was properly queued. When I calmly requested the JP’s registration number so I could make a complaint, this was refused, and I was effectively blocked from obtaining the JP’s details. I remained calm and respectful throughout.\n\nThis is not the first time I’ve had this issue. I previously had a very similar situation at Hornsby Library involving library staff member Peter and JP Mr Yip, again connected to the same case. I also had an almost identical experience at Green Square Library, again linked to the same case. Because this pattern has occurred across multiple public libraries, I’m concerned about repeated obstruction of access to a JP service.\n\nI have now lodged a formal complaint with Hornsby Library / Hornsby Shire Council. I genuinely hope this is not connected to the fact that my litigation is against the NSW State, because public services should operate fairly and without bias, regardless of who a person is in dispute with. I would appreciate knowing how long complaints of this nature typically take to be addressed, and what steps are being taken to ensure the JP service operates fairly, transparently, and without staff interference."
+          }
+        ],
+        "has-wifi": "TRUE",
+        "has-outlets": "TRUE",
+        "has-toilets": "TRUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0966415,
+          -33.7003248
+        ]
+      },
+      "properties": {
+        "name": "TAFE NSW Hornsby Library",
+        "place_id": "ChIJQ6PsWoOnEmsRMYXRtBRdHTU",
+        "address": "Bldg A Level 1/205 Peats Ferry Rd, Hornsby NSW 2077, Australia",
+        "suburb": "Hornsby",
+        "rating": 4.2,
+        "rating_count": 6,
+        "hours": {
+          "Monday": "8:45 AM – 6:00 PM",
+          "Tuesday": "8:45 AM – 6:00 PM",
+          "Wednesday": "8:45 AM – 6:00 PM",
+          "Thursday": "8:45 AM – 6:00 PM",
+          "Friday": "8:45 AM – 4:15 PM",
+          "Saturday": "Closed",
+          "Sunday": "Closed"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Violah Tsikisai",
+            "rating": 1,
+            "text": "They dont allow people who are not from the Tafe even if your parent is a stuff member there."
+          },
+          {
+            "author": "James Todd",
+            "rating": 5,
+            "text": "Ah, I love going to that library during break time at TAFE."
+          },
+          {
+            "author": "Dorothy Velayo",
+            "rating": 5,
+            "text": "Staff is efficient."
+          }
+        ],
+        "has-wifi": "",
+        "has-outlets": "",
+        "has-toilets": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0721903,
+          -33.7374963
+        ]
+      },
+      "properties": {
+        "name": "Pennant Hills Library",
+        "place_id": "ChIJ18JyPuemEmsRMMqEr58wXqI",
+        "address": "Yarrara Rd, Pennant Hills NSW 2120, Australia",
+        "suburb": "Pennant Hills",
+        "rating": 4.2,
+        "rating_count": 89,
+        "hours": {
+          "Monday": "10:00 AM – 9:00 PM",
+          "Tuesday": "10:00 AM – 9:00 PM",
+          "Wednesday": "10:00 AM – 9:00 PM",
+          "Thursday": "10:00 AM – 9:00 PM",
+          "Friday": "10:00 AM – 5:00 PM",
+          "Saturday": "10:00 AM – 4:00 PM",
+          "Sunday": "2:00 – 5:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "V. J",
+            "rating": 5,
+            "text": "I was desperate for help for installing a DVD Player software on my laptop. Jean, one of Liberians accepted to help me.\n🩵🌹🌼🌸🍃🕊️💐🌺🦋🌷💞💚\nJean was absolutely fantastic in doing so, she was patient, skilled, and incredibly kind in helping me to get the library’s DVD player working on my laptop. Her support made all the difference, and I truly hope she continues to be a part of this library. We’re so lucky to have her.\nJean deserves all the stars! ⭐⭐⭐⭐⭐🕊️"
+          },
+          {
+            "author": "Nam L",
+            "rating": 1,
+            "text": "A warning about the parking here. Near the playground is a row of white outlined spots that's Council Parking Only, 8-6p, 7 days/week.\n\nIt can be difficult to spot, but there was a man giving people tickets even on a Sunday that I was here."
+          },
+          {
+            "author": "C G",
+            "rating": 3,
+            "text": "This place is fantastic - the staff are great and the book options are wonderful, with good study space and a car park (although it does newly have several spaces for the council - I'm here at 11am on a Monday and there is one car in them, but the rest of the car park is full).\n\nMy main issue at the library here is that teenagers use the study areas as a social hang out space - not just to chat, but to full on socialise. The staff don't do walk arounds so the environment is very loud, especially with the kids area at the other end of the room - this is not a library for peace and quiet, for reading, or for working, which for me defeats the purpose of it being a library. It's a shame because otherwise it's brilliant! If the staff enforced the sign of 'Quiet Study Area' then perhaps we could do some study! I have written to the library before and they have apologised and said they will work on this. But as of right now I'm surrounded by 10 teenagers and am about to have to leave because it's unworkable. Strange and annoying...!"
+          }
+        ],
+        "has-wifi": "",
+        "has-outlets": "",
+        "has-toilets": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1272736,
+          -33.7320862
+        ]
+      },
+      "properties": {
+        "name": "Turramurra Library",
+        "place_id": "ChIJp54c4cSnEmsRJveB_OKdgCw",
+        "address": "5 Ray St, Turramurra NSW 2074, Australia",
+        "suburb": "Turramurra",
+        "rating": 3.8,
+        "rating_count": 44,
+        "hours": {
+          "Monday": "9:30 AM – 5:00 PM",
+          "Tuesday": "9:30 AM – 5:00 PM",
+          "Wednesday": "9:30 AM – 5:00 PM",
+          "Thursday": "9:30 AM – 5:00 PM",
+          "Friday": "9:30 AM – 5:00 PM",
+          "Saturday": "9:30 AM – 5:00 PM",
+          "Sunday": "Closed"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Jocelyn Holmes",
+            "rating": 5,
+            "text": "Wonderful having this resource in Turramurra. Very friendly helpful staff. If an item is not in the shelf they can usually source it within a few days."
+          },
+          {
+            "author": "Nicholas Yan",
+            "rating": 2,
+            "text": "very cozy, but quite loudewith libarians chatting and babies crying. im trying to do my homework!"
+          },
+          {
+            "author": "Miki Clarke",
+            "rating": 4,
+            "text": "Small but conveniently located next to Turramurra train station, a Coles and Chemist Warehouse so you can do many things in one stop. It's great how you can reserve items from across the council network of librraries and the kids section is very large, occupying a quarter of the whole building."
+          }
+        ],
+        "has-wifi": "",
+        "has-outlets": "",
+        "has-toilets": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1011728,
+          -33.9642597
+        ]
+      },
+      "properties": {
+        "name": "Hurstville Library",
+        "place_id": "ChIJQ4oIc6K5EmsR3rVT7c8F6dM",
+        "address": "Corner Dora Street and, Queens Rd, Hurstville NSW 2220, Australia",
+        "suburb": "Hurstville",
+        "rating": 3.9,
+        "rating_count": 255,
+        "hours": {
+          "Monday": "9:00 AM – 8:00 PM",
+          "Tuesday": "9:00 AM – 8:00 PM",
+          "Wednesday": "9:00 AM – 8:00 PM",
+          "Thursday": "9:00 AM – 8:00 PM",
+          "Friday": "9:00 AM – 8:00 PM",
+          "Saturday": "10:00 AM – 5:00 PM",
+          "Sunday": "10:00 AM – 5:00 PM"
+        },
+        "summary": "",
+        "reviews": [
+          {
+            "author": "Little Miss Library Lover",
+            "rating": 5,
+            "text": "Good location as it is closed to the train station.\nMany desks to read or study. There is an interesting space as called ‘Media Lab’ which I have not seen in other public libraries in Sydney so far.\nHuge selections of Chinese books\n\nOnly the female restroom was a bit stinky😅"
+          },
+          {
+            "author": "Paras Bhujel",
+            "rating": 1,
+            "text": "What exactly was renovated? It still feels like the worst library. There are fewer computers, and many students are just playing games on them. It’s extremely crowded and noisy — more like a school classroom than a library. It often feels like a social hangout, dating spot, or friendship zone rather than a quiet place for students who actually want to study."
+          },
+          {
+            "author": "Danny Fan",
+            "rating": 5,
+            "text": "Hurstville Library is very charming peaceful place which I been there before with my socials group & myself to read some good books which I enjoy reading the most to learn about what there are describing the action of Star Wars. The functionality of this place is very good to see so much spaces for people to move around to look for books or doing their studies. Kids play area is really nice for them to play with toys to keep them active while not getting them bored. Overall outlook I did like the library very friendly staff saying hello to our socials group. Not much parking outside to look out for while finding parking spots. Good to relax enjoy your day while it last at the library"
+          }
+        ],
+        "has-wifi": "",
+        "has-outlets": "",
+        "has-toilets": ""
+      }
+    }
+  ]
+}

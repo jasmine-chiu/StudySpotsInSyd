@@ -1,0 +1,3442 @@
+[
+  {
+    "place_id": "ChIJuyipg-mxEmsRV2r6D-d1kfI",
+    "name": "Oliver Brown",
+    "address": "Ground Floor, East Village, 4 Defries Ave, Zetland NSW 2017, Australia",
+    "lat": -33.9051027,
+    "lng": 151.2125966,
+    "formatted_address": "Ground Floor, East Village, 4 Defries Ave, Zetland NSW 2017, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.9051027,
+        "lng": 151.2125966
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.9039762697085,
+          "lng": 151.2138172802915
+        },
+        "southwest": {
+          "lat": -33.90667423029149,
+          "lng": 151.2111193197085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Saturday: 7:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Sunday: 7:30\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      ]
+    },
+    "rating": 3.6,
+    "reviews": [
+      {
+        "author_name": "Paola Bistre",
+        "author_url": "https://www.google.com/maps/contrib/109577181644416515409/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXI4xFuqYp20gK_Em44aaz3VcKYHutahzjT1SYphUMi_7_nzz4o=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "This place is great, the hot chocolate especially is fantastic. Everything I\u2019ve tried so far has been delicious and the staff is super friendly.",
+        "time": 1771640526,
+        "translated": false
+      },
+      {
+        "author_name": "Mark Butler",
+        "author_url": "https://www.google.com/maps/contrib/116744543504541840451/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcaTColakDWRrFZsYqZXnLDFojmNDV1YpzHUe0whzvKkUbF5UHKw=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Great mochas and hot chocolates with proper Belgian chocolate. Nice desserts like waffles as well. Iced drinks are great for a hot day with fruit crushes from $8.50 and milkshakes $7.50 but a lot more for the special ones like Iced Choc Mojito for $12. So, on the expensive side but consistently decent quality. Many tables inside and a few outside.",
+        "time": 1759441952,
+        "translated": false
+      },
+      {
+        "author_name": "Moguchee Moguchee",
+        "author_url": "https://www.google.com/maps/contrib/108262481273881435148/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJKUYY2pmP8PqylRDvzs5i74y4dOouWrB46rDBzF7SAyYSRxA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Is great place to have chocolate desserts! The churros were soft and fluffy with two choice of chocolate fondues. The waffles were thick and filling- it was topped with fresh strawberries and banana! The chocolate fondue here were smooth and rich! I liked it a lot!",
+        "time": 1716861650,
+        "translated": false
+      },
+      {
+        "author_name": "Talha Farooqi",
+        "author_url": "https://www.google.com/maps/contrib/106448604494378829926/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIF9apsOB7KRR1gaDQRDDVUWeAWM8rF2o_xiBEMiKsykS_3VQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Absolutely loved my breakfast here. The sourdough with eggs and mushrooms was full of flavour and the mocha was perfect \u2013 not too sweet, just right. Good atmosphere and plenty of seating. Will definitely return.",
+        "time": 1760496553,
+        "translated": false
+      },
+      {
+        "author_name": "Ayush Peswani",
+        "author_url": "https://www.google.com/maps/contrib/104846056929877382916/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUdfDrmJeJrF1tgDiYS5dQa18gNfsUMcnDa2xjWcY76KC5tw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Since coming under new management, Oliver Brown Zetland has really improved! The food and service are excellent \u2014 it\u2019s now my go-to spot for coffee and breakfast. The atmosphere is warm and welcoming, and you can tell the team really cares. Highly recommend!",
+        "time": 1760489713,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 400
+  },
+  {
+    "place_id": "ChIJsQNayemuEmsRbqOKWjg9JAs",
+    "name": "Oliver Brown",
+    "address": "3/34-48 Alexander St, Crows Nest NSW 2065, Australia",
+    "lat": -33.8268786,
+    "lng": 151.2017199,
+    "formatted_address": "3/34-48 Alexander St, Crows Nest NSW 2065, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.8268786,
+        "lng": 151.2017199
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.82548626970849,
+          "lng": 151.2031338302915
+        },
+        "southwest": {
+          "lat": -33.82818423029149,
+          "lng": 151.2004358697085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Tuesday: 7:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Wednesday: 7:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Thursday: 7:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Friday: 7:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Saturday: 7:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Sunday: 7:00\u202fAM\u2009\u2013\u20099:30\u202fPM"
+      ]
+    },
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Danny Metin",
+        "author_url": "https://www.google.com/maps/contrib/100488131616634947544/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjDInMPEN2bSaublI02jWyFtQ5nqu5dntsXvvTaHNEmU_fGQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "6 months ago",
+        "text": "Atmosph\u00e8re is nice. If your looking for an average coffee shop it's right here. Latte was nice, mocca was so sweet with extra milk chocolate spread dripped on top. The croissant was cut in half! Interesting, maybe it had been prepared earlier with another intent. The taste was very plain like the one you buy from a supermarket The service was nice.",
+        "time": 1762296809,
+        "translated": false
+      },
+      {
+        "author_name": "Rachael Ouyang",
+        "author_url": "https://www.google.com/maps/contrib/115148035485544854646/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXc2B-7fR7luGwzqGBS-ZXTMgFpcEXh2YVlWXafARqoEjY7_T6uJQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "4 months ago",
+        "text": "TLDR: incredibly rude, atrocious, unfair behaviour from a potentially racist owner. Will not be coming here again.\n\nI paid $40 for lunch and a drink, and came here to study with my friend for a few hours (as other customers were similarly doing).\nIt started when I came back from a mini study break and my friend told me that the owner had come to her and told her rudely \"you can only stay here for 1 hour, you should leave.\"\n\nI was a shocked by this (given that others were doing the same thing) so went to have a calm conversation with the owner to clarify the situation. He was immediately defensive and agitated at the start, claiming that we were taking up space and costing him profit from more patrons. I asked how this was the case when up till now, the place had been half empty, and thus we weren't taking up space from any incoming patrons (and that obviously if we saw that the place was full, out of common courtesy we would've left). He said that we were in a \"premium spot\" and I said that well if we moved to a \"non-premium spot\" and there were many tables available (as there were now) then he should explain the logic behind telling us to leave, to which he stood there unable to answer. He then tried evading that question (because in fact he didn't have a plausible answer) to which I called him out on. He said he didn't want to answer.\n\nI then said that we'd never experienced anything like this, even at another Oliver Brown, and thus I acknowledged that this must be how he chooses to do things at his establishment, rudely and without clear explanation or logic.\n\nThe next thing I mentioned was how he only told us (two young Asian women) to leave. I stated how other patrons, including the two right next to us (notably white men), had been at the cafe for a similar amount of time (2.5h) yet he hadn't told them to leave, only us. I highlighted the unfairness of this, given that we had also at least paid for drinks (again I had spent a whopping $40), and that if this was some consistent rule, it should be made clear to patrons and apply to everyone.\n\nThe images attached show how the place clearly had many available tables the entire time, and how we weren't the only people choosing to stay there to do personal work with their laptops.\n\nThis was an atrocious experience from an incredibly rude, unfair, and potentially racist owner. We will not be coming back here.",
+        "time": 1769409106,
+        "translated": false
+      },
+      {
+        "author_name": "Masaki Kawakami",
+        "author_url": "https://www.google.com/maps/contrib/117518435393618614511/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU16rZtYrbvAtRXweKrDX5OsSeNRjJvkS1cztwmSpsnN7T8W8k=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "6 months ago",
+        "text": "Visited Oliver Brown and tried their matcha latte, and it really hit the spot.\nThe matcha flavor was rich but not overpowering, with a creamy finish and just the right sweetness. The presentation was clean and inviting, and the staff were kind and attentive. Even though Oliver Brown is known for its chocolate drinks, the matcha latte was an excellent surprise \u2014 refreshing and comforting at the same time. Great spot to sit, relax, and enjoy a warm drink in Sydney.",
+        "time": 1762664236,
+        "translated": false
+      },
+      {
+        "author_name": "J Fong",
+        "author_url": "https://www.google.com/maps/contrib/113460274842337244592/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-oiFBFfwFd6YXYAFj0HLYW7F5_OYqTyiCfnfLNfI8WJmQXA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "9 months ago",
+        "text": "I have been here a couple of times for coffee as i find that they serve really decent coffee. It has been consistently smooth, fragrant and rich in flavour but not overwhelming. Love the chocolate nibs that come with the coffee.\n\nMy rating is for the coffee there as I have enjoyed each time I have been there. Havent tried their food or treats yet. Other highlights:\n- Located in the same building as Woolworths Crows Nest, there is multi-level parking available in the same building.\n- It is accesible as it is a short walking distance with public transport, bus or Metro (Crows Nest station).\n- There is indoor and outdoor seating, which makes it easy for anyone who would like to enjoy coffee, chocolate or other treats while having their pets.\n- They accept both cash and card.\n- When an order is placed, there is table service to deliver your order when it is ready.\n- There is complementary water with a water tap and cups available near the counter.\n- They have food, treats and other drink choices available.\n\nEven on a wet and rainy day, it is a good spot to just enjoy a cuppa.",
+        "time": 1754751306,
+        "translated": false
+      },
+      {
+        "author_name": "Julia Brocker",
+        "author_url": "https://www.google.com/maps/contrib/104747522408997156133/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVH3xZ-DXbDMN7oQ1N9O75I63UuyC21xw4hh54-ar7qf3wZEIM=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "The best Belgium Chocolate Cafe in Australia!! It's impossible not to love this amazing and delicious place. Best service and dessert! Best staff, so fast, professional and, the most important, extremely friends. The souffl\u00e9 is just perfect, like a dream. Love the waffle with Belgium chocolate on top and ice cream too. JUST COME HERE, guys. It\u2019s 5 billion times yammy \ud83d\ude09 my favorite!!",
+        "time": 1763746614,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 497
+  },
+  {
+    "place_id": "ChIJzQYX7OqwEmsRQ1IRj-dHSO4",
+    "name": "Oliver Brown",
+    "address": "19/19-33 Kent Rd, Mascot NSW 2020, Australia",
+    "lat": -33.9228557,
+    "lng": 151.1853524,
+    "formatted_address": "19/19-33 Kent Rd, Mascot NSW 2020, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.9228557,
+        "lng": 151.1853524
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.9215544197085,
+          "lng": 151.1866593302915
+        },
+        "southwest": {
+          "lat": -33.9242523802915,
+          "lng": 151.1839613697085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 6:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 6:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 6:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 6:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Saturday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Sunday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      ]
+    },
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Joy Seko",
+        "author_url": "https://www.google.com/maps/contrib/106281550974567625783/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjuBdNeWIw8fOQhGovl3JseTWn3vZ8jefr2ezLT4vYfT3heZvW=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "I had an extremely bad experience at the Oliver Brown Mascot branch on 14 February 2026.\n\nI ordered 2 waffles, 1 large latte, and 1 regular hot chocolate. Initially, I wanted to pay by cash, but the cashier informed me they had no change and asked me to pay by card (with a surcharge). I understood and proceeded with card payment.\n\nAfter placing my order, I sat outside to wait. However, one of the staff members approached me twice asking if I had ordered. I explained both times that I was still waiting.\n\nWhen my order finally arrived, the latte was presented in a very messy condition and was not hot, it was already lukewarm. The staff member simply said sorry about that and that\u2019s all.\n\nAdditionally, the waffles were overly sweet, I could actually taste large amounts of sugar inside them.\n\nI have never had an experience like this before. Overall, it was very poor service.",
+        "time": 1771035425,
+        "translated": false
+      },
+      {
+        "author_name": "SW",
+        "author_url": "https://www.google.com/maps/contrib/110462241717369112818/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIbQ4TEFFmLkSMrn5uHys8DcZPNoNPmjfHeL9ujGIFta-adXQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Food is good and portion is just nice for us. I got Flat White in my thermos. The atmosphere in Etherden Walk here is awesome, breezy with many greens! Great place to have your meal.",
+        "time": 1763433185,
+        "translated": false
+      },
+      {
+        "author_name": "Ls Chan",
+        "author_url": "https://www.google.com/maps/contrib/100546914936618507758/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIsalkDUBZpoybHkwXqPI2CWbyk3KLt0xpit6ihJ1CwPrj15YB=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Nice Cafe serving all day coffee in Mascot, Sydney. Breakfast here in Oliver Brown is great - good coffee paired with their pastries. It gets pretty busy in the morning thus may need to wait a little longer for your food. The chorizo croissant is a pleasant surprise- tasty and spicy too \ud83d\udc4d",
+        "time": 1762022781,
+        "translated": false
+      },
+      {
+        "author_name": "R",
+        "author_url": "https://www.google.com/maps/contrib/114931972053627497108/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpNF8tBEHmb3pDQWD7wSZuJjyeo7vrk4c2m03BEnddlGxpdTNtAg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Great coffee and great service! Oliver Brown never disappoints \u2014 the coffee is consistently smooth and rich, and the staff are always friendly and quick. The atmosphere is cozy, perfect for relaxing or catching up with friends. Highly recommend if you want quality coffee and a nice place to unwind!",
+        "time": 1764494473,
+        "translated": false
+      },
+      {
+        "author_name": "Frans du Plessis",
+        "author_url": "https://www.google.com/maps/contrib/101500282202983252667/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTTALBK0mvA7J9zTOkDffkpDzxEAxEdOOOgqOl1iu04FJCptLVEg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "Oliver Brown \u2013 Mascot, NSW\n\nWhat a pleasant surprise! This was my first time staying in Mascot and since our hotel didn\u2019t provide breakfast, I ventured to Oliver Brown both mornings.\n\nThe coffee was excellent \u2013 smooth and consistent. On my first visit, I enjoyed a simple cheese bagel with coffee, and on the second morning, I went for the full breakfast. It was honestly one of the best I\u2019ve had \u2013 hot, tasty, beautifully presented, and clearly prepared with care and quality ingredients.\n\nThe area itself has more of an Asian feel, with plenty of shops and variety around, but the real gem was definitely Oliver Brown. A warm, inviting spot with great food and coffee \u2013 highly recommended if you\u2019re in Mascot!",
+        "time": 1755392403,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 608
+  },
+  {
+    "place_id": "ChIJbzuTR9elEmsRRwSgyjQKWno",
+    "name": "Oliver Brown",
+    "address": "Shop 2/3 Olympic Blvd, Sydney Olympic Park NSW 2127, Australia",
+    "lat": -33.8519611,
+    "lng": 151.0702578,
+    "formatted_address": "Shop 2/3 Olympic Blvd, Sydney Olympic Park NSW 2127, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.8519611,
+        "lng": 151.0702578
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.8506710697085,
+          "lng": 151.0714965802915
+        },
+        "southwest": {
+          "lat": -33.8533690302915,
+          "lng": 151.0687986197085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+      ]
+    },
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Khaliun Tsog-Ochir",
+        "author_url": "https://www.google.com/maps/contrib/105951485190070334153/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUVpb2KeDsRF2Ead0_qbSEYHmnldESNRBhqNnPdYNrfng6yA84=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "11 months ago",
+        "text": "I ordered the big breakfast, but it was a complete letdown. The sausage was tiny \u2014 definitely not what you\u2019d expect from something called a \u201cbig\u201d breakfast \u2014 and there was no bacon at all. I asked the waiter to remake it, but he never brought anything back or even followed up. On top of that, the chicken pesto pasta I ordered tasted awful \u2014 completely bland and unpleasant. Later, I checked Google reviews and photos, and honestly, what I received looked nothing like what was shown. This place is very misleading, and the food quality was far below average. Definitely wouldn\u2019t recommend.",
+        "time": 1750561808,
+        "translated": false
+      },
+      {
+        "author_name": "J",
+        "author_url": "https://www.google.com/maps/contrib/109373707409823350503/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUV-k349x3cl3ru6eR84p40AvLg0qJIQFX-IcEBa7T2tk6_LS6R=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "12 months ago",
+        "text": "Good interiors. Huge space with lots of available seats for a big group like ours. Kitchen closes at 5 MWF, which was a shame cos we were keen to try their all-day breakfast, but there were still sandwiches, crepes, and waffles to choose from. Service is really accommodating and friendly",
+        "time": 1749034766,
+        "translated": false
+      },
+      {
+        "author_name": "Social Yhel",
+        "author_url": "https://www.google.com/maps/contrib/109217090992702652295/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOesfyfPGbP_0JaJx5SPFiy8tCR57Wl73WgNnlpAtAclOU1SA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "8 months ago",
+        "text": "I\u2019ve been a fan of Oliver Brown, especially this branch. I usually come in on weekends and also order online. Today, I placed an order through Uber and got my usual Iced Coffee. However, when it arrived, it didn\u2019t have the ice cream on my ice coffee that I really enjoy. I\u2019m very disappointed. Although I received a refund through Uber, I still want to leave this review because it\u2019s frustrating when my order is missing its taste.",
+        "time": 1757636534,
+        "translated": false
+      },
+      {
+        "author_name": "Suraj Sharma",
+        "author_url": "https://www.google.com/maps/contrib/104317699696558261667/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSHWGliZg07131NsxFL7Tv4Cmb2jEQK9oR1o18Z7mYDkFbuRaL=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "I\u2019ve visited Oliver Brown a few times now, and it\u2019s always such a great experience! The coffee is excellent, desserts are amazing, and the atmosphere is super cozy. The staff are really friendly and welcoming. Definitely one of my favourite cafes to relax or catch up with friends!",
+        "time": 1761647576,
+        "translated": false
+      },
+      {
+        "author_name": "Agnes Marrapodi",
+        "author_url": "https://www.google.com/maps/contrib/114813125952082526380/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX24r6p8c6pqDwwMUiOnGGNHcoFYWpVhxVHi00KDDfSahoKq1WNnQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 2,
+        "relative_time_description": "3 months ago",
+        "text": "It was our first time here and what a disappointment! The service could be better. We were served with sour faced and did not get what we ordered. Coffee was not what I ordered and also I asked for a vegetarian breakfast but was given Mediterranean instead.  I don't think we'll be back.",
+        "time": 1772320555,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 522
+  },
+  {
+    "place_id": "ChIJWb4BKaGfEmsR1eqO8y2VJRU",
+    "name": "Oliver Brown",
+    "address": "Ground Floor, Rouse Hill Town Centre, Cnr Windsor Rd &, White Hart Dr, Rouse Hill NSW 2155, Australia",
+    "lat": -33.6913263,
+    "lng": 150.9252724,
+    "formatted_address": "Ground Floor, Rouse Hill Town Centre, Cnr Windsor Rd &, White Hart Dr, Rouse Hill NSW 2155, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.6913263,
+        "lng": 150.9252724
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.6900996197085,
+          "lng": 150.9263529802915
+        },
+        "southwest": {
+          "lat": -33.6927975802915,
+          "lng": 150.9236550197085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 8:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 8:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Saturday: 8:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Sunday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      ]
+    },
+    "rating": 3.5,
+    "reviews": [
+      {
+        "author_name": "Cherry Yip (#SydneyObento)",
+        "author_url": "https://www.google.com/maps/contrib/101129916615558777618/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVIKJY2pjPgS6X7j-7sBD4492lEo0tONOuGJKrNJW3fRbDl1QF0=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 2,
+        "relative_time_description": "3 months ago",
+        "text": "On Sundays it looks like management not here but just a few young kids working there to get pocket money , chilling behind the counter and not coming out to wipe tables and benches despite having about 4 of them there and the drink station has spilled water that wasn\u2019t wiped.\n\nI ordered Latte -  very diluted taste but appearance was instagrammable\n\nthe rest of us ordered Cappuccino and was told it tasted ok.\n\nDon\u2019t think I\u2019ll come back again",
+        "time": 1772442054,
+        "translated": false
+      },
+      {
+        "author_name": "arshia dashtian",
+        "author_url": "https://www.google.com/maps/contrib/116551637406593859818/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJEFxuj7i0FOK0Mg_JGETkVzBtGJOvGxti7gxWi3QqrwxaR5A=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "This is the worst place I ever been .\nPeople that work there they really rude and not friendly. I ordered an iced white chocolate\nThey bring me iced chocolate and say you didn\u2019t mention that and they act really rude I ordered another one and they didn\u2019t even bring it to us and said takeaway . That is so disrespectful.",
+        "time": 1772102214,
+        "translated": false
+      },
+      {
+        "author_name": "Sanind Shaikh",
+        "author_url": "https://www.google.com/maps/contrib/111912252558055311418/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrqhRwpsfArzUpCtmK9CjZb6_GGaR_ssri5EKsTmOTPw85Bwaj1Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Oliver Brown Rouse Hill is our absolute go-to breakfast spot as a family! My kids and I love coming here \u2014 the waffles and pancakes are always amazing, fresh, and perfectly made. The atmosphere is warm and welcoming, making it the perfect place to start our mornings together.\n\nA special mention to Louis, who always provides such friendly and attentive service. He makes the experience even better every time we visit.\n\nHighly recommend Oliver Brown Rouse Hill for anyone looking for a delicious breakfast and great service. It\u2019s become a favourite for our whole family!\n\n---\n\nWould you like me to make it a bit shorter and more casual (like a quick Google review), or keep this slightly detailed version for a stronger impact?",
+        "time": 1759623855,
+        "translated": false
+      },
+      {
+        "author_name": "Anoop Nair",
+        "author_url": "https://www.google.com/maps/contrib/104028718918298701361/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV97m7noTeN7nFUVkj0am0RoorWUePj2YDIJhLVJta3pIg3MpjbtA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "4 months ago",
+        "text": "Customer service out of the window from the young lady served me. I pointed at the macarons for my young daughter and told the lady and pink and blue macarons and she said, she can\u2019t see asked me to say it, rudely. (Receipt has OB / TA initials)\n\nA little bit of pleasant attitude won\u2019t ruin a customer\u2019s day.",
+        "time": 1769314812,
+        "translated": false
+      },
+      {
+        "author_name": "Vaidehi Patel-Velhal",
+        "author_url": "https://www.google.com/maps/contrib/115178115848615369743/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJRPzmen3806Ly3BHGbf7ppfdZ2pAQp-mRhsoj90qjcBRAd60=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "After waiting for 30 minutes for 1 small dish, I went to ask at the counter, they just tried to hand me the dish there as it was ready. I Just said well can u plz serve it at the table with some cutlery plz. The lady rolled her eyes and sighed and hurriedly came and left the dish on the corner of our table. I said what about the cutlery, she just turned around and left. I went back again to the counter and asked for cutlery and someone gave it to me. Staff here are sad looking, angry frowns on faces and don\u2019t seem to care at all. No smiles, no cheer and definitely no knowledge of customer service to see a returning customer.",
+        "time": 1766894907,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1007
+  },
+  {
+    "place_id": "ChIJ1RZ2f9i6EmsRpwyt5p1jXwo",
+    "name": "Oliver Brown",
+    "address": "Shop 32/11 The Boulevarde, Strathfield NSW 2135, Australia",
+    "lat": -33.87260270000001,
+    "lng": 151.0934858,
+    "formatted_address": "Shop 32/11 The Boulevarde, Strathfield NSW 2135, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.87260270000001,
+        "lng": 151.0934858
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.8714917197085,
+          "lng": 151.0951862302915
+        },
+        "southwest": {
+          "lat": -33.8741896802915,
+          "lng": 151.0924882697085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Tuesday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Wednesday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Saturday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Sunday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      ]
+    },
+    "rating": 3.6,
+    "reviews": [
+      {
+        "author_name": "Nikhil Nayak",
+        "author_url": "https://www.google.com/maps/contrib/116645406434373266848/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVICNjZGtds-HDrnlNObweIpD8PtljmaBPpHBFwKBd6qD3whgwC_Q=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "A Heavenly Dessert Experience at Oliver Brown!\nI recently had one of the best hot chocolates of my life at a spot in Strathfield Mall, and their Tiramisu? Absolutely divine! It just melts in your mouth\u2014I'd describe it as a truly out-of-body experience.\nThey offer an amazing selection, including fantastic cheesecakes, rich mud cakes, a variety of chocolates, and delicious cookies. You can also find a good range of soft drinks, coffee, and thick shakes.\nThe staff is incredibly friendly and welcoming, and I love that they have both indoor and outdoor dining options. You'll find it easily inside Strathfield Mall, on your left as soon as you walk in. Seriously, give it a try; you won't regret it! \u2764\ufe0f",
+        "time": 1753512895,
+        "translated": false
+      },
+      {
+        "author_name": "Craig Dunkan",
+        "author_url": "https://www.google.com/maps/contrib/110745674590228679006/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6ikSRkW2OI7bzh4NMKkxFxuXCM0FgZLkCEgYIPciAg6kh4Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 months ago",
+        "text": "I\u2019m not sure if the female staff (dark skin, thick accent) was having a bad day, but that doesn\u2019t excuse being rude to customers. don\u2019t react negatively or funny when a customer places an order due to a lack of attention on your side, that interaction felt unnecessary and disrespectful. and don't need to have annoyed face at all.\n\nThe order itself (a strawberry matcha cloud) was not complicated, and the situation could have been handled much more politely.\ud83d\udc4c",
+        "time": 1769247518,
+        "translated": false
+      },
+      {
+        "author_name": "Mostafa Ghorbani Koli",
+        "author_url": "https://www.google.com/maps/contrib/100765166871924874404/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmmB_Yaz-DCxvs_hnvO4cC5R3AH69i1V4BGnNE4TJZRZ1QfUm_=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "6 months ago",
+        "text": "I bought Macha shake with strawberry flour the waiter recommend to me she told this most popular Macha I think she doesn\u2019t know what does mean most popular!%70 of shake was iced and the Macha shake picture miss represents shake I never recommend this for no one",
+        "time": 1763366351,
+        "translated": false
+      },
+      {
+        "author_name": "Ruben",
+        "author_url": "https://www.google.com/maps/contrib/114482236208828970193/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7Yv02gj8bGVMDmX7QkS65eMKhe2cB3grLMj9Tx8JmuDdXI2B_kQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 2,
+        "relative_time_description": "9 months ago",
+        "text": "First time visiting and probably my last, sadly. The staff were really friendly which I appreciated, but the pistachio churros were a mess\u2014burnt on the outside, doughy on the inside, barely any pistachio mix, and weirdly, no cinnamon sugar. We asked for some and got handed plain white sugar instead?? Not sure what went wrong but it felt like a very off day in the kitchen. Was hoping for a cute dessert moment and left kinda disappointed.",
+        "time": 1754647847,
+        "translated": false
+      },
+      {
+        "author_name": "Normandy C Jr",
+        "author_url": "https://www.google.com/maps/contrib/104860805950335678777/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5HwbiMMeJDcDxYI75YL8ffFZP3ol3CH42qr2s2-SFG_hTjqvo=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 2,
+        "relative_time_description": "7 months ago",
+        "text": "I don't usually like to give scathing reviews but I went to Oliver Brown Strathfield late at night.  Ordered a caffe latte but was served what resembled a weak milky hot chocolate.  Not sure if the staff were distracted because it was nearing closing time or got my order mixed up but it was disappointing. Hoping to get a better coffee next time I visit Oliver Brown.",
+        "time": 1762099790,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 713
+  },
+  {
+    "place_id": "ChIJv9Qcztq6EmsRUK2Yq5wCLDA",
+    "name": "Oliver Brown Burwod Westfield",
+    "address": "100 Burwood Rd, Burwood NSW 2134, Australia",
+    "lat": -33.8748474,
+    "lng": 151.1048614,
+    "formatted_address": "100 Burwood Rd, Burwood NSW 2134, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.8748474,
+        "lng": 151.1048614
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.8732893697085,
+          "lng": 151.1060037802915
+        },
+        "southwest": {
+          "lat": -33.8759873302915,
+          "lng": 151.1033058197085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Saturday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Sunday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      ]
+    },
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Shaikh Razik",
+        "author_url": "https://www.google.com/maps/contrib/111118854426197822936/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV2cv9RQDxH1zWvVzVk6_NzsvwSD6YFSs-yX06DvgFbZ_BZ5KQLdA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "\u2b50\u2b50\u2b50\u2b50\u2b50\n\nHuge shoutout to Jessica for going above and beyond to make this online birthday delivery so special! Even though the request was made online, Jessica truly put in the effort to make sure the surprise felt thoughtful and memorable. It\u2019s not easy to create such a warm and personal experience through a delivery, but she absolutely nailed it. Her dedication and willingness to try her best to make the birthday special really stood out. The whole process felt smooth, caring, and genuinely customer-focused.\n\nThank you so much, Jessica, for making the birthday celebration extra special from afar. Really appreciate the effort cheers!",
+        "time": 1772690648,
+        "translated": false
+      },
+      {
+        "author_name": "Nerine Cummins",
+        "author_url": "https://www.google.com/maps/contrib/108682225031831410710/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUk-b1uogwQliv1EWoSwjOWJpCAKPyZK3wXqct79x5JEcYjrBrU=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Located at Westfield Burwood Shopping Centre, 100 Burwood Road, Burwood, New South Wales, Australia \ud83c\udde6\ud83c\uddfa (just near the Event Cinemas).\nA great place to go to for a delicious \ud83d\ude0b snack and drink before going to the movies \ud83c\udfa5. The selection of cakes and drinks are always great and the churros are sooo yummy \ud83e\udd24. The hot chocolate is some of the best I have had. There are tables but they are up stairs, there\u2019s a single table and chairs at the entrance. There\u2019s also ice cream available. The staff are always very friendly and welcoming. Willing to help with any questions and requests. The service is always quick and professional. Would definitely recommend. Thumbs up!!! \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+        "time": 1746161104,
+        "translated": false
+      },
+      {
+        "author_name": "Isabella S",
+        "author_url": "https://www.google.com/maps/contrib/102384711971720007363/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNeVIxXoYpSg_PliwERpLYFdeQeqS8c_0L4T_paxYsGX3qWCI=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Service with a smile, and killer strong coffee! Great clean premises, a nice spot to sit and relax before a movie with the kids.",
+        "time": 1766528258,
+        "translated": false
+      },
+      {
+        "author_name": "angel sky",
+        "author_url": "https://www.google.com/maps/contrib/118000032208880150388/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmFqd7kQjRQisejRImwAaP-x8fcWt9TAmSZmgdMqQJ38EH3ai8SQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "I love it, totally my favourite, cant miss any time to go anywhere and had to drink coffe in the coffee shop \ud83e\udd70",
+        "time": 1762514857,
+        "translated": false
+      },
+      {
+        "author_name": "GE Lee",
+        "author_url": "https://www.google.com/maps/contrib/115916460182858966255/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJY4NTmvpl2Z_bSRi57PB6XLfgvbor87MfiDWnuq6oCxJKw0w=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "Cozy upstairs sitting area is available. Have coffee and dessert inside, or just take away coffee and an acai bowl since it's just in front of the cinema.",
+        "time": 1752825499,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 431
+  },
+  {
+    "place_id": "ChIJCRIuOQ-8EmsRQ_ePsVnKFAY",
+    "name": "Oliver Brown",
+    "address": "Shop 231 Lady Cutler Ave, Bankstown NSW 2200, Australia",
+    "lat": -33.9160401,
+    "lng": 151.040226,
+    "formatted_address": "Shop 231 Lady Cutler Ave, Bankstown NSW 2200, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.9160401,
+        "lng": 151.040226
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.9146646197085,
+          "lng": 151.0416142302915
+        },
+        "southwest": {
+          "lat": -33.9173625802915,
+          "lng": 151.0389162697085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Wednesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Saturday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Sunday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      ]
+    },
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Amy Hoang",
+        "author_url": "https://www.google.com/maps/contrib/106320063979173860812/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVLC94z1mSNfoyLRc12lqyBa7GoN2jpD5Ao2bnvZIRHpDLVZ55o=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "I stumbled across this cafe as I was shopping around bankstown central, and thank goodness I did! The staff was great, and the lady serving me at the counter was lovely.\nThank you to whoever was in the kitchen today, as the Turkish eggs that I ordered were the best I've ever eaten. The eggs were cooked to perfection, the sundried tomatoes and labneh was golden, and the zaatar manoush was perfect. Would highly recommend going here not only for a sweet drink but also a wonderful meal\nThank you!!",
+        "time": 1765343509,
+        "translated": false
+      },
+      {
+        "author_name": "aybota janat",
+        "author_url": "https://www.google.com/maps/contrib/105727984763493958880/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUijlkNiL_jV4JUGvPj3A5niNCgoIqvThdw0ygPb1BNCZgJ5yw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "\u2b50\u2b50\u2b50\u2b50\u2b50 \u2013 Great service and atmosphere!\nReally impressed with this coffee shop. The service was fast and friendly, and the staff made me feel welcome right away. My coffee was delicious and the place had a warm, cozy vibe \u2014 perfect for relaxing or getting some work done. Highly recommend!",
+        "time": 1753668411,
+        "translated": false
+      },
+      {
+        "author_name": "Abdul",
+        "author_url": "https://www.google.com/maps/contrib/100599627765248711488/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_b4FUA00DNKVIM2RXY5ZWJYMaWNruZ5PuidSDSIcUgnZOBg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 months ago",
+        "text": "My experience at Oliver brown was disappointing, disgusting Oreo crepe. Came into the store purchased this Oreo crepe got home opened up box check the image shown that\u2019s how it looks like coming on what\u2019s the staff doing. Rang store asked for supervisor Bianca answered was rude on the phone and not professional than passed me onto a guy Juliet also not professional and refused to give me store manager name. My wife\u2019s pregnant and was scared to eat this. Definitely good lead to possible food poison. I want further action taken by the store manager. People of Bankstown beware of this store and food served.",
+        "time": 1763114115,
+        "translated": false
+      },
+      {
+        "author_name": "James Duong",
+        "author_url": "https://www.google.com/maps/contrib/117370488847452891073/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUI2F5GmAQDGsYKFE1manicXTtpfAw9FXnPxcgPgJCcaE3oxaU=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Ordered a big breakfast with cold fresh orange juice and was very pleased with the service, especially by my waiter Jayden with his amazing service. Definitely coming again \ud83e\udef6",
+        "time": 1763003180,
+        "translated": false
+      },
+      {
+        "author_name": "Sumiya Tabassum",
+        "author_url": "https://www.google.com/maps/contrib/112325628821928641619/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsEUYoSdz-NhN9AG5fvj8Q7xXqn2qi4fHUthV-mfn9M4Ao5Ak=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 years ago",
+        "text": "As a breakfast person, my husband and I are the regular customers there since we live next to the centro.\n\u25cf the Big Brekky was good. every time it tasted almost the same, but the egg Benedict was not as good as the cost. salt and seasoning ware missing not just once.\n\u25cf Nutella French toast was superb delicious and must try item.\n\u25cf salmon beagles aslo fresh and tasty. \u25cf i also tried turkey's style egg. it really indulges my taste buds.\n\u25cf comes to the coffee now, I must say the barista makes really nice coffee, especially my fav double shot cappuccino, and we would rate it 5-star.  However, the customer service was below average. the service from the staff is a little arrogant\u00a0i feel like it's not that welcoming.",
+        "time": 1706449795,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 779
+  },
+  {
+    "place_id": "ChIJh0oDoxKzEmsRrwjGKL48u88",
+    "name": "Oliver Brown",
+    "address": "Shop49/737 Anzac Parade, Maroubra NSW 2035, Australia",
+    "lat": -33.9408371,
+    "lng": 151.2384203,
+    "formatted_address": "Shop49/737 Anzac Parade, Maroubra NSW 2035, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.9408371,
+        "lng": 151.2384203
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.93945471970849,
+          "lng": 151.2400210302915
+        },
+        "southwest": {
+          "lat": -33.94215268029149,
+          "lng": 151.2373230697085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Tuesday: 7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Wednesday: 7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Thursday: 7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Friday: 7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Saturday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Sunday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+      ]
+    },
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Vivian Saptajaya",
+        "author_url": "https://www.google.com/maps/contrib/104687464769379815367/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ1kUarW6W0F_ALCOR9qq4ZU5BSmvwycCRYGK7kuSJ59Qo9CA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "I recently visited Oliver Brown in Maroubra juction, and I must say, it was an excellent experience!\n\nThe menu has a fantastic variety of options, but I couldn\u2019t resist trying their famous chocolate dishes. I ordered the waffle and hot chocolate, and it was absolutely divine! The presentation was beautiful, and every bite was a chocolate lover's dream.\n\nThe staff were friendly and attentive, making sure my visit was enjoyable. I appreciated their recommendations and the prompt service.\n\nI also loved the vibe of the place\u2014perfect for catching up with friends or enjoying a sweet treat on your own.\nI can\u2019t wait to go back and try more from their menu!",
+        "time": 1761165668,
+        "translated": false
+      },
+      {
+        "author_name": "G con",
+        "author_url": "https://www.google.com/maps/contrib/100713293091040470660/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfE6WoS4aCBitL-bLLGqsWyP1tdUQX348sd8i7fnScuIhxkQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "Coffee is very average, didn't have a cold can of soft drink at ten AM on a Thursday, went elsewhere for breakfast. I have been one other time, the waitresses need retraining, they serve cans of drinks without glasses to the table, they don't clear the table after food even though you just ordered coffee. Multiple trips for the same work.",
+        "time": 1764805851,
+        "translated": false
+      },
+      {
+        "author_name": "asti indah",
+        "author_url": "https://www.google.com/maps/contrib/105839742376883294925/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdFkpm-scMPmmZ_X8fcCm0gIOWYFYQ13TQ0hd37YnXDiO_s0uq=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "I always buy my coffee and snacks here and it never disappoints. The coffee is consistently great, the food is fresh, and the caf\u00e9 has a really nice atmosphere.",
+        "time": 1765437212,
+        "translated": false
+      },
+      {
+        "author_name": "D M",
+        "author_url": "https://www.google.com/maps/contrib/102881609881590740470/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjBa_cnOt-8K4lj_CBuPulsnu5BDh_CipODFQ8j7sAoLuHO7Wk=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "A fresh new Cafe to Pacific Square. Oliver Brown Belgium Chocolate Cafe The grand opening experience 50% off deal of hot and cold beverages,  limited offer.  Beautiful decor excellent customer service and delectable selection of sweet treats, cakes, gelato, hot and cold beverages... coffee and delicious chocolate.",
+        "time": 1604028764,
+        "translated": false
+      },
+      {
+        "author_name": "Jeffrey Hunter",
+        "author_url": "https://www.google.com/maps/contrib/115146560654940845649/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK4mEPJgxeOof_-cF4IpzJXb2aIhyr9m9l0VH46t6x9tAeUQg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "This place is great The hot chocolates were hot & full of flavour. And the chocolate sauce on the  pancakes was so nice. The place was very busy but we got our order pretty fast and the customer service was good. Will be back",
+        "time": 1690088370,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 331
+  },
+  {
+    "place_id": "ChIJhXn2MnC5EmsR9qFOR833aF4",
+    "name": "Oliver Brown",
+    "address": "544 King Georges Rd, Beverly Hills NSW 2209, Australia",
+    "lat": -33.9514627,
+    "lng": 151.0827885,
+    "formatted_address": "544 King Georges Rd, Beverly Hills NSW 2209, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.9514627,
+        "lng": 151.0827885
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.95013136970851,
+          "lng": 151.0840863302915
+        },
+        "southwest": {
+          "lat": -33.95282933029151,
+          "lng": 151.0813883697085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Tuesday: 7:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Wednesday: 7:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Thursday: 7:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Friday: 7:30\u202fAM\u2009\u2013\u200912:00\u202fAM",
+        "Saturday: 7:30\u202fAM\u2009\u2013\u200912:00\u202fAM",
+        "Sunday: 7:30\u202fAM\u2009\u2013\u200911:00\u202fPM"
+      ]
+    },
+    "rating": 3.8,
+    "reviews": [
+      {
+        "author_name": "englishholic1",
+        "author_url": "https://www.google.com/maps/contrib/110148747625126493284/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpAND8WgbqGibuVzQvLEBMO7jO29_BMYVhDwUyaL6GIcm8DrsI=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "10 months ago",
+        "text": "Went here last week, had an excellent experience.\n\nWent again a few days ago and the crepe was inedible.\n\nThey also ran out of berries and pistachios for the waffles. So I wasn\u2019t able to order those two waffles. Bear in mind this was around midday. So I am not sure how they could have run out at that time.\n\nCoffees are excellent. Cake slices and desserts in the cake display are great.\n\nCustomer service was average.\n\nOn a side note, please don\u2019t overcook your crepes and then hide your mistake by turning them upside down onto the plate, then drowning them with chocolate. They\u2019re inedible and the customer will know!\n\nWould I be back. Possibly for the coffee and pre made desserts.",
+        "time": 1752649169,
+        "translated": false
+      },
+      {
+        "author_name": "Laura Torres",
+        "author_url": "https://www.google.com/maps/contrib/112495541832453592548/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7Pe5bFZcI3zKMT432MVuR0DHYdV5y5JLvlyrVsfYmChSGkFr1XQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "3 months ago",
+        "text": "We have been coming here on Mondays and Tuesdays for coffee for more than two months. The products they offer are good and of good quality.\n\nHowever, the service from the woman who serves us is usually not very cordial. She does not greet us and generally comes across as annoyed or distant.\n\nI understand that we can all have difficult days, but this attitude has been consistent every time we visit.\n\nCustomer service in a caf\u00e9 should be, at the very least, professional and friendly. A simple greeting and a few words of courtesy make a difference.",
+        "time": 1772417959,
+        "translated": false
+      },
+      {
+        "author_name": "Kronoz Nakarmi",
+        "author_url": "https://www.google.com/maps/contrib/109804099178402492287/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrppHqwFgY11PQr3W7AGV-HA9nS4CZB-5RIsYSwhDPnI0JGXQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "The morning coffee in OB is addictive. Have been a regular visitor nothing else but a sip of coffee and Belgian chocolate",
+        "time": 1760931926,
+        "translated": false
+      },
+      {
+        "author_name": "\u30c4\u30c4\u30c4Yeet",
+        "author_url": "https://www.google.com/maps/contrib/105112423400004498394/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFRHfCIhsEqRIDXTznU7fTeebOSDileCDeaz4f8R2vzGWLcC4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "The Best Oliver Brown is Beverly Hills apart from Chullora that\u2019s good too.\nI\u2019ve been to \u2026\nCasula, Orange,Liverpool and Weatherill Park cafes and they could take notes from here .\nThe churros at Beverly Hills are coated in sugar and dusted with icing sugar then cut in half. They are not over cooked and hard and even the way they present their beverages are better. And they don\u2019t serve soggy strawberries like Casula.\nIDK you would think they are all the same but trust me they\u2019re not.",
+        "time": 1770458217,
+        "translated": false
+      },
+      {
+        "author_name": "Bhoj Raj shrestha",
+        "author_url": "https://www.google.com/maps/contrib/104486280653074615550/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHgmdu6HhVyjeVEUYHRc4K4HpPh_FJNTBTZV-rnzw6qROKSTg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "I visited this morning and was served by a staff member. Unfortunately, I was disappointed with the service I received.\nShe did not greet me or say hello when taking my order. Her attitude made me feel uncomfortable, as it seemed like she was annoyed or doing me a favour. When she served my drink, she simply placed the glass on the table without saying anything and walked away.\nI understand everyone can have busy days, but basic courtesy and customer service are important. I hope this feedback helps improve future service.",
+        "time": 1771540386,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 558
+  },
+  {
+    "place_id": "ChIJ76DOtrqlEmsRdoqJ7KkvPDQ",
+    "name": "Oliver Brown",
+    "address": "Australia, New South Wales, Ryde, Blaxland Rd, Top Ryde City Shopping Centre, L1 4004 Devlin St &",
+    "lat": -33.8132737,
+    "lng": 151.1063771,
+    "formatted_address": "Australia, New South Wales, Ryde, Blaxland Rd, Top Ryde City Shopping Centre, L1 4004 Devlin St &",
+    "geometry": {
+      "location": {
+        "lat": -33.8132737,
+        "lng": 151.1063771
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.8120017697085,
+          "lng": 151.1073566302915
+        },
+        "southwest": {
+          "lat": -33.8146997302915,
+          "lng": 151.1046586697085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Saturday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Sunday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      ]
+    },
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Aimee Meng",
+        "author_url": "https://www.google.com/maps/contrib/101717062375511773986/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgJXV77pGMRn1mEZ0MfFmc5dcbFjd4A8tNRDTzr4oQJ6QBP9gq=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "I loved the food, desserts and drinks here. The manager was awesome and made sure everything was up to standard.\n\nNEW MATCHA Cloud drinks at @oliverbrownofficial\nFeaturing:\n- Chicken Schnitzel Panini\n- Chicken Avo Panini\n- Avocado Toast\n- Mango Matcha Cloud\n- Strawberry Matcha Cloud\n- Coconut Matcha\n- Fondue for 2\n- Sticky Date Pudding\n- Tiramisu Slice\n- Almond Croissant\n- Passionfruit Coconut Slice\n- Pistachio Churros",
+        "time": 1764652054,
+        "translated": false
+      },
+      {
+        "author_name": "Kazza Blanca",
+        "author_url": "https://www.google.com/maps/contrib/107513389365346097637/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgs092qpY3raHIC10ol72uJj4dyPCdnszlzThCM4Daw2IRkz31=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "7 months ago",
+        "text": "Have visited a couple of times with my toddler granddaughter. We order a kids milkshake for her which she loves, now if only they had kid sandwiches or similar? I asked the staff but they weren\u2019t familiar enough with the menu to help me out.\nLast time I was there I ordered using the code on table- it took longer to get my order and the kids milkshake came out 5 mins after my drink.  It really should come together or first.\nIt\u2019s a nice environment inside & I appreciate having a high chair available to use.",
+        "time": 1761379718,
+        "translated": false
+      },
+      {
+        "author_name": "Laxman Raut",
+        "author_url": "https://www.google.com/maps/contrib/104153017349885132233/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5szdiZ2d_8wvKMEiGv7IcOIg7x_n4S6oXMWGmKZjeoR7A2Js8uQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "No doubt best place to have hot chocolate and coffee. Nice are, plenty of sitting space, welcoming staff. Highly recommend.",
+        "time": 1767258297,
+        "translated": false
+      },
+      {
+        "author_name": "Susan E",
+        "author_url": "https://www.google.com/maps/contrib/106851795992305267313/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVyktwvW0rzRGF5WRu4ClsrAZ_jId90GLWUGNXv9eLlSQTnSTE=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "I ordered an average New York style cheesecake for $8.50 and a regular long black which came to a total of $13. Very beautiful the atmosphere is stunning especially, if you sit outside. The inside of the cafe is a bit awkward in my opinion. The cheesecake was very delicious, but it wasn\u2019t the best. It was very creamy and thick with a balanced level of sweetness if that\u2019s what you\u2019re interested in. But I felt a missing component, in the cheesecake as if it was too creamy and not cheesy enough. Anyways the dish arrangement were adorable and it\u2019s a great place for a date.",
+        "time": 1730014574,
+        "translated": false
+      },
+      {
+        "author_name": "Hermione Le",
+        "author_url": "https://www.google.com/maps/contrib/112033880155281760880/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURC1msvXZbPiRRK2yrwiIccfIRW6S-1SZ_Ht4Xx9xy8JBxFqgwZg=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "We like their matcha floats new versions. We tried banana and mango, they were both good.",
+        "time": 1767927654,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 440
+  },
+  {
+    "place_id": "ChIJcTwO9he9EmsRoqWw3KLMHj4",
+    "name": "El mocha",
+    "address": "271 Guildford Rd, Guildford NSW 2161, Australia",
+    "lat": -33.8542098,
+    "lng": 150.9876914,
+    "formatted_address": "271 Guildford Rd, Guildford NSW 2161, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.8542098,
+        "lng": 150.9876914
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.85291076970851,
+          "lng": 150.9890414302915
+        },
+        "southwest": {
+          "lat": -33.85560873029151,
+          "lng": 150.9863434697085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Sunday: 7:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+      ]
+    },
+    "rating": 3.8,
+    "reviews": [
+      {
+        "author_name": "Maruf Maykdad",
+        "author_url": "https://www.google.com/maps/contrib/112372060246620946731/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUG8iLj5XhemeQLTFUfPYMa-Z9yKO6ytdIzUEXO5SiNATFnWIcs=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "11 months ago",
+        "text": "Really disappointed with this place. The coffee was served in a flimsy, unstable cup \u2014 the lid barely stayed on, and the guy even warned me to \u201cbe careful\u201d as he handed it over. That alone says a lot. Later I noticed stains of chocolate or something else on the outside of the cup, which was just gross. Worst of all, the coffee itself was cold as hell. Honestly, I\u2019d take a $2 servo coffee over this any day \u2014 and it doesn\u2019t even come close to a 7-Eleven brew. Not coming back.",
+        "time": 1750935038,
+        "translated": false
+      },
+      {
+        "author_name": "Eman Hussein",
+        "author_url": "https://www.google.com/maps/contrib/110136017482899523718/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDkqIpXYLSv21Yg3jFgod5Q-GoMa2tQxE5fWPajXG-HYwHx_w=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "7 months ago",
+        "text": "The worst cappuccino i ever had in my life . Can't even call it a coffee,  there was no foam just hot water with a little milk and dirt for coffee. The custard slice was old and tastless. My mother's espresso was cold and tasted like dirt. We threw it away . Save your money. The server was nice though",
+        "time": 1759749216,
+        "translated": false
+      },
+      {
+        "author_name": "leon ear",
+        "author_url": "https://www.google.com/maps/contrib/115916784127257664166/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEpScY86udgnq9gWjyWosG-j0Cy-W2nKBAXzrcnMf2-_nkvA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "a year ago",
+        "text": "Went here for dessert. Ordered a thickshake and fruitty waffle. Thickshake was more runny then a milkshake and they have the audacity to call it a thickshake. Fruity waffle fruits were not sweet at all and ice cream was bland, only saving grace was the chocolate. Ice cream on top also came melted texture was horrible. Melted icecream on a thick waffle with sour bananas.",
+        "time": 1741686394,
+        "translated": false
+      },
+      {
+        "author_name": "T J",
+        "author_url": "https://www.google.com/maps/contrib/116935878925641785756/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ5eCyk71EX_l_6ruxtEd0hdQqDbPHWpllmHrIVmjHfvjd4ZA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "7 months ago",
+        "text": "Mint syrup isnt minty.. Instead they just add more of the sugar syrup to make up for the lack of mint.. (grose)\n\nPrices have gone up and it is now very silly to get a small cup of anything. I would expect 6.50 for a regular cup.\n\nI tried to explain all this to the cashier, it went over her head.. Took my very expensive little cup and personally vow not to be a regular any more.\n\nIn response to reply..\n\nThankyou kindly. That is an impressive response. I did try to get a replacement but there was no point. It all went above people's heads.. The price is exhorbitant.\n\nYour minty syrup for your mint chocolate is what I am referring to. Very weak. Perhaps I spoke to the wrong person. If I order a minty chocolate, I want to feel like Ive just bru.. I like it very strong. I have been disappointed a few times by that syrup product. (I end up with a sugar rush instead when they over pump it.)",
+        "time": 1759659525,
+        "translated": false
+      },
+      {
+        "author_name": "Dan",
+        "author_url": "https://www.google.com/maps/contrib/115828933383642042947/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIeO1B8V3H5c3rPbjBT0nCq2PdzXbjzrpTtYFVXr9Ojbe858g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "\u2615 A Perfect Start to the Day!\n\nIt\u2019s true what they say \u2014 A morning coffee makes the day so much better! I visited this caf\u00e9 for the very first time and had such a wonderful experience. The staff was incredibly warm and joyous . I absolutely loved how they served and interacted with customers \u2014 it felt genuine and welcoming.\n\nThe vibe of the place was just as comforting as the coffee itself. Speaking of which, the coffee was amazing! The rich aroma filled the entire space and made the whole experience even more special.\n\nThis is definitely going to be one of my favorite spots from now on. Highly recommended for coffee lovers and anyone looking to start their day on a high note!",
+        "time": 1753576847,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 240
+  },
+  {
+    "place_id": "ChIJGea5m-akEmsRoJ7_43eQ7c8",
+    "name": "Oliver Brown",
+    "address": "Ground Floor Rhodes Waterside Shopping Centre, 51/1 Rider Blvd, Rhodes NSW 2138, Australia",
+    "lat": -33.8344538,
+    "lng": 151.0851723,
+    "formatted_address": "Ground Floor Rhodes Waterside Shopping Centre, 51/1 Rider Blvd, Rhodes NSW 2138, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.8344538,
+        "lng": 151.0851723
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.83425061970851,
+          "lng": 151.0860932302915
+        },
+        "southwest": {
+          "lat": -33.83694858029151,
+          "lng": 151.0833952697085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Tuesday: 7:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Wednesday: 7:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Thursday: 7:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Friday: 7:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Saturday: 7:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Sunday: 7:30\u202fAM\u2009\u2013\u200910:30\u202fPM"
+      ]
+    },
+    "rating": 3.3,
+    "reviews": [
+      {
+        "author_name": "Maria Benjamin",
+        "author_url": "https://www.google.com/maps/contrib/112743862807246633652/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5QxT5ElLF85IYe-xwDqOjUurD1vFfrfr6fvTT1-O4DYdJnx-4hA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 2,
+        "relative_time_description": "3 months ago",
+        "text": "This place used to be a favourite, but sadly the quality has declined. We ordered the Belgian waffles for two and received two very ordinary waffles - nothing that justified the name. They came with basic vanilla ice cream and a drizzle of chocolate sauce. For the price, it felt completely unjustified. The drinks were fine, but overall it wasn\u2019t worth it. Indoor and outdoor seating available. We won\u2019t be rushing back.",
+        "time": 1771151239,
+        "translated": false
+      },
+      {
+        "author_name": "Laura Osman",
+        "author_url": "https://www.google.com/maps/contrib/103022411099518079849/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLt4YKGpuU6qd4_oHpvu2cfHDgbEKm7nF2JJVjHz3VEcBewXg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "7 months ago",
+        "text": "The third time I come to this particular oliverbrown in the last 2months.\nFirst time had a terrible experience of the tables being so dirty and staff not cleaning it even after being asked twice.\nSecond time I had to wait over 20mins for a mocha then I got told that someone else took my order even though I was seated right near the pick up section and they didn\u2019t called out my order. Staff were extremely rude.\nThird time and last time was yesterday. I asked for an iced mocha and the waiter looked at me blankly. I repeated my order and was met with silence again. They didn\u2019t even put it through their system. I\u2019m not sure if there was a language barrier. I said it a third time and another staff member helped them but then I was given a mocha milk shake instead of an iced mocha.\n\nDefinitely do not recommend. I\u2019ve been here in the past but I\u2019m sure they are under new management as this is no where near the standard of service I have received in previous years.",
+        "time": 1759759327,
+        "translated": false
+      },
+      {
+        "author_name": "YM Lee",
+        "author_url": "https://www.google.com/maps/contrib/106569512862142529292/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVt5sVFIyGVLv5q9QsHEOs3fsewGSwTpHo6H-nZ9HQ8n9jlCW-b=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "The coffee and waffles were really good, and the staff were kind and welcoming. It was a pleasant experience, and I would definitely come back again.",
+        "time": 1766360590,
+        "translated": false
+      },
+      {
+        "author_name": "Happy soul",
+        "author_url": "https://www.google.com/maps/contrib/118052855865125389556/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7YHE5Sr9rM47wUVPo2Q_ZLVPp51axn58qIVWgTqPfXzd0iA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "11 months ago",
+        "text": "I was disappointed with the waffles. They didn\u2019t taste fresh at all - the staff took them out of a plastic packet and just put them in the toaster. The texture and flavor were bland, and definitely not what I expected. On top of that, there was only a tiny drizzle of chocolate!!! which made the whole thing feel even more underwhelming and didn't save it. Overall, it wasn\u2019t a good experience and I wouldn\u2019t order this again. not up to the usual Oliver Brown standard I know and love from other branches.",
+        "time": 1749529699,
+        "translated": false
+      },
+      {
+        "author_name": "8890 Capital",
+        "author_url": "https://www.google.com/maps/contrib/105633387163581900503/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxQ44wDi_GJzdMLOTdvjIxhuHzqSRmlrY-YawGvpc9mnaH51o=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "The long black here is just right and the little chocolate buds give it an extra boost. I like the outdoor seating as well. It probably gets busier in the afternoons early in the morning. It\u2019s a great little quiet spot to sit and have a coffee outdoors. Staff are friendly and generally the drinks come out quite soon.",
+        "time": 1742685570,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 603
+  },
+  {
+    "place_id": "ChIJPxFKAxyfEmsRxO8OE9YSPbM",
+    "name": "Oliver Brown",
+    "address": "The Ponds Blvd &, Riverbank Dr, The Ponds NSW 2769, Australia",
+    "lat": -33.7056227,
+    "lng": 150.9113276,
+    "formatted_address": "The Ponds Blvd &, Riverbank Dr, The Ponds NSW 2769, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.7056227,
+        "lng": 150.9113276
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.7043277697085,
+          "lng": 150.9124466302915
+        },
+        "southwest": {
+          "lat": -33.7070257302915,
+          "lng": 150.9097486697085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Saturday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Sunday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      ]
+    },
+    "rating": 3.8,
+    "reviews": [
+      {
+        "author_name": "Jemma Ferrer",
+        "author_url": "https://www.google.com/maps/contrib/112407279022143618589/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtdu4G62-Pke91fOWNRooo6BmLMkuTVeAt_BWNGsBAQBSB7g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "I recently visited Oliver Brown The Ponds and had a wonderful experience. I ordered the Angus and egg roll, which was delicious and very satisfying, while my husband had the Spanish omelette - both were excellent. We also shared the fondue for two, which was such a treat and perfect for sharing.\n\nThe coffee was great, the service was friendly and efficient, and the food came out quickly. The venue itself is spacious with a lovely atmosphere, making it a great spot whether you\u2019re dining alone or catching up with a group. There\u2019s a fantastic selection of food and drinks, especially on the brunch menu. We\u2019ll definitely be back!",
+        "time": 1767318758,
+        "translated": false
+      },
+      {
+        "author_name": "T Semaan",
+        "author_url": "https://www.google.com/maps/contrib/111195690318992464987/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-avcHdsMNliyWV5WCm5AjM75wU6bna0c8g0-R0v7yYXxFGQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "5 months ago",
+        "text": "First time at this cafe since it changed owners and menu. Definitely more inviting. Being NY day and only 3 staff, it took a little while to get our food. Whilst the big breakfast tasted nice, it was a bit let down by the small serving of scrambled eggs. Smaller than anywhere else we\u2019ve been. That would be my only recommendation to bring the rating up to 5 stars.",
+        "time": 1767244512,
+        "translated": false
+      },
+      {
+        "author_name": "amelia castle",
+        "author_url": "https://www.google.com/maps/contrib/117111507309415400157/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVoWh5Q_Lp28bejZrfJliGzzk8a6TJqsj2QUTH7Fm2hdFuJknrkNw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "My favourite place for a warm drink and sweet treat. The people that own this one are so lovely and care about their service! (Nothing like the other ones I have been to, sorry to say!) always love coming to the Ponds",
+        "time": 1770975354,
+        "translated": false
+      },
+      {
+        "author_name": "sanit t",
+        "author_url": "https://www.google.com/maps/contrib/111495444184573146431/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzZUOhMG35O8lby6gQNKyKFlMhrSZgq4v8Qcya15_t3GQnhufB3Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "had such a great experience at this coffee shop! The atmosphere was cozy, and the coffee was absolutely perfect \u2014 rich, smooth, and made with care. A special shout-out to Prakash, the barista, who made the visit extra special. He was super friendly, welcoming, and clearly passionate about what he does. It\u2019s rare to find someone who not only makes a fantastic coffee but also makes you feel right at home. Thanks, Prakash, for the awesome service \u2014 I\u2019ll definitely be coming back!",
+        "time": 1770328286,
+        "translated": false
+      },
+      {
+        "author_name": "Judit Prestidge",
+        "author_url": "https://www.google.com/maps/contrib/104390555271633819579/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcryPrkcj7S6g_DSF5f0gMK1xEnjXLtcgkPKosfRvgRrYrnA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "I went with my daughter to eat in on Valentine's Day. There was a customer sitting at the table next to us who ordered the same dish as me but had sent it back as she was vegan. When I ordered my meal, it wasn't fresh & warm as expected as fresh poached eggs should be. Toast was cold and soggy and so were the tiny eggs. They were hard, not runny yolk inside and already falling apart. It all smelled like curry that I hate which was not specified on the menu. I expected just salt & pepper which is what poached eggs usually come with. Definitely not curry which I hate.\n\nI asked for fresh poached eggs to be made that took another 10 minutes. They were tiny. The whole presentation of the meal was not appetising and just thrown together. I couldn't finish it. For $20 not worth cold bread and curried eggs. They most likely gave me that other person's dish 15 minutes later to bring out along with my daughter's fresh meal. We have eaten here previously before new owners took over and all our meals were lovely at that time.\n\nOh, last thing, we had to ask waitress to get us cutlery & serviettes as we bought 2 meals but only 1 set of cutlery & 1 serviette.",
+        "time": 1771038010,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 515
+  },
+  {
+    "place_id": "ChIJQ0zpcC29EmsRRobqPxIa-80",
+    "name": "Oliver Brown",
+    "address": "Shop 1065B/1 McFarlane St, Merrylands NSW 2160, Australia",
+    "lat": -33.8346522,
+    "lng": 150.9892875,
+    "formatted_address": "Shop 1065B/1 McFarlane St, Merrylands NSW 2160, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.8346522,
+        "lng": 150.9892875
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.8335901197085,
+          "lng": 150.9905851302915
+        },
+        "southwest": {
+          "lat": -33.8362880802915,
+          "lng": 150.9878871697085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Tuesday: 7:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Wednesday: 7:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Thursday: 7:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Friday: 7:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Saturday: 7:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Sunday: 7:30\u202fAM\u2009\u2013\u20099:30\u202fPM"
+      ]
+    },
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Ahmed",
+        "author_url": "https://www.google.com/maps/contrib/112980548001002763027/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIuAnSbP9TUGqBZQzYfKIQ_EMDMylVuQHypz6ea7e94Kh1I-Q=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "7 months ago",
+        "text": "Nice spot for dessert or a coffee catch-up. The waffles and churros are always fresh, and the chocolate tastes rich and smooth. Coffee is consistent, and they serve it at the right temperature. The menu has good variety, and presentation is always on point.\n\nThe place can get busy at night, especially on weekends, but the staff handle it well and stay polite even when it\u2019s packed. Sometimes the tables need a quick wipe between customers, but overall, it\u2019s clean and comfortable.\n\nService is quick, and the atmosphere feels relaxed \u2014 good for friends, dates, or late-night cravings. Prices are fair for what you get. Definitely one of the better dessert spots in Merrylands.",
+        "time": 1761166821,
+        "translated": false
+      },
+      {
+        "author_name": "Fatima Barkzee",
+        "author_url": "https://www.google.com/maps/contrib/105487970175253683912/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVlKhfqrCPHNb6fMPnF55M7o1Jw6hBKe6a49eLjKXgCpBwYjNeC=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Always the best\nHigh quality of product ,they using very professional serving and customer service\nThey have added ACAI soft serve recently to their menu \ud83d\udd25ohhh my god that is amazing and incredible \ud83d\ude0d\nYou should try this delicious acai and also so many different cakes and sweets which I can\u2019t name all of them but they are so fresh and yummy\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+        "time": 1760088214,
+        "translated": false
+      },
+      {
+        "author_name": "Laxman Raut",
+        "author_url": "https://www.google.com/maps/contrib/104153017349885132233/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5szdiZ2d_8wvKMEiGv7IcOIg7x_n4S6oXMWGmKZjeoR7A2Js8uQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "one of my  Favourite place to drink dark hot chocolate (ymmmy \ud83d\ude0b\ud83d\ude0b). Staff always welcome with warm and smile even though they are busy. Does having sitting area, plenty of parking inside stockland. Would highly recommend this place.",
+        "time": 1769397487,
+        "translated": false
+      },
+      {
+        "author_name": "Hadi Haidari",
+        "author_url": "https://www.google.com/maps/contrib/115181817678055990759/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIdNUz-JPuyQwW7KsTDAplk_i-tqY28lzvqoEKGN1AY3apEFw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 months ago",
+        "text": "We are regular customers and visited this caf\u00e9 yesterday just to have coffee and tea. We politely asked for an extra cup, but the staff responded very rudely and told us we had to pay for it, in an unpleasant tone.\n\nWhen we questioned this, instead of explaining calmly, we were told \u201cthat\u2019s how it is, don\u2019t come here at all\u201d which was extremely unprofessional and disrespectful.\n\nSadly, the way we were treated completely ruined the experience. Customer service matters, and this was far from acceptable.",
+        "time": 1769140746,
+        "translated": false
+      },
+      {
+        "author_name": "Holly Corpe",
+        "author_url": "https://www.google.com/maps/contrib/116682157828343308174/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVab0PgqDSwS6iuOpYBQQp3zNWivttyUFW--xa7j5OG9bPDJfU=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 3,
+        "relative_time_description": "3 years ago",
+        "text": "It was fine. The breakfast menu is pretty small and there's nothing that stands out as super exciting. They offer eggs in a couple of different styles and sweet options like pancakes and waffles. The servings are pretty big though, so that's good.\nI think they must have only recently started serving breakfast because they seemed a bit unprepared for orders when we arrived.\nAlso, I like the chocolate sauce on the top of the cappuccino.",
+        "time": 1654411908,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 467
+  },
+  {
+    "place_id": "ChIJN-gshhG7EmsRab-VNYAOWoc",
+    "name": "Oliver Brown",
+    "address": "355-357 Waterloo Rd, Chullora NSW 2190, Australia",
+    "lat": -33.8924643,
+    "lng": 151.0611678,
+    "formatted_address": "355-357 Waterloo Rd, Chullora NSW 2190, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.8924643,
+        "lng": 151.0611678
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.8910405197085,
+          "lng": 151.0623962302915
+        },
+        "southwest": {
+          "lat": -33.8937384802915,
+          "lng": 151.0596982697085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Sunday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      ]
+    },
+    "rating": 3.5,
+    "reviews": [
+      {
+        "author_name": "Yousra Mahdi",
+        "author_url": "https://www.google.com/maps/contrib/114444544293776727394/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtba6LWQOmQzN5IN3gTDvjVNejtGj1c6mRJ_WdhmWd4uhcCacx=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "I\u2019ve tried Oliver Brown in a few different branches and it\u2019s always been great.\n\nThe mocha frapp\u00e9 is easily on of the best I\u2019ve ever had rich, creamy, and perfectly balanced.\n\nTheir desserts are super tasty too, especially the waffles, crepes, and even the a\u00e7ai bowls when I want something lighter. Service is friendly and consistent everywhere I\u2019ve been. It\u2019s definitely my go to spot for chocolate treats!",
+        "time": 1758436320,
+        "translated": false
+      },
+      {
+        "author_name": "H Agar",
+        "author_url": "https://www.google.com/maps/contrib/111596413437113934570/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKThXJHmlX72vsRfJSkZJ6f-MNYfU0vetFzbMiIm2eiR8iZNA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "A 15% public holiday surcharge was added to the bill with no signage, no menu notice, and no warning whatsoever.\n\nYes, businesses in NSW can charge a public holiday surcharge, but only if it\u2019s clearly displayed upfront. This was not displayed anywhere. Hidden charges are misleading and unacceptable.\n\nWhat a shame.",
+        "time": 1766700224,
+        "translated": false
+      },
+      {
+        "author_name": "B Hudson",
+        "author_url": "https://www.google.com/maps/contrib/104677385704465972632/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXa0bFiKCAlB7LsmOdUlVIBtaCko9sFQFe45Qaxc-iA-F78Yiwx=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "I had to service my car close by and stopped in to grab a coffee and churros.\nUnknowingly there was an issue and because a few had broken the lovely girl that was serving went and made extra for me. I was not expecting that nor was I too bothered but her kindness and apology was a wonderful gift after I have had such a rushed and crazy morning.",
+        "time": 1769724433,
+        "translated": false
+      },
+      {
+        "author_name": "\u00f6zhan Mirio\u011flu",
+        "author_url": "https://www.google.com/maps/contrib/111117364088092223063/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKW4M_qDJ4T9yrjrawmnJ5eJ4VOa6vjQC_U9rOreyWbxUzzKg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "6 months ago",
+        "text": "The employees ( especially 2 girls ) had very bad attitude and they were so rude. When my friend and I gave our orders the employees had very bad attitude.  They seemed they are there by force. While all the customers were sitting in coffee shop and while they were talking to each other , the employees opened the music very loudly so nobody could hear each other.  Everyone was so annoyed.  So customer had to worn the ladies to turn down the music. Their behavior was so disrespectful.  People dont go there to see angry faces , and dont go there to listen loud music. People go there to talk to each other and have good time in a peaceful place. But that employees destroy all that nice environment. ( 08.10.2025  6:30 pm )",
+        "time": 1762593954,
+        "translated": false
+      },
+      {
+        "author_name": "Amanie",
+        "author_url": "https://www.google.com/maps/contrib/105471979914801383787/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFNFa5hkwPxQRhB786DV_7Xh6RJC5WRa-YljKMY0hkM6t6nQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Absolutely the best coffee and service you could ever ask for! I was served by the two amazing staff members, I asked what their names were so I could make sure to mention them, Isabella and Annabella because they honestly made my morning! The best service, the most beautiful smiles, and hands down the best coffee in town. Such a lovely start to the day thanks to these two amazing girls! \u2615\ufe0f\ud83d\udc96",
+        "time": 1762227881,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 222
+  },
+  {
+    "place_id": "ChIJ25CayhG8EmsR1asXsnce9dc",
+    "name": "Oliver Brown",
+    "address": "G21/462 Chapel Rd, Bankstown NSW 2200, Australia",
+    "lat": -33.913447,
+    "lng": 151.0341269,
+    "formatted_address": "G21/462 Chapel Rd, Bankstown NSW 2200, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.913447,
+        "lng": 151.0341269
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.9121334197085,
+          "lng": 151.0358105302915
+        },
+        "southwest": {
+          "lat": -33.9148313802915,
+          "lng": 151.0331125697085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Tuesday: 7:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Wednesday: 7:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 7:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 7:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Saturday: 8:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Sunday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      ]
+    },
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Surakshya Gurung",
+        "author_url": "https://www.google.com/maps/contrib/117152651136021065074/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJru7PwEONzF_LNuLr33JkIe3Uhkzw8aMaLEklxe2fsFTfmnaA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Oliver Brown Little Saigon never disappoints!\nFresh ingredients, beautiful presentation and the perfect mix of chocolate and ice cream. Great service and lovely vibe. Highly recommend!",
+        "time": 1770853579,
+        "translated": false
+      },
+      {
+        "author_name": "Irene Y",
+        "author_url": "https://www.google.com/maps/contrib/109507809993489021177/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQq1IedMytIX3WlcZLpeESSf5EZWBjgOsWBSh7SeGJpbsfv9ru=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "8 months ago",
+        "text": "Eat in fondue for 2. Really disappointed that the chocolate was served in takeaway sauce container. Wouldn't come back...",
+        "time": 1757239060,
+        "translated": false
+      },
+      {
+        "author_name": "Tim Shu",
+        "author_url": "https://www.google.com/maps/contrib/115564187036808320062/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2EIzMmo-3Ebw7FAabibRvPCtfR6HNspIgP3tdkB1GdpWqX7vp_w=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Great place to have dessert or coffee. Located in Little Saigon Plaza, Bankstown. Love the fondue, comes with different things to dip into the chocolate. Coffees are nice as well and the sundaes are pleasant. Clean restaurant and no issues with the service. Defs would dine again.",
+        "time": 1671794766,
+        "translated": false
+      },
+      {
+        "author_name": "Yixuan Li",
+        "author_url": "https://www.google.com/maps/contrib/118351140279172556903/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLbzESxVTJ0AfXFVWj0DSNIpcuHh7gar7olZE3D13HEhqj3Q=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Strongly suggest everyone go to the store.  Instead of ordering uber eats.  their plating is perfect ...",
+        "time": 1758193153,
+        "translated": false
+      },
+      {
+        "author_name": "Helen Rymer",
+        "author_url": "https://www.google.com/maps/contrib/113690864281514828871/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUYtTysPOBnDf8byWoBOP9C0E_JQ12gCeoGC1csdx3r0oT2j570w=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 years ago",
+        "text": "We came in here to eat for desserts after a xmas party. The service was pretty good to begin with. 3 staff working. We waited 20 mins for our coffees the desserts about 10 mins. The food is pretty nice.  Staff were pretty welcoming although maybe a little slow on timing. Over all not bad",
+        "time": 1703391886,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 265
+  },
+  {
+    "place_id": "ChIJu8RrG5O9EmsRPfOGMmD5tkA",
+    "name": "Oliver Brown",
+    "address": "Auburn Central Shopping Centre, Auburn NSW 2144, Australia",
+    "lat": -33.8506338,
+    "lng": 151.0321711,
+    "formatted_address": "Auburn Central Shopping Centre, Auburn NSW 2144, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.8506338,
+        "lng": 151.0321711
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.8493916697085,
+          "lng": 151.0335832302915
+        },
+        "southwest": {
+          "lat": -33.85208963029149,
+          "lng": 151.0308852697085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Tuesday: 6:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Wednesday: 6:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Thursday: 6:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Friday: 6:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Saturday: 7:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Sunday: 7:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+      ]
+    },
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Sandeep Poudel",
+        "author_url": "https://www.google.com/maps/contrib/111545169168814194300/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKaDD6Ki4fsA8hnDtHTil08sC2btldGtIzNDdPyWGuTqlgc1Jke=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "I ordered an iced chai latte and a latte through the QR code on the table. The iced chai latte never arrived, and I had to go up and ask about it myself. The barista admitted they had completely forgotten to make it. When it finally came out, it was nothing like an iced chai latte \u2014 it was slushy, like a frozen smoothie.\n\nI even went back and asked whether their chai lattes are normally served like that, and the barista told me yes, as if that was acceptable. At this point it\u2019s pretty clear the staff, especially this barista, need proper training. The whole experience was honestly very disappointing.",
+        "time": 1765354976,
+        "translated": false
+      },
+      {
+        "author_name": "Masoud Jafarian",
+        "author_url": "https://www.google.com/maps/contrib/114897129858272079907/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWm9GiWuxojl-LEKQC6UUBYgnJIlMn8D_jd5N6gqtL3BJQ6McaE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "All workers are polite and respectful and my two favourite girls are Renu and Puja .\nI love this Cafe,  very much recommended",
+        "time": 1770801299,
+        "translated": false
+      },
+      {
+        "author_name": "Sara Nazish",
+        "author_url": "https://www.google.com/maps/contrib/103243003877223220853/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUk-IYYg7fDgPjAdZBPGg-1pT17c7E2S0LeDmOfo7Aw4rQRZhg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "They have a new range of matcha, i was confused about which one to try, Renu and Nishan recommended to have strawberry matcha \ud83d\ude0b which was the best i have ever tried in auburn.\nThank yoh so much Renu and Nishan for your great customer service.\nAnd I would like to everyone to try these matcha range.",
+        "time": 1766039235,
+        "translated": false
+      },
+      {
+        "author_name": "Aashish Shah",
+        "author_url": "https://www.google.com/maps/contrib/100863495132023026934/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVnL1d6HBYX1rrqNZ5VQViuO3w3GLykWNzdytND2JUQaqipJO8g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Really good atmosphere to have a good cup of coffee. The customer services is really good and The place is really good place to chill around. I always come here before my work and when i have free time.",
+        "time": 1765693634,
+        "translated": false
+      },
+      {
+        "author_name": "Rabindra Kumar Sharma",
+        "author_url": "https://www.google.com/maps/contrib/115257487299286815659/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxRpFhkpxLnZm0XIKrSdOyKHwcVVBpXykWrQMbrO_Ra9J2LA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "8 months ago",
+        "text": "Serious Quality Concern \u2013 Muffin Contamination\n\nDear Oliver Brown Team,\n\nI am a regular customer and usually enjoy my visits, but I must raise a serious concern regarding your muffins supplied by Mom\u2019s Burn Muffins.\n\nOn multiple occasions, I have faced issues:\n\u2022\tI often wait up to 25 minutes for a blueberry muffin.\n\u2022\tPreviously, I received a muffin with a bad-smelling section, which I ignored and ate around.\n\u2022\tToday, I was shocked to find a piece of plastic inside the muffin, which made me feel unwell.\n\nThis is extremely careless from both the supplier and Oliver Brown management. Serving contaminated food is not only disappointing but also a serious health and safety issue. I have taken photos and videos as evidence.\n\nI hope you will treat this matter urgently, investigate with your supplier, and ensure stricter quality control so that other customers don\u2019t face the same risks.\n\nLooking forward to your response and action on this matter.",
+        "time": 1757739820,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 688
+  },
+  {
+    "place_id": "ChIJj39hGgakEmsRBkaXR7RZj78",
+    "name": "Oliver Brown",
+    "address": "Pennant Hills Rd, Carlingford NSW 2118, Australia",
+    "lat": -33.7769416,
+    "lng": 151.0521032,
+    "formatted_address": "Pennant Hills Rd, Carlingford NSW 2118, Australia",
+    "geometry": {
+      "location": {
+        "lat": -33.7769416,
+        "lng": 151.0521032
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -33.7756309697085,
+          "lng": 151.0533779802915
+        },
+        "southwest": {
+          "lat": -33.7783289302915,
+          "lng": 151.0506800197085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Tuesday: 7:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Wednesday: 7:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Thursday: 7:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Friday: 7:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Saturday: 7:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Sunday: 7:30\u202fAM\u2009\u2013\u20099:30\u202fPM"
+      ]
+    },
+    "rating": 3.8,
+    "reviews": [
+      {
+        "author_name": "Andrew",
+        "author_url": "https://www.google.com/maps/contrib/117349168877781692652/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqV-No-OFMQFvZTQG2DLBUKSAreuVAnlGt1uXbnb5PiEWpSelQ_g=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 1,
+        "relative_time_description": "4 months ago",
+        "text": "Hair in chocolate sauce. Soggy churros multiple times. No cinnamon sugar multiple times or the bitter powdery leftovers. Keep receiving dark chocolate when asked for milk chocolate.",
+        "time": 1767603642,
+        "translated": false
+      },
+      {
+        "author_name": "L Luu",
+        "author_url": "https://www.google.com/maps/contrib/107268321061971372408/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBcM1a8t3zvpZCz_z0LIl1sRdcY_QP0v0GGG-rzpJqKgKlj0JeQw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Would give 2 stars for service because the man on Saturday morning at the counter is not friendly when taking your order but thankfully the young boy who brings out the coffee and food was super friendly with lovely manners. What a sweet boy he was and even asked us \" was there anything else you need\"?. Absolutely a pleasure to have him service us. Food was super salty but the churros were soft and crunchy on the outside however not enough chocolate for dipping.",
+        "time": 1740187422,
+        "translated": false
+      },
+      {
+        "author_name": "BeachLover 11",
+        "author_url": "https://www.google.com/maps/contrib/111987649443149670062/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcNW5NTy_FJ61joZPOF9ZnUFmlcHEwyMnMaJlvkHGz-ud8X9to=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "a year ago",
+        "text": "My friend took me here today (Saturday 28/12/2024) for the first time. We had ice coffee and a cheesecake. I like the atmosphere of the cafe and the coffee was nice. However, the customer service was not very good as they didn't provide sovette and when my friend asked to have some sovette, they gave him only one (should be at least 2 as there are 2 of us), the cheesecake was old and horrible, I felt sick after eating it.",
+        "time": 1735385768,
+        "translated": false
+      },
+      {
+        "author_name": "David L",
+        "author_url": "https://www.google.com/maps/contrib/107687903315194739917/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9Et9WYFkw8Co2CcR4Iqhiz1iWC9vbUBvevJJIaDuITACU1g=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "A great selection of breakfast, lunch, and dessert options.  I really enjoyed the signature dark hot chocolate.  The Brekky burger was divine with a combination of bacon, fried egg, hash brown, tomatoes, and relish on a brioche bun.  The 2 for 1 deal was worth every cent.",
+        "time": 1698411788,
+        "translated": false
+      },
+      {
+        "author_name": "Robyn Wilton",
+        "author_url": "https://www.google.com/maps/contrib/110534466624980492465/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKAJbafO__f5_vbvAcTm2flK4zUjFXZJnq_m9PA-IuponUjGQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "The best Iced caramel coffee I\u2019ve ever had in my life. Food was fast and awesome! Portion sizes are generous and price is really reasonable!",
+        "time": 1742943842,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 416
+  },
+  {
+    "place_id": "ChIJjVHsr4THEmsRnycSE7gGNtY",
+    "name": "Oliver Brown",
+    "address": "600 Kingsway, Miranda NSW 2228, Australia",
+    "lat": -34.0355512,
+    "lng": 151.1006368,
+    "formatted_address": "600 Kingsway, Miranda NSW 2228, Australia",
+    "geometry": {
+      "location": {
+        "lat": -34.0355512,
+        "lng": 151.1006368
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -34.0343666197085,
+          "lng": 151.1019688302915
+        },
+        "southwest": {
+          "lat": -34.0370645802915,
+          "lng": 151.0992708697085
+        }
+      }
+    },
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Saturday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Sunday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      ]
+    },
+    "rating": 3.7,
+    "reviews": [
+      {
+        "author_name": "Airshredder73",
+        "author_url": "https://www.google.com/maps/contrib/106783460180701128034/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJBxbOfmFwGPgPkaHP3GIoRF9mqmvoMcMkSCoUvqG1H_2kuug=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "3 months ago",
+        "text": "I stopped in here to have breakfast with my daughter. 1 big breakfast each and it was perfect. Delicious fried cherry tomatoes and mushrooms were so nice. The little sausage were also delicious. The highlight? The single best chocolate thick shake I've had in my entire life! Where have you been thick shake?! If you're a chocoholic like me then I must press that you need to try the chocolate stuff here. Yum!!!\nUpdate: 2 stars off. I dropped in to get my daughter and I a milkshake each, 20 minutes later I had to approach the counter because they had forgotten my order! Organise yourselves guys because that is rotten service.\nUpdate: i had the belgian chocolate waffles and they were amazing! That chocolate syrup, omg! \ud83d\ude0b",
+        "time": 1771629509,
+        "translated": false
+      },
+      {
+        "author_name": "MyWebs Australia",
+        "author_url": "https://www.google.com/maps/contrib/112169192823095681291/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9zCI-hfcGHjsx7-mX8DZig228vSMrTsGeuYe9GL_KmeOBfsQ5=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Oliver Brown at Westfield Miranda is a fantastic spot for coffee lovers and anyone seeking a cozy, welcoming atmosphere. The service is truly exceptional\u2014staff members are always friendly, attentive, and go above and beyond to ensure a great experience. Their coffee is top-notch, rich in flavor, and perfectly brewed. The seating is comfortable and enjoyable, making it an ideal place to relax, catch up with friends, or even get some work done. With such amazing staff and impeccable service, I would highly recommend Oliver Brown at Westfield Miranda. It\u2019s a 100% must-visit! \ud83e\udd70",
+        "time": 1737246241,
+        "translated": false
+      },
+      {
+        "author_name": "aysha akhter",
+        "author_url": "https://www.google.com/maps/contrib/102606077170226375836/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXykPK7Ly3uRjEQTT3FoEuhQxJeNsrZNBm3Lzh7B2xDecUGgK5P=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Had a wonderful time with my family at Oliver Brown miranda. The stuff were so hospitable and the foods were so delicious. From granny to my toddlers, every single person enjoyed the food so much. The mouth watering fried chicken, the delicious waffles and the delicacy of eggs benedict, everything was just so perfect. Love the cosy atmosphere and sitting arrangements. Definitely will be going back again.",
+        "time": 1709550936,
+        "translated": false
+      },
+      {
+        "author_name": "Misspiggyexplores",
+        "author_url": "https://www.google.com/maps/contrib/107035928539472323046/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDS33XkUkQx9uNYAgDSixHFrPMAl9NMtRiHDDWBfDv1X06EILX=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 3,
+        "relative_time_description": "3 years ago",
+        "text": "The waffles were really soggy, I didn\u2019t like the taste. They didn\u2019t toast it! Talk about laziness, tasted like it was hard and it just came out of the fridge, cold and half frozen.\nThe food or drink actually made me sick. It gave me a tummy bug! I would never order the waffles again! I didn\u2019t like the taste or texture of the waffles & everything else were just average.\n\nThe sundae, the coffee and strawberry dips are delicious! Not the waffles!",
+        "time": 1658022417,
+        "translated": false
+      },
+      {
+        "author_name": "Katie Jaydee",
+        "author_url": "https://www.google.com/maps/contrib/107369879279279887383/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuog_vjJuCfQ6M_-P5GOxcIFpZyUl93X8sv6Lr70075JbhNf1YAQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "3 years ago",
+        "text": "Overall, not a bad place for a coffee and a waffle. However, disappointed in their eggs benedict. Apparently they don't know how to cook them. I specifically asked for runny eggs, even though I really shouldn't be because it's a given that eggs benedict is cooked with runny eggs. But the amount of times chefs can't seem to be able to cook a runny egg is astounding, so I specifically asked this time. And what do you know. They bring hard boiled eggs. Like...\ud83e\udd37\u200d\u2640\ufe0f\ud83e\udd26\u200d\u2640\ufe0f Are you serious? Then they claimed that their cooking machine doesn't let them do runny eggs. Then why is eggs benedict on the menu at all? Take it off the menu if you can't cook it right. To their credit, they refunded the purchase and I settled for a decent waffle instead.",
+        "time": 1680915047,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 368
+  }
+]
