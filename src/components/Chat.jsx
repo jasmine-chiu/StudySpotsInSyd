@@ -2,7 +2,7 @@ import { useState } from 'react';
 
 const Chat = ({ spots }) => {
   const [messages, setMessages] = useState([
-    { sender: 'bot', text: 'ask away! e.g. "where can i get a nice drink?", "find some quiet places", or "what is the best cafe with [ amenity ] in [ suburb ]?"' }
+    { sender: 'bot', text: 'ask away!\n e.g. "where can i get a nice drink?",\n "find some quiet places",\n or "what is the best cafe with [ amenity ] in [ suburb ]?"\n [basic version]' }
   ]);
   const [input, setInput] = useState('');
 
@@ -22,7 +22,7 @@ const Chat = ({ spots }) => {
 
   const generateBotResponse = (query, data) => {
     if (!data || data.length === 0) {
-      return "I'm still loading the data maps. Please give me a quick second and try again!";
+      return "i'm still loading the data maps, please give me a quick second and try again!";
     }
 
     const lowerQuery = query.toLowerCase();
@@ -107,7 +107,7 @@ const Chat = ({ spots }) => {
       topMatches.forEach(item => {
         const p = item.spot.properties;
         reply += `\n✧ ${p.name} (${p.suburb})\n`;
-        reply += `✩ Rating: ${p.rating} / 5\n`;
+        reply += `✩ rating: ${p.rating} / 5\n`;
         reply += `🗨️ "${item.snippet}..."\n`;
       });
       return reply;
@@ -116,7 +116,7 @@ const Chat = ({ spots }) => {
     // --- ADDED FALLBACK FOR SUBURB ONLY MATCHES ---
     // if a suburb was requested but no review text matched, just show everything in that suburb!
     if (matchedSuburb && filteredData.length > 0) {
-      let reply = `I found ${filteredData.length} study spots in ${matchedSuburb}:\n`;
+      let reply = `i found ${filteredData.length} study spots in ${matchedSuburb}:\n`;
       filteredData.slice(0, 3).forEach(spot => {
         const p = spot.properties;
         reply += `\n✧ ${p.name}\n✩ Rating: ${p.rating || 'N/A'} / 5\n`;

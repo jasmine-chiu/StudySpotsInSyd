@@ -43,6 +43,13 @@ const Dash = () => {
 						</h1>
 				</div>		
 				<div className="page-content">
+					<div className="dash-container">
+						<img
+							className="dash-img"
+							src={logo}
+							alt="logo"
+						/>
+					</div>
 						<div className="dash-page-txt">
 							<p><i>use this site to find your next spot to study at.</i></p>
 							<p><i>with an expansive range of cafés and libraries across sydney, find out what's open near you!</i></p>
