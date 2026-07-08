@@ -14,7 +14,7 @@ html, body {
 }
 
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 .page {
@@ -30,7 +30,6 @@ html, body {
   display: flex;
   flex-direction: column;
   flex: 1;
-  min-width: 757px;
 }
 
 html {
@@ -441,12 +440,13 @@ a {
 
 /* DASH */
 #dash-heading {
-  margin-top: 100px;
+  margin-top: 72px;
+  margin-bottom: 72px;
 }
 
 .dash-page-txt {
-  margin-top: 100px;
-  margin-bottom: 120px;
+  margin-top: 42px;
+  margin-bottom: 42px;
   text-align: center;
 }
 
@@ -470,6 +470,18 @@ a {
   border: none;
   width: 280px;
   background-color: #D94747;
+}
+
+.dash-container {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  justify-content: center;    
+}
+
+.dash-img {
+  width: 200px;
+  height: 200px;
 }
 
 /* MAP ! */
@@ -1001,7 +1013,10 @@ ul {
 
   page {
     height: 100%;
+    width: 100%;
+    min-width: none;
   }
+
   .nav-btn {
       width: 100px;
   }
@@ -1019,7 +1034,13 @@ ul {
     line-height: 27px;
     font-size: 27px;
     margin-top: 20px;
-    max-width: 100%;;
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    left: 0;
+    margin-left: 120px;
+    width: 100%;
+    /* width: 100%;; */
   }
 
   .page-subheading {
@@ -1117,24 +1138,28 @@ ul {
     z-index: 5;
   }
 
-  .map-container {
-    width: 50%;
-    min-width: 100px;
-    /* margin-right: 0; */
+  .page-heading {
+    display: flex;
+    width: 100%;
   }
-
+  
   .page-title {
     margin-bottom: 5px;
     display: flex;
+    width: 100%;
+    min-width: none;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     text-align: center;
-    min-width: 120px;
     padding-left: 0;
-    margin-left: -60px;
   }
 
+  .page-heading {
+    text-align: center;
+    margin-left: auto;
+  }
+  
   .chat-panel {
     position: absolute;
     top: 87px;
@@ -1149,5 +1174,47 @@ ul {
     flex-direction: column;
     overflow: hidden;
     border: 1px solid #7775C5;
+  }
+  
+  #dash-heading {
+    margin-top: 42px;
+    margin-bottom: 22px;
+  }
+  
+  .dash-page-txt {
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+  
+  .total-content {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .left {
+    width: 75%;
+  }
+  
+  
+  .map-container {
+    max-width: 75%;
+    min-width: 100px;
+  }
+  
+  .map-btn-container {
+    position: fixed;
+    bottom: 40px;
+    top: none;
+    left: none;
+    right: 25px;
+  }
+
+  .key-container {
+    z-index: 1;
+  }
+
+  .search-suggestions, #key-search {
+    z-index: 20;
   }
 }
